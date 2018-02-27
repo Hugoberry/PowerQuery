@@ -10,7 +10,7 @@ List.Transformation functions
 # Examples 
 Zips the two simple lists {1, 2} and {3, 4}.
 ```
-List.Zip({{1, 2}, {3, 4}})
+List.Zip({ {1, 2}, {3, 4} })
 ```
 > {
     { 1, 3 },
@@ -19,7 +19,7 @@ List.Zip({{1, 2}, {3, 4}})
 ***
 Zips the two simple lists of different lengths {1, 2} and {3}.
 ```
-List.Zip({{1, 2}, {3}})
+List.Zip({ {1, 2}, {3} })
 ```
 > {
     { 1, 3 },

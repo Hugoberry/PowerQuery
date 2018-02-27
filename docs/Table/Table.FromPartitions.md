@@ -25,11 +25,11 @@ Table.FromPartitions(
                                 {
                                     {
                                         1,
-                                        #table({"Foo"},{{"Bar"}})
+                                        #table({"Foo"},{ {"Bar"} })
                                     },
                                     {
                                         2,
-                                        #table({"Foo"},{{"Bar"}})
+                                        #table({"Foo"},{ {"Bar"} })
                                     }
                                 }
                             )
@@ -41,11 +41,11 @@ Table.FromPartitions(
                                 {
                                     {
                                         3,
-                                        #table({"Foo"},{{"Bar"}})
+                                        #table({"Foo"},{ {"Bar"} })
                                     },
                                     {
                                         4,
-                                        #table({"Foo"},{{"Bar"}})
+                                        #table({"Foo"},{ {"Bar"} })
                                     }
                                 }
                             )
