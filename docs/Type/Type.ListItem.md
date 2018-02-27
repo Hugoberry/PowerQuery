@@ -1,0 +1,16 @@
+﻿# Type.ListItem
+Returns an item type from a list type.
+***
+function (type as type) as type
+***
+# Descrition 
+Returns an item type from a list <code>type</code>.
+# Category 
+Type
+# Examples 
+Find item type from the list <code>{number}</code>.
+```
+Type.ListItem(type {number})
+```
+> type number 
+***

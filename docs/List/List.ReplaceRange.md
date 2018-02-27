@@ -1,0 +1,16 @@
+﻿# List.ReplaceRange
+Replaces count number of values starting at position with the replacement values.
+***
+function (list as list, index as number, count as number, replaceWith as list) as list
+***
+# Descrition 
+Replaces <code>count</code> values in the <code>list</code> with the list <code>replaceWith</code>, starting at specified position, <code>index</code>.
+# Category 
+List.Transformation functions
+# Examples 
+Replace {7, 8, 9} in the list {1, 2, 7, 8, 9, 5} with {3, 4}.
+```
+List.ReplaceRange({1, 2, 7, 8, 9, 5}, 2, 3, {3, 4})
+```
+> {1, 2, 3, 4, 5}
+***
