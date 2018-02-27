@@ -10,7 +10,7 @@ List.Transformation functions
 # Examples 
 Combine the two simple lists {1, 2} and {3, 4}.
 ```
-List.Combine({{1, 2}, {3, 4}})
+List.Combine({ {1, 2}, {3, 4} })
 ```
 > {
     1,
