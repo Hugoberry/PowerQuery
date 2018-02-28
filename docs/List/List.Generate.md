@@ -1,7 +1,7 @@
 ﻿# List.Generate
 Generates a list given an initial value function, a condition function, a next function, and an optional transformation function on the values.
 
-_function (initial as function, condition as function, next as function, optional selector as nullable function) as list_
+> _function (initial as function, condition as function, next as function, optional selector as nullable function) as list_
 
 # Descrition 
 Generates a list of values given four functions that generate the initial value <code>initial</code>, test against a condition <code>condition</code>, and if successful select the result and generate the next value <code>next</code>.
