@@ -10,6 +10,7 @@ Returns a <code>date</code> value from the given <code>value</code>. If the give
         <li><code>number</code>: The date component of the datetime equivalent the OLE Automation Date expressed by <code>value</code>.</li>
       </ul>
 If <code>value</code> is of any other type, an error is returned.
+
 # Category 
 Date
 # Examples 

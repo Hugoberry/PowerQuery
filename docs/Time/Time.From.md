@@ -10,6 +10,7 @@ Returns a <code>time</code> value from the given <code>value</code>. If the give
         <li><code>number</code>: A <code>time</code> equivalent to the number of fractional days expressed by <code>value</code>. If <code>value</code> is negative or greater or equal to 1, an error is returned.</li>
       </ul>
 If <code>value</code> is of any other type, an error is returned.
+
 # Category 
 Time
 # Examples 

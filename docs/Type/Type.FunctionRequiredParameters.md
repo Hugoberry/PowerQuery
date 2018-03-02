@@ -3,6 +3,7 @@ Returns a number indicating the minimum number of parameters required to invoke 
 > _function (<code>type</code> as type) as number_
 # Description 
 Returns a number indicating the minimum number of parameters required to invoke the input <code>type</code> of function.
+
 # Category 
 Type
 # Examples 

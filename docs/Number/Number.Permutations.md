@@ -3,6 +3,7 @@ Returns the number of permutations.
 > _function (optional <code>setSize</code> as nullable any, optional <code>permutationSize</code> as nullable any) as nullable any_
 # Description 
 Returns the number of permutations that can be generated from a number of items, <code>setSize</code>,  with a specified permutation size, <code>permutationSize</code>.
+
 # Category 
 Number.Operations
 # Examples 

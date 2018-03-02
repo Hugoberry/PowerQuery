@@ -3,6 +3,7 @@ Returns a list of values that match the condition.
 > _function (<code>list</code> as list, <code>selection</code> as function) as list_
 # Description 
 Returns a list of values from the list <code>list</code>, that match the selection condition <code>selection</code>.
+
 # Category 
 List.Selection
 # Examples 

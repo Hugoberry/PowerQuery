@@ -4,6 +4,7 @@ Applies type transformation(s) of the form { column, type } using a specific cul
 # Description 
 Returns a table from the input <code>table</code> by applying the transform operation to the columns specified in the parameter <code>typeTransformations</code> (where format is { column name, type name}), using the specified culture in the parameter <code>culture</code>.
     If the column doesn't exist, an exception is thrown.
+
 # Category 
 Table.Transformation
 # Examples 

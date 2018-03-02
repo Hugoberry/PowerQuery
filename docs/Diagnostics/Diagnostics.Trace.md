@@ -9,6 +9,7 @@ Writes a trace <code>message</code>, if tracing is enabled, and returns <code>va
     <code>TraceLevel.Information</code>,
     <code>TraceLevel.Verbose</code>.
   
+
 # Category 
 Diagnostics
 # Examples 

@@ -3,6 +3,7 @@ Splits the specified columns into a set of additional columns using the specifie
 > _function (<code>table</code> as table, <code>sourceColumn</code> as text, <code>splitter</code> as function, optional <code>columnNamesOrNumber</code> as nullable any, optional <code>default</code> as nullable any, optional <code>extraColumns</code> as nullable any) as table_
 # Description 
 Splits the specified columns into a set of additional columns using the specified splitter function.
+
 # Category 
 Table.Transformation
 # Examples 

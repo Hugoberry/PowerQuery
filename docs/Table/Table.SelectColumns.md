@@ -9,6 +9,7 @@ Returns the <code>table</code> with only the specified <code>columns</code>.
        <li><code>missingField</code>: <i>(Optional)</i> What to do if the columnn does not exist.  Example: <code>MissingField.UseNull</code> or <code>MissingField.Ignore</code>.
     </ul>
     
+
 # Category 
 Table.Column operations
 # Examples 

@@ -8,6 +8,7 @@ Returns a <code>logical</code> value from the given <code>value</code>. If the g
         <li><code>number</code>: <code>false</code> if <code>value</code> equals <code>0</code>, <code>true</code> otherwise.</li>
       </ul>
 If <code>value</code> is of any other type, an error is returned.
+
 # Category 
 Logical
 # Examples 

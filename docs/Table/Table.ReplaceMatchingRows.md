@@ -4,6 +4,7 @@ Replaces all the specified rows with the provided row(s).
 # Description 
 Replaces all the specified rows in the <code>table</code> with the provided ones. The rows to replace and the replacements are specified in <code>replacements</code>, using {old, new} formatting. 
     An optional <code>equationCriteria</code> parameter may be specified to control comparison between the rows of the table.
+
 # Category 
 Table.Membership
 # Examples 

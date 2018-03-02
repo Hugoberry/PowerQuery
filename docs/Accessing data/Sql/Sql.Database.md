@@ -17,5 +17,6 @@ Returns a table of SQL tables, views, and stored functions from the SQL Server d
 
     The record parameter is specified as [option1 = value1, option2 = value2...] or [Query = "select ..."] for example.
     
+
 # Category 
 Accessing data

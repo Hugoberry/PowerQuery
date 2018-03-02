@@ -8,6 +8,7 @@ Returns the remainder resulting from the integer division of <code>number</code>
         <li><code>number</code>: The dividend.</li>        
         <li><code>divisor</code>: The divisor.</li>        
       </ul>
+
 # Category 
 Number.Operations
 # Examples 

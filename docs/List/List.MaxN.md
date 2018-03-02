@@ -9,5 +9,6 @@ Returns the maximum value(s) in the list, <code>list</code>.
         <li> <code>countOrCondition</code>:  If a number is specified, a list of up to <code>countOrCondition</code> items in ascending order is returned. If a condition is specified, a list of items that initially meet the condition is returned. Once an item fails the condition, no further items are considered.</li>
 <li><code>comparisonCriteria</code>: <i>[Opional]</i> An optional <code>comparisonCriteria</code> value, may be specified to determine how to compare the items in the list. If this parameter is null, the default comparer is used. 
  </ul>
+
 # Category 
 List.Ordering

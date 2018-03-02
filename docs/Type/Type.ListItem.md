@@ -3,6 +3,7 @@ Returns an item type from a list type.
 > _function (<code>type</code> as type) as type_
 # Description 
 Returns an item type from a list <code>type</code>.
+
 # Category 
 Type
 # Examples 

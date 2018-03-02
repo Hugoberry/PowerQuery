@@ -3,6 +3,7 @@ Returns the first row or a specified default value.
 > _function (<code>table</code> as table, optional <code>default</code> as nullable any) as nullable any_
 # Description 
 Returns the first row of the <code>table</code> or an optional default value, <code>default</code>, if the table is empty.
+
 # Category 
 Table.Row operations
 # Examples 

@@ -4,6 +4,7 @@ Returns the difference of the two given lists.
 # Description 
 Returns the items in list <code>list1</code> that do not appear in list <code>list2</code>. Duplicate values are supported. 
     An optional equation criteria value, <code>equationCriteria</code>, can be specified to control equality testing. 
+
 # Category 
 List.Set operations
 # Examples 

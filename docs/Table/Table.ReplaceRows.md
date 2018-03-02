@@ -10,6 +10,7 @@ Replaces a specified number of rows, <code>count</code>, in the input <code>tabl
        <li><code>rows</code>: The list of row records to insert into the <code>table</code> at the location specified by the <code>offset</code>.</li>
     </ul>
 
+
 # Category 
 Table.Row operations
 # Examples 

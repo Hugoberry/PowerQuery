@@ -4,6 +4,7 @@ Returns a textual representation of the Date value.
 # Description 
 Returns a textual representation of <code>date</code>, the Date value, <code>date</code>. 
     This function takes in an optional format parameter <code>format</code>. For a complete list of supported formats, please refer to the Library specification document.
+
 # Category 
 Date
 # Examples 

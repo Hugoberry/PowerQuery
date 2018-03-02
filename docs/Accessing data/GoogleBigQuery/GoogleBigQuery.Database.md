@@ -10,5 +10,6 @@ Returns a table listing the available projects in Google BigQuery. An optional r
       </ul>
     The record parameter is specified as [option1 = value1, option2 = value2...].
     
+
 # Category 
 Accessing data

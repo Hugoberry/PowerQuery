@@ -18,6 +18,7 @@ Transforms column names by using the given <code>nameGenerator</code> function. 
       <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
     </ul>
     
+
 # Category 
 Table.Column operations
 # Examples 

@@ -3,6 +3,7 @@ Translates a set of columns in a table into attribute-value pairs.
 > _function (<code>table</code> as table, <code>pivotColumns</code> as list, <code>attributeColumn</code> as text, <code>valueColumn</code> as text) as table_
 # Description 
 Translates a set of columns in a table into attribute-value pairs, combined with the rest of the values in each row.
+
 # Category 
 Table.Column operations
 # Examples 

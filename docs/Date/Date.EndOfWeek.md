@@ -8,6 +8,7 @@ This function takes an optional <code>Day</code>, <code>firstDayOfWeek</code>, t
         <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value from which the last day of the week is calculated</li>       
         <li><code>firstDayOfWeek</code>: <i>[Optional]</i> A <code>Day.Type</code> value representing the first day of the week. Possible values are <code>Day.Sunday</code>, <code>Day.Monday</code>, <code>Day.Tuesday</code>, <code>Day.Wednesday</code>, <code>Day.Thursday</code>, <code>Day.Friday</code> and <code>Day.Saturday.</code> . The default value is <code>Day.Sunday</code>.</li>       
       </ul>
+
 # Category 
 Date
 # Examples 

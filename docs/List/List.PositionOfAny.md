@@ -7,6 +7,7 @@ Returns the offset in list <code>list</code> of the first occurrence of a value 
 <ul>
    <li><code>occurrence</code>: The maximum number of occurrences that can be returned.</li>
 </ul>
+
 # Category 
 List.Membership functions
 # Examples 

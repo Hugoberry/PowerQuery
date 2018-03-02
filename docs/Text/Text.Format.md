@@ -3,6 +3,7 @@ Returns formatted text from a format string and arguments.
 > _function (<code>formatString</code> as text, optional <code>arguments</code> as nullable any, optional <code>culture</code> as nullable any) as text_
 # Description 
 Returns formatted text that is created by applying <code>arguments</code> from a list or record to a format string <code>formatString</code>. Optionally, a culture may be specified.
+
 # Category 
 Text.Conversions from and to text
 # Examples 

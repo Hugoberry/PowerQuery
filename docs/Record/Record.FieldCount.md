@@ -3,6 +3,7 @@ Returns the number of fields in the record.
 > _function (<code>record</code> as record) as number_
 # Description 
 Returns the number of fields in the record <code>record</code>.
+
 # Category 
 Record.Information
 # Examples 

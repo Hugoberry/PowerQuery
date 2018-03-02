@@ -17,5 +17,6 @@ Returns a table of SQL tables and views available in a DB2 database on server <c
 
     The record parameter is specified as [option1 = value1, option2 = value2...] or [Query = "select ..."] for example.
     
+
 # Category 
 Accessing data

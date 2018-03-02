@@ -14,6 +14,7 @@ Returns a <code>logical</code> value based on the equality check over the two gi
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
         <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
       </ul>
+
 # Category 
 Comparer
 # Examples 

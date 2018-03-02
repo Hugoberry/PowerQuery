@@ -6,6 +6,7 @@ Returns the result of rounding <code>number</code> down to the previous highest 
     
     If <code>digits</code> is specified, <code>number</code> is rounded to the <code>digits</code> number of decimal digits.
   
+
 # Category 
 Number.Rounding
 # Examples 

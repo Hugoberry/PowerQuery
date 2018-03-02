@@ -14,5 +14,6 @@ Returns a table of SQL tables and views from the Teradata database on server <co
 
     The record parameter is specified as [option1 = value1, option2 = value2...] or [Query = "select ..."] for example.
     
+
 # Category 
 Accessing data

@@ -3,6 +3,7 @@ Returns the current date and time in UTC (the GMT timezone).
 > _function () as datetimezone_
 # Description 
 Returns the current date and time in UTC (the GMT timezone).
+
 # Category 
 DateTimeZone
 # Examples 

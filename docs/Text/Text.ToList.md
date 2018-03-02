@@ -3,6 +3,7 @@ Returns a list of character values from the given text value.
 > _function (<code>text</code> as text) as list_
 # Description 
 Returns a list of character values from the given text value <code>text</code>.
+
 # Category 
 Text.Conversions from and to text
 # Examples 

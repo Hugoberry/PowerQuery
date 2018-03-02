@@ -8,6 +8,7 @@ Returns a list comprised of all the odd numbered offset elements in a list. Alte
     <li><code>repeatInterval</code>: An optional repeat interval to indicate how many values are added in between the skipped values.</li>
     <li><code>offset</code>: An option offset parameter to begin skipping the values at the initial offset.</li>
     </ul>
+
 # Category 
 List.Selection
 # Examples 

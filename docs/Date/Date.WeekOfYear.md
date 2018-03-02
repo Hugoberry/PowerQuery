@@ -6,6 +6,7 @@ Returns a number from 1 to 54 indicating which week of the year the date, <code>
  <ul>
         <li><code>dateTime</code>: A <code>datetime</code> value for which the week-of-the-year is determined.</li>        
       </ul>
+
 # Category 
 Date
 # Examples 

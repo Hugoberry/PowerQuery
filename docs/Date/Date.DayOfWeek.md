@@ -9,6 +9,7 @@ Valid values are: Day.Sunday, Day.Monday, Day.Tuesday, Day.Wednesday, Day.Thursd
         <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value from which the day of the week is determined.</li>        
         <li><code>firstDayOfWeek</code>: A <code>Day</code> type representing the first day of the week for this calculation.</li>        
       </ul>
+
 # Category 
 Date
 # Examples 

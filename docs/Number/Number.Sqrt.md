@@ -4,6 +4,7 @@ Returns the square root of the number.
 # Description 
 Returns the square root of <code>number</code>. 
     If <code>number</code> is null, <code>Number.Sqrt</code> returns null. If it is a negative value, <code>Number.NaN</code> is returned (Not a number).
+
 # Category 
 Number.Operations
 # Examples 

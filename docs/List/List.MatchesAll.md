@@ -3,6 +3,7 @@ Returns true if the condition function is satisfied by all values in the list.
 > _function (<code>list</code> as list, <code>condition</code> as function) as logical_
 # Description 
 Returns <code>true</code> if the condition function, <code>condition</code>, is satisfied by all values in the list <code>list</code>, otherwise returns <code>false</code>.
+
 # Category 
 List.Selection
 # Examples 

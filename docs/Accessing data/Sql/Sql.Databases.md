@@ -18,5 +18,6 @@ Returns a table of databases on the specified SQL server, <code>server</code>. A
     <br>
     Does not support setting a SQL query to run on the server. <code>Sql.Database</code> should be used instead to run a SQL query.
     
+
 # Category 
 Accessing data

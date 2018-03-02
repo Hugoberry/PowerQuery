@@ -6,6 +6,7 @@ Returns the absolute value of <code>number</code>. If <code>number</code> is nul
     <ul>
         <li><code>number</code>: A <code>number</code> for which the absolute value is to be calculated.</li>        
       </ul>
+
 # Category 
 Number.Operations
 # Examples 

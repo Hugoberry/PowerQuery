@@ -15,6 +15,7 @@ Joins the rows from the two tables that match based on the given keys.
 
 </p>
 <p>An optional set of <code>keyEqualityComparers</code> may be included to specify how to compare the key columns.</p>
+
 # Category 
 Table.Transformation
 # Examples 

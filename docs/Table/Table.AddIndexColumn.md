@@ -4,6 +4,7 @@ Appends a column with explicit position values.
 # Description 
 Appends a column named <code>newColumnName</code> to the <code>table</code> with explicit position values.
     An optional value, <code>initialValue</code>, the initial index value. An optional value, <code>increment</code>, specifies how much to increment each index value.
+
 # Category 
 Table.Transformation
 # Examples 

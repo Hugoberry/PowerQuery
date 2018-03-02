@@ -3,6 +3,7 @@ Provide advanced query functions.
 > _function (<code>enrollmentNumber</code> as any, optional <code>parameters</code> as nullable record) as table_
 # Description 
 Provide advanced query functions.
+
 # Category 
 Accessing data
 # Examples 

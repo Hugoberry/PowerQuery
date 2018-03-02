@@ -13,5 +13,6 @@ Returns databases on an Analysis Services instance, <code>server</code>.  An opt
 </ul>
 
     
+
 # Category 
 Accessing data

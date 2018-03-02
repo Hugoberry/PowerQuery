@@ -3,6 +3,7 @@ Adds a field to a record.
 > _function (<code>record</code> as record, <code>fieldName</code> as text, optional <code>value</code> as nullable any, optional <code>delayed</code> as nullable any) as record_
 # Description 
 Adds a field to a record <code>record</code>, given the name of the field <code>fieldName</code> and the value <code>value</code>.
+
 # Category 
 Record.Transformations
 # Examples 

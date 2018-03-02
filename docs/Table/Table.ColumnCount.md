@@ -3,6 +3,7 @@ Returns the number of columns in the table.
 > _function (<code>table</code> as table) as number_
 # Description 
 Returns the number of columns in the table <code>table</code>.
+
 # Category 
 Table.Information
 # Examples 

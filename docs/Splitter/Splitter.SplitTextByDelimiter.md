@@ -3,5 +3,6 @@ Returns a function that splits text into a list of text according to the specifi
 > _function (<code>delimiter</code> as text, optional <code>quoteStyle</code> as nullable any) as function_
 # Description 
 Returns a function that splits text into a list of text according to the specified delimiter.
+
 # Category 
 Splitter

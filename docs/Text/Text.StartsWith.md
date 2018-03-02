@@ -19,6 +19,7 @@ Returns true if text value <code>text</code> starts with text value <code>substr
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
         <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
       </ul>
+
 # Category 
 Text.Membership
 # Examples 

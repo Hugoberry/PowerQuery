@@ -11,6 +11,7 @@ Returns a <code>datetimezone</code> value from the given <code>value</code>. If 
         <li><code>number</code>: A <code>datetimezone</code> with the datetime equivalent the OLE Automation Date expressed by <code>value</code> and the offset corresponding the local time zone.</li>
       </ul>
 If <code>value</code> is of any other type, an error is returned.
+
 # Category 
 DateTimeZone
 # Examples 

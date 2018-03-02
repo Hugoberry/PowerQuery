@@ -4,6 +4,7 @@ Concatenates a list of text values into one text value.
 # Description 
 Returns the result of combining the list of text values, <code>texts</code>, into a single text value. 
 An optional separator used in the final combined text may be specified, <code>separator</code>.
+
 # Category 
 Text.Transformations
 # Examples 

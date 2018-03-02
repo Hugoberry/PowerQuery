@@ -4,6 +4,7 @@ Removes duplicate rows from the table.
 # Description 
 Removes duplicate rows from the table <code>table</code>. 
     An optional parameter, <code>equationCriteria</code>, specifies which columns of the table are tested for duplication. If <code>equationCriteria</code> is not specified, all columns are tested.
+
 # Category 
 Table.Membership
 # Examples 

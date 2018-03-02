@@ -6,6 +6,7 @@ Returns the number of days in the month in the <code>date</code>, <code>datetime
  <ul>
         <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value for which the number of days in the month is returned.</li>        
       </ul>
+
 # Category 
 Date
 # Examples 

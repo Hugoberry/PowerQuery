@@ -3,6 +3,7 @@ Returns a number from 1 to 366 representing the day of the year.
 > _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns a number representing the day of the year in the provided <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value, <code>dateTime</code>.
+
 # Category 
 Date
 # Examples 

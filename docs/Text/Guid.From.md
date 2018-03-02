@@ -3,6 +3,7 @@ Returns a guid value from the given value.
 > _function (optional <code>value</code> as nullable any) as nullable any_
 # Description 
 Returns a <code>Guid.Type</code> value from the given <code>value</code>. If the given <code>value</code> is <code>null</code>, <code>Guid.From</code> returns <code>null</code>.  A check will be performed to see if the given <code>value</code> is in an acceptable format. Acceptable formats provided in the examples.
+
 # Category 
 Text.Conversions from and to text
 # Examples 

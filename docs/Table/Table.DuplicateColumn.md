@@ -3,6 +3,7 @@ Duplicates a column with the specified name. Values and type are copied from the
 > _function (<code>table</code> as table, <code>columnName</code> as text, <code>newColumnName</code> as text, optional <code>columnType</code> as nullable any) as table_
 # Description 
 Duplicate the column named <code>columnName</code> to the table <code>table</code>. The values and type for the column <code>newColumnName</code> are copied from coulmn <code>columnName</code>.
+
 # Category 
 Table.Column operations
 # Examples 

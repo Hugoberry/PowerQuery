@@ -3,6 +3,7 @@ Returns the column names as a list.
 > _function (<code>table</code> as table) as list_
 # Description 
 Returns the column names in the table <code>table</code> as a list of text.
+
 # Category 
 Table.Column operations
 # Examples 

@@ -6,6 +6,7 @@ Returns a record containing the parts of the given date value, <code>date</code>
  <ul>
         <li><code>date</code>: A <code>date</code> value for from which the record of its parts is to be calculated.</li>    
       </ul>
+
 # Category 
 Date
 # Examples 

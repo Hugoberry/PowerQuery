@@ -13,6 +13,7 @@ Returns a <code>number</code> value from the given <code>value</code>. If the gi
         <li><code>duration</code>: Expressed in whole and fractional days.</li>  
       </ul>
 If <code>value</code> is of any other type, an error is returned.
+
 # Category 
 Number.Conversion and formatting
 # Examples 

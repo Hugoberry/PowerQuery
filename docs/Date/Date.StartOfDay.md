@@ -4,6 +4,7 @@ Returns the first value of the day.
 # Description 
 Returns the first value of the day <code>dateTime</code>.  
     <code>dateTime</code> must be a <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value.
+
 # Category 
 Date
 # Examples 

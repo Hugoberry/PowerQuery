@@ -3,6 +3,7 @@ Converts a list of records into a table.
 > _function (<code>records</code> as list, optional <code>columns</code> as nullable any) as table_
 # Description 
 Converts <code>records</code>, a list of records, into a table.
+
 # Category 
 Table.Table construction
 # Examples 

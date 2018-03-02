@@ -6,6 +6,7 @@ Returns the portion of <code>text</code> between the specified <code>startDelimi
     An optional numeric <code>startIndex</code> indicates which occurrence of the <code>startDelimiter</code> should be considered.
     An optional list <code>startIndex</code> indicates which occurrence of the <code>startDelimiter</code> should be considered, as well as whether indexing should be done from the start or end of the input.
     The <code>endIndex</code> is similar, except that indexing is done relative to the <code>startIndex</code>.
+
 # Category 
 Text.Transformations
 # Examples 

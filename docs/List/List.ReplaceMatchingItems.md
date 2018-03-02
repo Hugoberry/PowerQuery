@@ -4,6 +4,7 @@ Applies each replacement of { old, new }.
 # Description 
 Performs the given replacements to the list <code>list</code>. A replacement operation <code>replacements</code> consists of a list of two values, the old value and new value, provided in a list.
     An optional equation criteria value, <code>equationCriteria</code>, can be specified to control equality testing.
+
 # Category 
 List.Transformation functions
 # Examples 

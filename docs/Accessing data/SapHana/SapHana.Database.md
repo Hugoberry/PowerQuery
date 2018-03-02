@@ -10,5 +10,6 @@ Returns a table of multidimensional packages from the SAP HANA database <code>se
 </ul>
 
     
+
 # Category 
 Accessing data

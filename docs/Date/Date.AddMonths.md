@@ -7,6 +7,7 @@ Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</cod
         <li><code>dateTime</code>: The <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to which months are being added.</li>
         <li><code>numberOfMonths</code>: The number of months to add.</li>        
       </ul>
+
 # Category 
 Date
 # Examples 

@@ -3,6 +3,7 @@ Returns a list with the names of the columns that match the specified types.
 > _function (<code>table</code> as table, <code>listOfTypes</code> as list) as list_
 # Description 
 Returns a list with the names of the columns from table <code>table</code> that match the types specified in <code>listOfTypes</code>.
+
 # Category 
 Table.Column operations
 # Examples 

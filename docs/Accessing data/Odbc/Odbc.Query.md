@@ -9,5 +9,6 @@ Returns the result of running <code>query</code> with the connection string <cod
 <li><code>SqlCompatibleWindowsAuth</code> : A logical (true/false) that determines whether to produce SQL Server-compatible connection string options for Windows authentication. The default value is true.</li>
 </ul>
 
+
 # Category 
 Accessing data

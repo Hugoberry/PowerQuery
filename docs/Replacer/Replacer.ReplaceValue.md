@@ -3,6 +3,7 @@ Replaces values within the provided input.
 > _function (optional <code>value</code> as nullable any, optional <code>old</code> as nullable any, optional <code>new</code> as nullable any) as nullable any_
 # Description 
 Replaces the <code>old</code> value in the original <code>value</code> with the <code>new</code> value. This replacer function can be used in <code>List.ReplaceValue</code> and <code>Table.ReplaceValue</code>.
+
 # Category 
 Replacer
 # Examples 

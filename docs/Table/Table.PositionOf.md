@@ -10,6 +10,7 @@ Returns the row position of the first occurrence of the <code>row</code> in the 
        <li><code>equationCriteria</code>: <i>[Optional]</i> Controls the comparison between the table rows.</li>
     </ul>
     
+
 # Category 
 Table.Membership
 # Examples 

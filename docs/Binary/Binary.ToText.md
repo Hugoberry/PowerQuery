@@ -8,5 +8,6 @@ Returns the result of converting a binary list of numbers <code>binary</code> in
         <li><code>BinaryEncoding.Base64</code>: Base 64 encoding</li>
         <li><code>BinaryEncoding.Hex</code>: Hex encoding</li>        
       </ul>
+
 # Category 
 Binary

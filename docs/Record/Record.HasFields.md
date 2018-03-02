@@ -4,6 +4,7 @@ Indicates whether the record has the specified fields.
 # Description 
 Indicates whether the record <code>record</code> has the fields specified in <code>fields</code>, by returning a logical value (true or false).
     Multiple field values can be specified using a list.
+
 # Category 
 Record.Information
 # Examples 

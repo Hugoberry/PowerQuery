@@ -9,6 +9,7 @@ Returns a table that does not contain the first specified number of rows, <code>
     <li> If <code>countOrCondition</code> is a number, that many rows (starting at the top) will be skipped. </li>
     <li> If <code>countOrCondition</code> is a condition, the rows that meet the condition will be skipped until a row does not meet the condition.</li>
     </ul>
+
 # Category 
 Table.Row operations
 # Examples 

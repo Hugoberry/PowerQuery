@@ -3,6 +3,7 @@ Returns a list of lists by combining items at the same position in multiple list
 > _function (<code>lists</code> as list) as list_
 # Description 
 Takes a list of lists, <code>lists</code>, and returns a list of lists combining items at the same position.
+
 # Category 
 List.Transformation functions
 # Examples 

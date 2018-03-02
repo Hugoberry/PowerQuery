@@ -6,6 +6,7 @@ Creates a <code>datetime</code> value from a textual representation, <code>text<
   <ul>
    <li> <code>DateTime.FromText("2010-12-31T01:30:00") </code> // yyyy-MM-ddThh:mm:ss </li>
   </ul>
+
 # Category 
 DateTime
 # Examples 

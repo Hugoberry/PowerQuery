@@ -7,6 +7,7 @@ Indicates whether the given datetime value <code>dateTime</code> occurs during t
       <li><code>dateTime</code>: A <code>datetime</code>, or <code>datetimezone</code> value to be evaluated.</li>
       <li><code>seconds</code>: The number of seconds.</li>
       </ul>
+
 # Category 
 DateTime
 # Examples 

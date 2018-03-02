@@ -10,6 +10,7 @@ Returns the contents of the CSV document as a table.
      <li> <code>encoding</code> specifies the text encoding type.</li>
     </ul>
     
+
 # Category 
 Accessing data
 # Examples 

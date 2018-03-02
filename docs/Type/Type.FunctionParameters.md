@@ -3,6 +3,7 @@ Returns a record with field values set to the name of the parameters of a functi
 > _function (<code>type</code> as type) as record_
 # Description 
 Returns a record with field values set to the name of the parameters of <code>type</code>, and their values set to their corresponding types.
+
 # Category 
 Type
 # Examples 

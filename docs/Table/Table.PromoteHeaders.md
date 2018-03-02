@@ -11,6 +11,7 @@ Promotes the first row of values as the new column headers (i.e. column names). 
     <code>Culture</code> : A culture name specifying the culture for the data.
     </div>
   
+
 # Category 
 Table.Column operations
 # Examples 

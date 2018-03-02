@@ -3,6 +3,7 @@ Returns a table of sheets, reports, folders, and workspaces from the Smartsheet 
 > _function () as table_
 # Description 
 Returns a nested table of available sheets, reports, folders, and workspaces from the Smartsheet API.
+
 # Category 
 Accessing data
 # Examples 

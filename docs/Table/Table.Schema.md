@@ -74,5 +74,6 @@ Returns a table containing a description of the columns (i.e. the schema) of the
     <td>The description of the column.</td>
   </tr>
 </table></p>
+
 # Category 
 Table.Information

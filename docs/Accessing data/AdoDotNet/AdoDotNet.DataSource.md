@@ -8,5 +8,6 @@ Returns the schema collection for the ADO.NET data source with provider name <co
 <li><code>SqlCompatibleWindowsAuth</code> : A logical (true/false) that determines whether to produce SQL Server-compatible connection string options for Windows authentication. The default value is true.</li>
 </ul>
 
+
 # Category 
 Accessing data

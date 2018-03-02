@@ -11,6 +11,7 @@ Partitions the <code>table</code> into a list of <code>groups</code> number of t
        <li><code>hash</code>: The function applied to obtain a hash value.</li>
     </ul>
   
+
 # Category 
 Table.Row operations
 # Examples 

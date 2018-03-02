@@ -7,6 +7,7 @@ Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</cod
       <li><code>dateTime</code>: The <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to which weeks are being added.</li>
       <li><code>numberOfWeeks</code>: The number of weeks to add.</li>
       </ul>
+
 # Category 
 Date
 # Examples 

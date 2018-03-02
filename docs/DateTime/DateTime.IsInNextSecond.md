@@ -6,6 +6,7 @@ Indicates whether the given datetime value <code>dateTime</code> occurs during t
       <ul>
       <li><code>dateTime</code>: A <code>datetime</code>, or <code>datetimezone</code> value to be evaluated.</li>
       </ul>
+
 # Category 
 DateTime
 # Examples 

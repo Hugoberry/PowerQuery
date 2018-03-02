@@ -8,5 +8,6 @@ Evaluates a query against a target.
 <p><code>query</code> describes the query to be executed against <code>target</code>. <code>query</code> is expressed in a manner specific to <code>target</code> (e.g. a T-SQL statement).</p>
 <p>The optional <code>parameters</code> value may contain either a list or record as appropriate to supply the parameter values expected by <code>query</code>.</p>
 <p>The optional <code>options</code> record may contain options that affect the evaluation behavior of <code>query</code> against <code>target</code>. These options are specific to <code>target</code>.</p>
+
 # Category 
 Values

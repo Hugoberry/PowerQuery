@@ -17,5 +17,6 @@ Returns a table of SQL tables, views, and stored scalar functions available in a
 
     The record parameter is specified as [option1 = value1, option2 = value2...] or [Query = "select ..."] for example.
     
+
 # Category 
 Accessing data

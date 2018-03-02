@@ -3,6 +3,7 @@ Removes all "null" values from the specified list.
 > _function (<code>list</code> as list) as list_
 # Description 
 Removes all occurrences of "null" values in the <code>list</code>. If there are no 'null' values in the list, the original list is returned.
+
 # Category 
 List.Transformation functions
 # Examples 

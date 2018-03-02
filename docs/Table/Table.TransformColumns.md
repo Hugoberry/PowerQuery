@@ -4,6 +4,7 @@ Applies transformation(s) of the form { column, transform }.
 # Description 
 Returns a table from the input <code>table</code> by applying the transform operation to the column specified in the parameter <code>transformOperations</code> (where format is { column name, transformation }).
     If the column doesn't exist, an exception is thrown unless the optional parameter <code>defaultTransformation</code> specifies an alternative (eg. <code>MissingField.UseNull</code> or <code>MissingField.Ignore</code>).
+
 # Category 
 Table.Transformation
 # Examples 

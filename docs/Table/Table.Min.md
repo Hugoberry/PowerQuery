@@ -3,6 +3,7 @@ Returns the smallest row or a default value using the given criteria.
 > _function (<code>table</code> as table, optional <code>comparisonCriteria</code> as nullable any, optional <code>default</code> as nullable any) as nullable any_
 # Description 
 Returns the smallest row in the <code>table</code>, given the <code>comparisonCriteria</code>. If the table is empty, the optional <code>default</code> value is returned.
+
 # Category 
 Table.Ordering
 # Examples 

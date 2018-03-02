@@ -3,6 +3,7 @@ Add a key to a table, specify the subset of the table’s column names that defi
 > _function (<code>table</code> as table, <code>columns</code> as list, <code>isPrimary</code> as logical) as table_
 # Description 
 Add a key to <code>table</code>, given <code>columns</code> is the subset of <code>table</code>'s column names that defines the key, and <code>isPrimary</code> specifies whether the key is primary.
+
 # Category 
 Table.Transformation
 # Examples 

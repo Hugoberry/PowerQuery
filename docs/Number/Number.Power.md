@@ -8,6 +8,7 @@ Returns the result of raising <code>number</code> to the power of <code>power</c
         <li><code>number</code>: The base.</li>        
         <li><code>power</code>: The exponent.</li>        
       </ul>
+
 # Category 
 Number.Operations
 # Examples 

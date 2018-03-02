@@ -3,6 +3,7 @@ Generates a list of datetime values given an initial value, count, and increment
 > _function (<code>start</code> as datetime, <code>count</code> as number, <code>step</code> as duration) as list_
 # Description 
 Returns a list of <code>datetime</code> values of size <code>count</code>, starting at <code>start</code>. The given increment, <code>step</code>, is a <code>duration</code> value that is added to every value.
+
 # Category 
 List.Generators
 # Examples 

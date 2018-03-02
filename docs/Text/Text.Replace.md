@@ -3,6 +3,7 @@ Replaces all occurrences of the given substring in the text.
 > _function (optional <code>text</code> as nullable any, <code>old</code> as text, <code>new</code> as text) as nullable any_
 # Description 
 Returns the result of replacing all occurrences of text value <code>old</code> in text value <code>text</code> with text value <code>new</code>. This function is case sensitive.
+
 # Category 
 Text.Modification
 # Examples 

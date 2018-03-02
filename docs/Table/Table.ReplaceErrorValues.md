@@ -3,6 +3,7 @@ Replaces the error values in the specified columns with the corresponding specif
 > _function (<code>table</code> as table, <code>errorReplacement</code> as list) as table_
 # Description 
 Replaces the error values in the specified columns of the <code>table</code> with the new values in the <code>errorReplacement</code> list. The format of the list is {{column1, value1}, …}. There may only be one replacement value per column, specifying the column more than once will result in an error.
+
 # Category 
 Table.Transformation
 # Examples 

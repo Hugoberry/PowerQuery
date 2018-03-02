@@ -3,6 +3,7 @@ Returns the first value of the month.
 > _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the first value of the month given a <code>date</code> or <code>datetime</code> type.
+
 # Category 
 Date
 # Examples 
