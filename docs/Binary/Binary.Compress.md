@@ -6,7 +6,7 @@ Compresses a binary value using the given compression type.  The result of this 
   <ul>
         <li><code>Compression.GZip</code></li>        
         <li><code>Compression.Deflate</code></li>  
-      </ul>
+  </ul>
 # Category 
 Binary
 # Examples 
