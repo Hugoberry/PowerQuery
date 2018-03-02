@@ -1,6 +1,6 @@
 ﻿# Expression.Identifier
 Expression.Identifier
-> _function (name as text) as text_
+> _function (<code>name</code> as text) as text_
 # Description 
 Expression.Identifier
 # Category 

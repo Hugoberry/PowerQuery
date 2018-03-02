@@ -1,6 +1,6 @@
 ﻿# Table.SelectColumns
 Returns a table with only the specified columns.
-> _function (table as table, optional columns as nullable any, optional missingField as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>columns</code> as nullable any, optional <code>missingField</code> as nullable any) as table_
 # Description 
 Returns the <code>table</code> with only the specified <code>columns</code>.
     <ul>

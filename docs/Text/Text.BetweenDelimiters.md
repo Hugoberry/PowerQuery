@@ -1,6 +1,6 @@
 ﻿# Text.BetweenDelimiters
 Text.BetweenDelimiters
-> _function (optional text as nullable any, startDelimiter as text, endDelimiter as text, optional startIndex as nullable any, optional endIndex as nullable any) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>startDelimiter</code> as text, <code>endDelimiter</code> as text, optional <code>startIndex</code> as nullable any, optional <code>endIndex</code> as nullable any) as nullable any_
 # Description 
 Returns the portion of <code>text</code> between the specified <code>startDelimiter</code> and <code>endDelimiter</code>.
     An optional numeric <code>startIndex</code> indicates which occurrence of the <code>startDelimiter</code> should be considered.

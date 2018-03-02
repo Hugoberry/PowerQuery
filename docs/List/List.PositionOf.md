@@ -1,6 +1,6 @@
 ﻿# List.PositionOf
 Returns the offset(s) of a value in a list.
-> _function (list as list, optional value as nullable any, optional occurrence as nullable any, optional equationCriteria as nullable any) as nullable any_
+> _function (<code>list</code> as list, optional <code>value</code> as nullable any, optional <code>occurrence</code> as nullable any, optional <code>equationCriteria</code> as nullable any) as nullable any_
 # Description 
 Returns the offset at which the value <code>value</code> appears in the list <code>list</code>. Returns -1 if the value doesn't appear. 
     An optional occurrence parameter <code>occurrence</code> can be specified.

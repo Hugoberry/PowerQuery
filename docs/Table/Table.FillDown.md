@@ -1,6 +1,6 @@
 ﻿# Table.FillDown
 Propagates the value of a previous cell to the null-valued cells below in the column.
-> _function (table as table, columns as list) as table_
+> _function (<code>table</code> as table, <code>columns</code> as list) as table_
 # Description 
 Returns a table from the <code>table</code> specified where the value of a previous cell is propagated to the null-valued cells below in the <code>columns</code> specified.
 # Category 

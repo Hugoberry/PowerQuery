@@ -1,6 +1,6 @@
 ﻿# AnalysisServices.Database
 Returns a table of multidimensional cubes or tabular models from the Analysis Services database.
-> _function (server as text, database as text, optional options as nullable record) as table_
+> _function (<code>server</code> as text, <code>database</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns a table of multidimensional cubes or tabular models from the Analysis Services database <code>database</code> on server <code>server</code>. An optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>

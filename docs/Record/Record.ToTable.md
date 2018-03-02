@@ -1,6 +1,6 @@
 ﻿# Record.ToTable
 Returns a table with each row being a field name and value of the input record.
-> _function (record as record) as table_
+> _function (<code>record</code> as record) as table_
 # Description 
 Returns a table containing the columns <code>Name</code> and <code>Value</code> with a row for each field in <code>record</code>.
 # Category 

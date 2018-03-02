@@ -1,6 +1,6 @@
 ﻿# Informix.Database
 Returns a table of SQL tables and views available in an Informix database.
-> _function (server as text, database as text, optional options as nullable record) as table_
+> _function (<code>server</code> as text, <code>database</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns a table of SQL tables and views available in an Informix database on server <code>server</code> in the database instance named <code>database</code>. The port may be optionally specified with the server, separated by a colon. An optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>

@@ -1,6 +1,6 @@
 ﻿# Duration.ToRecord
 Returns a record containing the parts of the duration.
-> _function (duration as duration) as record_
+> _function (<code>duration</code> as duration) as record_
 # Description 
 Returns a record containing the parts the duration value, <code>duration</code>. 
   <ul>

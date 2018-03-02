@@ -1,6 +1,6 @@
 ﻿# List.ContainsAny
 Indicates where a list includes any of the values in another list.
-> _function (list as list, values as list, optional equationCriteria as nullable any) as logical_
+> _function (<code>list</code> as list, <code>values</code> as list, optional <code>equationCriteria</code> as nullable any) as logical_
 # Description 
 Indicates whether the list <code>list</code> includes any of the values in another list, <code>values</code>.
         Returns true if value is found in the list, false otherwise. An optional equation criteria value, <code>equationCriteria</code>, can be specified to control equality testing. 

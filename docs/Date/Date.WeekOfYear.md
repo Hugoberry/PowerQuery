@@ -1,6 +1,6 @@
 ﻿# Date.WeekOfYear
 Returns a number from 1 to 54 indicating which week of the year this date falls in.
-> _function (optional dateTime as nullable any, optional firstDayOfWeek as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, optional <code>firstDayOfWeek</code> as nullable any) as nullable any_
 # Description 
 Returns a number from 1 to 54 indicating which week of the year the date, <code>dateTime</code>, falls in.
  <ul>

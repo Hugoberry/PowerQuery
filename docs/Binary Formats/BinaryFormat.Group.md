@@ -1,6 +1,6 @@
 ﻿# BinaryFormat.Group
 Returns a binary format that reads a group of items.
-> _function (binaryFormat as function, group as list, optional extra as nullable function, optional lastKey as nullable any) as function_
+> _function (<code>binaryFormat</code> as function, <code>group</code> as list, optional <code>extra</code> as nullable function, optional <code>lastKey</code> as nullable any) as function_
 # Description 
 The parameters are as follows:
 <ul>

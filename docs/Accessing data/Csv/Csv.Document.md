@@ -1,6 +1,6 @@
 ﻿# Csv.Document
 Returns the contents of the CSV document as a table.
-> _function (optional source as nullable any, optional columns as nullable any, optional delimiter as nullable any, optional extraValues as nullable any, optional encoding as nullable any) as table_
+> _function (optional <code>source</code> as nullable any, optional <code>columns</code> as nullable any, optional <code>delimiter</code> as nullable any, optional <code>extraValues</code> as nullable any, optional <code>encoding</code> as nullable any) as table_
 # Description 
 Returns the contents of the CSV document as a table.
     <ul>

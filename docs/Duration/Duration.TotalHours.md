@@ -1,6 +1,6 @@
 ﻿# Duration.TotalHours
 Returns the total hours this duration spans.
-> _function (optional duration as nullable any) as nullable any_
+> _function (optional <code>duration</code> as nullable any) as nullable any_
 # Description 
 Returns the total hours spanned by the provided <code>duration</code> value, <code>duration</code>.
 # Category 

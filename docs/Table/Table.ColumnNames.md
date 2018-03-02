@@ -1,6 +1,6 @@
 ﻿# Table.ColumnNames
 Returns the column names as a list.
-> _function (table as table) as list_
+> _function (<code>table</code> as table) as list_
 # Description 
 Returns the column names in the table <code>table</code> as a list of text.
 # Category 

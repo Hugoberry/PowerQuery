@@ -1,6 +1,6 @@
 ﻿# Date.From
 Creates a date from the given value.
-> _function (optional value as nullable any, optional culture as nullable any) as nullable any_
+> _function (optional <code>value</code> as nullable any, optional <code>culture</code> as nullable any) as nullable any_
 # Description 
 Returns a <code>date</code> value from the given <code>value</code>. If the given <code>value</code> is <code>null</code>, <code>Date.From</code> returns <code>null</code>.  If the given <code>value</code> is <code>date</code>, <code>value</code> is returned. Values of the following types can be converted to a <code>date</code> value:
       <ul>

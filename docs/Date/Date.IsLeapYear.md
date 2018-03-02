@@ -1,6 +1,6 @@
 ﻿# Date.IsLeapYear
 Indicates whether this date falls in a leap year.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Indicates whether the given datetime value <code>dateTime</code> falls in is a leap year. 
  <ul>

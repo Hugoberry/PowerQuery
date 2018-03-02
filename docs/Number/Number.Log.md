@@ -1,6 +1,6 @@
 ﻿# Number.Log
 Returns the logarithm of the number to the specified base (default e).
-> _function (optional number as nullable any, optional base as nullable any) as nullable any_
+> _function (optional <code>number</code> as nullable any, optional <code>base</code> as nullable any) as nullable any_
 # Description 
 Returns the logarithm of a number, <code>number</code>, to the specified <code>base</code> base. If <code>base</code> is not specified, the default value is Number.E. 
     If <code>number</code> is null <code>Number.Log</code> returns null.

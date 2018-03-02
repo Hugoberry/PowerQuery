@@ -1,6 +1,6 @@
 ﻿# Stripe.Method
 Makes a call to the Stripe API.
-> _function (method as text, additionalParameters as record, ColumnNames as list) as table_
+> _function (<code>method</code> as text, <code>additionalParameters</code> as record, <code>ColumnNames</code> as list) as table_
 # Description 
 Makes a call to the Stripe API at https://api.stripe.com/v1/<code>method</code>, with record <code>additionalParameters</code> passed as additional parameters and list <code>ColumnNames</code> of expected column names. Stripe Version 2015-10-16 is used.
 # Category 

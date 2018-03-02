@@ -1,6 +1,6 @@
 ﻿# Date.EndOfWeek
 Returns the last day of the week.
-> _function (optional dateTime as nullable any, optional firstDayOfWeek as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, optional <code>firstDayOfWeek</code> as nullable any) as nullable any_
 # Description 
 Returns the last day of the week in  the provided <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> <code>dateTime</code>. 
 This function takes an optional <code>Day</code>, <code>firstDayOfWeek</code>, to set the first day of the week for this relative calculation. The default value is <code>Day.Sunday</code>.

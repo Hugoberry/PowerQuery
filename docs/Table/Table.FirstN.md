@@ -1,6 +1,6 @@
 ﻿# Table.FirstN
 Returns the first count rows specified.
-> _function (table as table, optional countOrCondition as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>countOrCondition</code> as nullable any) as table_
 # Description 
 Returns the first row(s) of the table <code>table</code>, depending on the value of <code>countOrCondition</code>:
     <ul>

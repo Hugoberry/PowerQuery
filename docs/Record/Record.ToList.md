@@ -1,6 +1,6 @@
 ﻿# Record.ToList
 Returns a list of values containing the field values of the input record.
-> _function (record as record) as list_
+> _function (<code>record</code> as record) as list_
 # Description 
 Returns a list of values containing the field values from the input <code>record</code>.
 # Category 

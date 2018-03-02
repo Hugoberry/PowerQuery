@@ -1,6 +1,6 @@
 ﻿# comScore.ReportItems
 This is an advanced function that wraps the comScore API. See comScore API documentation for detailed usage information.
-> _function (datacenter as text, client as text, itemId as text, site as text, optional startDate as nullable any, optional endDate as nullable any, optional SegmentId as nullable any, optional VisitFilterId as nullable any, optional EventFilterId as nullable any, optional fullUrlString as nullable any) as table_
+> _function (<code>datacenter</code> as text, <code>client</code> as text, <code>itemId</code> as text, <code>site</code> as text, optional <code>startDate</code> as nullable any, optional <code>endDate</code> as nullable any, optional <code>SegmentId</code> as nullable any, optional <code>VisitFilterId</code> as nullable any, optional <code>EventFilterId</code> as nullable any, optional <code>fullUrlString</code> as nullable any) as table_
 # Description 
 This is an advanced function that wraps the comScore API. See comScore API documentation for detailed usage information.
 # Category 

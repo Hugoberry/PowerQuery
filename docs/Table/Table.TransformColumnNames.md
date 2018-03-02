@@ -1,6 +1,6 @@
 ﻿# Table.TransformColumnNames
 Transforms column names by using the given function.
-> _function (table as table, nameGenerator as function, optional options as nullable record) as table_
+> _function (<code>table</code> as table, <code>nameGenerator</code> as function, optional <code>options</code> as nullable record) as table_
 # Description 
 Transforms column names by using the given <code>nameGenerator</code> function. Valid options:
     <div>

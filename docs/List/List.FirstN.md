@@ -1,6 +1,6 @@
 ﻿# List.FirstN
 Returns the first set of items in the list by specifying how many items to return or a qualifying condition.
-> _function (list as list, optional countOrCondition as nullable any) as nullable any_
+> _function (<code>list</code> as list, optional <code>countOrCondition</code> as nullable any) as nullable any_
 # Description 
 <ul>
   <li>If a number is specified, up to that many items are returned. </li>

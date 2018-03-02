@@ -1,6 +1,6 @@
 ﻿# Function.Invoke
 Invokes the given function
-> _function (function as function, args as list) as nullable any_
+> _function (<code>function</code> as function, <code>args</code> as list) as nullable any_
 # Description 
 Invokes the given function using the specified list of arguments and returns the result.
 # Category 

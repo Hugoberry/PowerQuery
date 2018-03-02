@@ -1,6 +1,6 @@
 ﻿# DateTimeZone.ToRecord
 Returns a record containing the datetimezone value's parts.
-> _function (dateTimeZone as datetimezone) as record_
+> _function (<code>dateTimeZone</code> as datetimezone) as record_
 # Description 
 Returns a record containing the parts of the given datetimezone value, <code>dateTimeZone</code>.
  <ul>

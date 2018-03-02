@@ -1,6 +1,6 @@
 ﻿# List.RemoveFirstN
 Returns a list that skips the specified number of elements at the beginning of the list.
-> _function (list as list, optional countOrCondition as nullable any) as list_
+> _function (<code>list</code> as list, optional <code>countOrCondition</code> as nullable any) as list_
 # Description 
 Returns a list that removes the first element of list <code>list</code>. If <code>list</code> is an empty list an empty list is returned.
 This function takes an optional parameter, <code>countOrCondition</code>, to support removing multiple values as listed below. 

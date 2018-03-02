@@ -1,6 +1,6 @@
 ﻿# Number.RandomBetween
 Returns a random number between two numbers.
-> _function (bottom as number, top as number) as number_
+> _function (<code>bottom</code> as number, <code>top</code> as number) as number_
 # Description 
 Returns a random number between <code>bottom</code> and <code>top</code>.
 # Category 

@@ -1,6 +1,6 @@
 ﻿# Table.Transpose
 Makes columns into rows and rows into columns.
-> _function (table as table, optional columns as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>columns</code> as nullable any) as table_
 # Description 
 Makes columns into rows and rows into columns.
 # Category 

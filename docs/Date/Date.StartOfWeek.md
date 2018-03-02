@@ -1,6 +1,6 @@
 ﻿# Date.StartOfWeek
 Returns the first value of the week.
-> _function (optional dateTime as nullable any, optional firstDayOfWeek as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, optional <code>firstDayOfWeek</code> as nullable any) as nullable any_
 # Description 
 Returns the first value of the week given a <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value.
 # Category 

@@ -1,6 +1,6 @@
 ﻿# Table.Keys
 Table.Keys
-> _function (table as table) as list_
+> _function (<code>table</code> as table) as list_
 # Description 
 Table.Keys
 # Category 

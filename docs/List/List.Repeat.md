@@ -1,6 +1,6 @@
 ﻿# List.Repeat
 Returns a list that is count repetitions of the original list.
-> _function (list as list, count as number) as list_
+> _function (<code>list</code> as list, <code>count</code> as number) as list_
 # Description 
 Returns a list that is <code>count</code> repetitions of the original list, <code>list</code>.
 # Category 

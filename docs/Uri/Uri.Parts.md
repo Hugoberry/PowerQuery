@@ -1,6 +1,6 @@
 ﻿# Uri.Parts
 Returns the parts of the input absolute URI as a record.
-> _function (absoluteUri as text) as record_
+> _function (<code>absoluteUri</code> as text) as record_
 # Description 
 Returns the parts of the input <code>absoluteUri</code> as a record, containing values such as Scheme, Host, Port, Path, Query, Fragment, UserName and Password.
 # Category 

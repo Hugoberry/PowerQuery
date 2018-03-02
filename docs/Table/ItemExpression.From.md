@@ -1,6 +1,6 @@
 ﻿# ItemExpression.From
 Returns the AST for the body of a function.
-> _function (function as function) as record_
+> _function (<code>function</code> as function) as record_
 # Description 
 <p>Returns the AST for the body of <code>function</code>, normalized into an <i>item expression</i>:
 <ul>

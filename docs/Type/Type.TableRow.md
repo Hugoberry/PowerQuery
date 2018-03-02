@@ -1,6 +1,6 @@
 ﻿# Type.TableRow
 Type.TableRow
-> _function (table as type) as type_
+> _function (<code>table</code> as type) as type_
 # Description 
 Type.TableRow
 # Category 

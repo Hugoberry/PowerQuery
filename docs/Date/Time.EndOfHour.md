@@ -1,6 +1,6 @@
 ﻿# Time.EndOfHour
 Returns the last value of the hour.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns a <code>time</code>, <code>datetime</code>, or <code>datetimezone</code> value representing the end of the hour in <code>dateTime</code>, including fractional seconds. Time zone information is preserved.
       <ul>

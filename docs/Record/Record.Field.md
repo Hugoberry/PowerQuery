@@ -1,6 +1,6 @@
 ﻿# Record.Field
 Returns the value of the specified field in a record.
-> _function (record as record, field as text) as nullable any_
+> _function (<code>record</code> as record, <code>field</code> as text) as nullable any_
 # Description 
 Returns the value of the specified <code>field</code> in the <code>record</code>. If the field is not found, an exception is thrown.
 # Category 

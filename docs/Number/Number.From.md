@@ -1,6 +1,6 @@
 ﻿# Number.From
 Creates a number from the given value.
-> _function (optional value as nullable any, optional culture as nullable any) as nullable any_
+> _function (optional <code>value</code> as nullable any, optional <code>culture</code> as nullable any) as nullable any_
 # Description 
 Returns a <code>number</code> value from the given <code>value</code>. If the given <code>value</code> is <code>null</code>, <code>Number.From</code> returns <code>null</code>.  If the given <code>value</code> is <code>number</code>, <code>value</code> is returned. Values of the following types can be converted to a <code>number</code> value:
       <ul>

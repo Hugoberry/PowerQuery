@@ -1,6 +1,6 @@
 ﻿# Function.InvokeAfter
 Invokes the given function after the specified duration has passed.
-> _function (function as function, delay as duration) as nullable any_
+> _function (<code>function</code> as function, <code>delay</code> as duration) as nullable any_
 # Description 
 Returns the result of invoking <code>function</code> after duration <code>delay</code> has passed.
 # Category 

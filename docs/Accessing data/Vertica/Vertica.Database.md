@@ -1,6 +1,6 @@
 ﻿# Vertica.Database
 Import data from Vertica
-> _function (server as text, database as text, optional options as nullable record) as table_
+> _function (<code>server</code> as text, <code>database</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns a table of schemas available on the server named by the <code>server</code> parameter in the database named by the <code>database</code> parameter.
 An optional record parameter, <code>options</code>, may be provided to specify additional properties. The record can contain the following fields:

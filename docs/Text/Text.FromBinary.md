@@ -1,6 +1,6 @@
 ﻿# Text.FromBinary
 Decodes data from a binary form into text.
-> _function (optional binary as nullable any, optional encoding as nullable any) as nullable any_
+> _function (optional <code>binary</code> as nullable any, optional <code>encoding</code> as nullable any) as nullable any_
 # Description 
 Decodes data, <code>binary</code>, from a binary value in to a text value, using <code>encoding</code> type.
 # Category 

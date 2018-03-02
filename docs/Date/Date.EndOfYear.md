@@ -1,6 +1,6 @@
 ﻿# Date.EndOfYear
 Returns the last datetime value of the year.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns a value representing the end of the year in <code>dateTime</code>, including fractional seconds. Time zone information is preserved.
       <ul>

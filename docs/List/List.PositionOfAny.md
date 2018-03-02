@@ -1,6 +1,6 @@
 ﻿# List.PositionOfAny
 Returns the first offset of a value in a list.
-> _function (list as list, values as list, optional occurrence as nullable any, optional equationCriteria as nullable any) as nullable any_
+> _function (<code>list</code> as list, <code>values</code> as list, optional <code>occurrence</code> as nullable any, optional <code>equationCriteria</code> as nullable any) as nullable any_
 # Description 
 Returns the offset in list <code>list</code> of the first occurrence of a value in a list <code>values</code>. Returns -1 if no occurrence is found.  
     An optional occurrence parameter <code>occurrence</code> can be specified.

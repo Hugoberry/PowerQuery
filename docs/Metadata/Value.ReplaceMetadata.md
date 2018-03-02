@@ -1,6 +1,6 @@
 ﻿# Value.ReplaceMetadata
 Replaces the input's metadata information.
-> _function (optional value as nullable any, optional metaValue as nullable any) as nullable any_
+> _function (optional <code>value</code> as nullable any, optional <code>metaValue</code> as nullable any) as nullable any_
 # Description 
 Replaces the input's metadata information.
 # Category 

@@ -1,6 +1,6 @@
 ﻿# Table.RenameColumns
 Applies rename(s) of the form {old, new}.
-> _function (table as table, renames as list, optional missingField as nullable any) as table_
+> _function (<code>table</code> as table, <code>renames</code> as list, optional <code>missingField</code> as nullable any) as table_
 # Description 
 Performs the given renames to the columns in table <code>table</code>. A replacement operation <code>renames</code> consists of a list of two values, the old column name and new column name, provided in a list.
     If the column doesn't exist, an exception is thrown unless the optional parameter <code>missingField</code> specifies an alternative (eg. <code>MissingField.UseNull</code> or <code>MissingField.Ignore</code>).

@@ -1,6 +1,6 @@
 ﻿# Sql.Database
 Returns a table of SQL tables, views, and stored functions from the SQL Server database.
-> _function (server as text, database as text, optional options as nullable record) as table_
+> _function (<code>server</code> as text, <code>database</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns a table of SQL tables, views, and stored functions from the SQL Server database <code>database</code> on server <code>server</code>. The port may be optionally specified with the server, separated by a colon or a comma. An optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>

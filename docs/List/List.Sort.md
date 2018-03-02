@@ -1,6 +1,6 @@
 ﻿# List.Sort
 Sorts a list of data according to the criteria specified.
-> _function (list as list, optional comparisonCriteria as nullable any) as list_
+> _function (<code>list</code> as list, optional <code>comparisonCriteria</code> as nullable any) as list_
 # Description 
 Sorts a list of data, <code>list</code>, according to the optional criteria specified. 
     An optional parameter, <code>comparisonCriteria</code>, can be specified as the comparison criterion. This can take the following values:

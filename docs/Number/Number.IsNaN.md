@@ -1,6 +1,6 @@
 ﻿# Number.IsNaN
 Indicates if the value is NaN (Not a number).
-> _function (number as number) as logical_
+> _function (<code>number</code> as number) as logical_
 # Description 
 Indicates if the value is NaN (Not a number). Returns <code>true</code> if <code>number</code> is equivalent to <code>Number.IsNaN</code>, <code>false</code> otherwise.
 # Category 

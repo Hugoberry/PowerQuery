@@ -1,6 +1,6 @@
 ﻿# Table.FilterWithDataTable
 Table.FilterWithDataTable
-> _function (table as table, dataTableIdentifier as text) as nullable any_
+> _function (<code>table</code> as table, <code>dataTableIdentifier</code> as text) as nullable any_
 # Description 
 Table.FilterWithDataTable
 # Category 

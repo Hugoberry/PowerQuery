@@ -1,6 +1,6 @@
 ﻿# Number.ToText
 Formats the given number as text.
-> _function (optional number as nullable any, optional format as nullable any, optional culture as nullable any) as nullable any_
+> _function (optional <code>number</code> as nullable any, optional <code>format</code> as nullable any, optional <code>culture</code> as nullable any) as nullable any_
 # Description 
 Formats the numeric value <code>number</code> to a text value according to the format specified by <code>format</code>. The format is a single character code optionally followed by a number precision specifier.
  The following character codes may be used for <code>format</code>.

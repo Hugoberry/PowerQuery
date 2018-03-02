@@ -1,6 +1,6 @@
 ﻿# Time.Minute
 Returns the minute component.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the minute component of the provided <code>time</code>, <code>datetime</code>, or <code>datetimezone</code> value, <code>dateTime</code>.
 # Category 

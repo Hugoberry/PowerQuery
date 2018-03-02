@@ -1,6 +1,6 @@
 ﻿# SharePoint.Files
 Returns a table containing documents from a SharePoint site.
-> _function (url as text, optional options as nullable record) as table_
+> _function (<code>url</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns a table containing a row for each document found at the specified SharePoint site, <code>url</code>, and subfolders. Each row contains properties of the folder or file and a link to its content. <code>options</code> may be specified to control the following options:
     <ul>

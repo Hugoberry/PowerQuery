@@ -1,6 +1,6 @@
 ﻿# List.RemoveItems
 Removes items from list1 that are present in list.
-> _function (list1 as list, list2 as list) as list_
+> _function (<code>list1</code> as list, <code>list2</code> as list) as list_
 # Description 
 Removes all occurrences of the given values in the <code>list2</code> from <code>list1</code>. If the values in <code>list2</code> don't exist in <code>list1</code>, the original list is returned.
 # Category 

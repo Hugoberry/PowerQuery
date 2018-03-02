@@ -1,6 +1,6 @@
 ﻿# List.ReplaceRange
 Replaces count number of values starting at position with the replacement values.
-> _function (list as list, index as number, count as number, replaceWith as list) as list_
+> _function (<code>list</code> as list, <code>index</code> as number, <code>count</code> as number, <code>replaceWith</code> as list) as list_
 # Description 
 Replaces <code>count</code> values in the <code>list</code> with the list <code>replaceWith</code>, starting at specified position, <code>index</code>.
 # Category 

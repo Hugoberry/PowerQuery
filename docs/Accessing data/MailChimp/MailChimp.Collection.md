@@ -1,6 +1,6 @@
 ﻿# MailChimp.Collection
 Returns a table with data from a MailChimp endpoint.
-> _function (path as text, optional entityName as nullable any) as table_
+> _function (<code>path</code> as text, optional <code>entityName</code> as nullable any) as table_
 # Description 
 Makes a call to the MailChimp API and returns the resulting dataset as a table. Automatically pages through all results. Optional entityName parameter can be used for API endpoints where the root endpoint and main entityName in JSON response do not match.
 # Category 

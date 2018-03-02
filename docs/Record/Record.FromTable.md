@@ -1,6 +1,6 @@
 ﻿# Record.FromTable
 Creates a record from a table of the form {[Name = name, Value = value]}.
-> _function (table as table) as record_
+> _function (<code>table</code> as table) as record_
 # Description 
 Returns a record from a table of records <code>table</code> containing field names and value names <code>{[Name = name, Value = value]}</code>. An exception is thrown if the field names are not unique.
 # Category 

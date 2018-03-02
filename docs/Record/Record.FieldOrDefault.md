@@ -1,6 +1,6 @@
 ﻿# Record.FieldOrDefault
 Returns the value of the specified field in a record or the default value if the field is not found.
-> _function (record as record, field as text, optional defaultValue as nullable any) as nullable any_
+> _function (<code>record</code> as record, <code>field</code> as text, optional <code>defaultValue</code> as nullable any) as nullable any_
 # Description 
 Returns the value of the specified field <code>field</code> in the record <code>record</code>. If the field is not found, the optional <code>defaultValue</code> is returned.
 # Category 

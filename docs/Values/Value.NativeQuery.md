@@ -1,6 +1,6 @@
 ﻿# Value.NativeQuery
 Evaluates a query against a target.
-> _function (optional target as nullable any, query as text, optional parameters as nullable any, optional options as nullable record) as nullable any_
+> _function (optional <code>target</code> as nullable any, <code>query</code> as text, optional <code>parameters</code> as nullable any, optional <code>options</code> as nullable record) as nullable any_
 # Description 
 <p>Evaluates <code>query</code> against <code>target</code> using the parameters specified in <code>parameters</code> and the options specified in <code>options</code>.</p>
 <p>The output of the query is defined by <code>target</code>.</p>

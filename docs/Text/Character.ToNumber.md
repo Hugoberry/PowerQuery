@@ -1,6 +1,6 @@
 ﻿# Character.ToNumber
 Converts a character to its number value.
-> _function (optional character as nullable any) as nullable any_
+> _function (optional <code>character</code> as nullable any) as nullable any_
 # Description 
 Returns the number equivalent of the character, <code>character</code>.
 # Category 

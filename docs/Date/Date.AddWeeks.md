@@ -1,6 +1,6 @@
 ﻿# Date.AddWeeks
 Adds the specified weeks to the date.
-> _function (optional dateTime as nullable any, numberOfWeeks as number) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>numberOfWeeks</code> as number) as nullable any_
 # Description 
 Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> result from adding <code>numberOfWeeks</code> weeks to the <code>datetime</code> value <code>dateTime</code>.
       <ul>

@@ -1,6 +1,6 @@
 ﻿# List.AllTrue
 Returns true if all expressions are true.
-> _function (list as list) as logical_
+> _function (<code>list</code> as list) as logical_
 # Description 
 Returns true if all expressions in the list <code>list</code> are true.
 # Category 

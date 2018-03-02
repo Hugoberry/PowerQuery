@@ -1,6 +1,6 @@
 ﻿# Cube.ReplaceDimensions
 Cube.ReplaceDimensions
-> _function (cube as table, dimensions as table) as table_
+> _function (<code>cube</code> as table, <code>dimensions</code> as table) as table_
 # Description 
 Cube.ReplaceDimensions
 # Category 

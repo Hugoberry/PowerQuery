@@ -1,6 +1,6 @@
 ﻿# Table.SelectRows
 Selects the rows that meet the condition function.
-> _function (table as table, condition as function) as table_
+> _function (<code>table</code> as table, <code>condition</code> as function) as table_
 # Description 
 Returns a table of rows from the <code>table</code>, that matches the selection <code>condition</code>.
 # Category 

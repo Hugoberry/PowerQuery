@@ -1,6 +1,6 @@
 ﻿# Text.AfterDelimiter
 Text.AfterDelimiter
-> _function (optional text as nullable any, delimiter as text, optional index as nullable any) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>delimiter</code> as text, optional <code>index</code> as nullable any) as nullable any_
 # Description 
 Returns the portion of <code>text</code> after the specified <code>delimiter</code>.
     An optional numeric <code>index</code> indicates which occurrence of the <code>delimiter</code> should be considered.

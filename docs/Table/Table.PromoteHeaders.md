@@ -1,6 +1,6 @@
 ﻿# Table.PromoteHeaders
 Promotes the first row of values as the new column headers (i.e. column names).
-> _function (table as table, optional options as nullable record) as table_
+> _function (<code>table</code> as table, optional <code>options</code> as nullable record) as table_
 # Description 
 Promotes the first row of values as the new column headers (i.e. column names). By default, only text or number values are promoted to headers. Valid options:
     <div>

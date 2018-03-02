@@ -1,6 +1,6 @@
 ﻿# Smartsheet.Content
 Returns a table of data from an Smartsheet index endpoint.
-> _function (endpoint as text) as nullable any_
+> _function (<code>endpoint</code> as text) as nullable any_
 # Description 
 Makes a call to the Smartsheet 2.0 REST API at the specified endpoint and transforms the data element returned into a table.
 # Category 

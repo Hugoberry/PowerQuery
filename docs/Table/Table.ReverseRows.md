@@ -1,6 +1,6 @@
 ﻿# Table.ReverseRows
 Returns a table with the rows in reverse order.
-> _function (table as table) as table_
+> _function (<code>table</code> as table) as table_
 # Description 
 Returns a table with the rows from the input <code>table</code> in reverse order.
 # Category 

@@ -1,6 +1,6 @@
 ﻿# Table.Join
 Joins the rows from the two tables that match based on the given keys.
-> _function (table1 as table, optional key1 as nullable any, table2 as table, optional key2 as nullable any, optional joinKind as nullable any, optional joinAlgorithm as nullable any, optional keyEqualityComparers as nullable list) as table_
+> _function (<code>table1</code> as table, optional <code>key1</code> as nullable any, <code>table2</code> as table, optional <code>key2</code> as nullable any, optional <code>joinKind</code> as nullable any, optional <code>joinAlgorithm</code> as nullable any, optional <code>keyEqualityComparers</code> as nullable list) as table_
 # Description 
 <p>Joins the rows of <code>table1</code> with the rows of <code>table2</code> based on the equality of the values of the key columns selected by <code>key1</code> (for <code>table1</code>) and <code>key2</code> (for <code>table2</code>).</p>
 <p>By default, an inner join is performed, however an optional <code>joinKind</code> may be included to specify the type of join. Options include:

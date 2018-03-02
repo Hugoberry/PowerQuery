@@ -1,6 +1,6 @@
 ﻿# Table.AddJoinColumn
 Performs a join between tables on supplied columns and produces the join result in a new column.
-> _function (table1 as table, optional key1 as nullable any, optional table2 as nullable any, optional key2 as nullable any, newColumnName as text) as table_
+> _function (<code>table1</code> as table, optional <code>key1</code> as nullable any, optional <code>table2</code> as nullable any, optional <code>key2</code> as nullable any, <code>newColumnName</code> as text) as table_
 # Description 
 Joins the rows of <code>table1</code> with the rows of <code>table2</code> based on the equality of the values of the key columns selected by <code>key1</code> (for <code>table1</code>) and <code>key2</code> (for <code>table2</code>). The results are entered into the column named <code>newColumnName</code>.
 This function behaves similarly to Table.Join with a JoinKind of LeftOuter except that the join results are presented in a nested rather than flattened fashion.

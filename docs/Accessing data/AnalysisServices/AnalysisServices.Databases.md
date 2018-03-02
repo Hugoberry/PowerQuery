@@ -1,6 +1,6 @@
 ﻿# AnalysisServices.Databases
 Returns the Analysis Services databases on a particular host.
-> _function (server as text, optional options as nullable record) as table_
+> _function (<code>server</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns databases on an Analysis Services instance, <code>server</code>.  An optional record parameter, <code>options</code>, may be provided to specify additional properties. The record can contain the following fields:
     <ul>

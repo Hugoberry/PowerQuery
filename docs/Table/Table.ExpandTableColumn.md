@@ -1,6 +1,6 @@
 ﻿# Table.ExpandTableColumn
 Expands a column of records or a column of tables into multiple columns in the containing table.
-> _function (table as table, column as text, columnNames as list, optional newColumnNames as nullable list) as table_
+> _function (<code>table</code> as table, <code>column</code> as text, <code>columnNames</code> as list, optional <code>newColumnNames</code> as nullable list) as table_
 # Description 
 Expands tables in <code>table</code>[<code>column</code>] into multiple rows and columns. <code>columnNames</code> is used to select the columns to expand from the inner table. Specify <code>newColumnNames</code> to avoid conflicts between existing columns and new columns.
 # Category 

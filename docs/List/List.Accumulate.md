@@ -1,6 +1,6 @@
 ﻿# List.Accumulate
 Accumulates a summary value from the items in the list.
-> _function (list as list, optional seed as nullable any, accumulator as function) as nullable any_
+> _function (<code>list</code> as list, optional <code>seed</code> as nullable any, <code>accumulator</code> as function) as nullable any_
 # Description 
 Accumulates a summary value from the items in the list <code>list</code>, using <code>accumulator</code>.
     An optional seed parameter, <code>seed</code>, may be set.

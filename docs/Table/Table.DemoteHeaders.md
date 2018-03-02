@@ -1,6 +1,6 @@
 ﻿# Table.DemoteHeaders
 Demotes the column headers to the first row of values.
-> _function (table as table) as table_
+> _function (<code>table</code> as table) as table_
 # Description 
 Demotes the column headers (i.e. column names) to the first row of values. The default column names are "Column1", "Column2" and so on.
 # Category 

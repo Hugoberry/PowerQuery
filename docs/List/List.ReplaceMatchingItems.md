@@ -1,6 +1,6 @@
 ﻿# List.ReplaceMatchingItems
 Applies each replacement of { old, new }.
-> _function (list as list, replacements as list, optional equationCriteria as nullable any) as list_
+> _function (<code>list</code> as list, <code>replacements</code> as list, optional <code>equationCriteria</code> as nullable any) as list_
 # Description 
 Performs the given replacements to the list <code>list</code>. A replacement operation <code>replacements</code> consists of a list of two values, the old value and new value, provided in a list.
     An optional equation criteria value, <code>equationCriteria</code>, can be specified to control equality testing.

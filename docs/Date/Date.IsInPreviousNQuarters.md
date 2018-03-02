@@ -1,6 +1,6 @@
 ﻿# Date.IsInPreviousNQuarters
 Indicates whether this date occurs during the previous number of quarters, as determined by the current date and time on the system.
-> _function (optional dateTime as nullable any, quarters as number) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>quarters</code> as number) as nullable any_
 # Description 
 Indicates whether the given datetime value <code>dateTime</code> occurs during the previous number of quarters, as determined by the current date and time on the system.
       <ul>

@@ -1,6 +1,6 @@
 ﻿# Date.ToRecord
 Returns a record containing parts of the date value.
-> _function (date as date) as record_
+> _function (<code>date</code> as date) as record_
 # Description 
 Returns a record containing the parts of the given date value, <code>date</code>.
  <ul>

@@ -1,6 +1,6 @@
 ﻿# Type.FunctionReturn
 Returns a type returned by a function type.
-> _function (type as type) as type_
+> _function (<code>type</code> as type) as type_
 # Description 
 Returns a type returned by a function <code>type</code>.
 # Category 

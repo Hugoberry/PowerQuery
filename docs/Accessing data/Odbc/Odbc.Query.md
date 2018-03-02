@@ -1,6 +1,6 @@
 ﻿# Odbc.Query
 Returns the result of running a native query on an ODBC data source.
-> _function (optional connectionString as nullable any, query as text, optional options as nullable record) as table_
+> _function (optional <code>connectionString</code> as nullable any, <code>query</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns the result of running <code>query</code> with the connection string <code>connectionString</code> using ODBC. <code>connectionString</code> can be text or a record of property value pairs. Property values can either be text or number. An optional record parameter, <code>options</code>, may be provided to specify additional properties. The record can contain the following fields:
     <ul>

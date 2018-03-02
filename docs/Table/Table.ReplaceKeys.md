@@ -1,6 +1,6 @@
 ﻿# Table.ReplaceKeys
 Table.ReplaceKeys
-> _function (table as table, keys as list) as table_
+> _function (<code>table</code> as table, <code>keys</code> as list) as table_
 # Description 
 Table.ReplaceKeys
 # Category 

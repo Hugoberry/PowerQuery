@@ -1,6 +1,6 @@
 ﻿# Marketo.Activities
 Returns a table with lead activities.
-> _function (url as text, startTime as date, activityIds as list) as table_
+> _function (<code>url</code> as text, <code>startTime</code> as date, <code>activityIds</code> as list) as table_
 # Description 
 Makes a call to the Marketo REST API endpoint at <code>url</code>/rest/v1/activities.json. All activities in list <code>activityIds</code> that have occurred since <code>startTime</code> are returned.
 # Category 

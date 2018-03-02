@@ -1,6 +1,6 @@
 ﻿# Marketo.Leads
 Returns a table with lead details.
-> _function (url as text, leadIds as list, optional options as nullable any) as table_
+> _function (<code>url</code> as text, <code>leadIds</code> as list, optional <code>options</code> as nullable any) as table_
 # Description 
 Makes a call to the Marketo REST API endpoint at <code>url</code>/rest/v1/leads.json. All leads in list <code>leadIds</code> are returned.
 # Category 

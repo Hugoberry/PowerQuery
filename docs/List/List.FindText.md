@@ -1,6 +1,6 @@
 ﻿# List.FindText
 Returns a list of values (including record fields) that contain the specified text.
-> _function (list as list, text as text) as list_
+> _function (<code>list</code> as list, <code>text</code> as text) as list_
 # Description 
 Returns a list of the values from the list <code>list</code> which contained the value <code>text</code>.
 # Category 

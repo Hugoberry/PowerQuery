@@ -1,6 +1,6 @@
 ﻿# List.Average
 Returns the average of the values. Works with number, date, datetime, datetimezone and duration values.
-> _function (list as list, optional precision as nullable any) as nullable any_
+> _function (<code>list</code> as list, optional <code>precision</code> as nullable any) as nullable any_
 # Description 
 Returns the average value for the items in the list, <code>list</code>. The result is given in the same datatype as the values in the list. Only works with number, date, time, datetime, datetimezone and duration values.
     If the list is empty null is returned.

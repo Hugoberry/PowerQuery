@@ -1,6 +1,6 @@
 ﻿# Date.IsInPreviousNDays
 Indicates whether this date occurs during the previous number of days, as determined by the current date and time on the system.
-> _function (optional dateTime as nullable any, days as number) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>days</code> as number) as nullable any_
 # Description 
 Indicates whether the given datetime value <code>dateTime</code> occurs during the previous number of days, as determined by the current date and time on the system.
       <ul>

@@ -1,6 +1,6 @@
 ﻿# Table.MaxN
 Returns the largest row(s) using the given criteria.
-> _function (table as table, optional comparisonCriteria as nullable any, optional countOrCondition as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>comparisonCriteria</code> as nullable any, optional <code>countOrCondition</code> as nullable any) as table_
 # Description 
 Returns the largest row(s) in the <code>table</code>, given the <code>comparisonCriteria</code>. 
     After the rows are sorted, the <code>countOrCondition</code> parameter must be specified to further filter the result. Note the sorting algorithm cannot guarantee a fixed sorted result. The <code>countOrCondition</code> parameter can take multiple forms:

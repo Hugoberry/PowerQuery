@@ -1,6 +1,6 @@
 ﻿# DateTime.Time
 Returns the time part of the given datetime value.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the time part of the given datetime value, <code>dateTime</code>.
 # Category 

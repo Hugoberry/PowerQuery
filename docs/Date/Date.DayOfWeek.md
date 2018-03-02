@@ -1,6 +1,6 @@
 ﻿# Date.DayOfWeek
 Returns a number from 1 to 7 representing the day of the week.
-> _function (optional dateTime as nullable any, optional firstDayOfWeek as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, optional <code>firstDayOfWeek</code> as nullable any) as nullable any_
 # Description 
 Returns a number between 0 and 6 representing the day of the week in the provided datetime value <code>dateTime</code>. 
  This function takes an optional Day value, <code>firstDayOfWeek</code>, to set the first day of the week for this relative calculation. The default value firstDay is Day.Sunday. 

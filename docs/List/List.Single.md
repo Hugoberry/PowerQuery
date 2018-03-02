@@ -1,6 +1,6 @@
 ﻿# List.Single
 Returns the one list item for a list of length one, otherwise throws an exception.
-> _function (list as list) as nullable any_
+> _function (<code>list</code> as list) as nullable any_
 # Description 
 If there is only one item in the list <code>list</code>, returns that item. 
     If there is more than one item or the list is empty, the function throws an exception.

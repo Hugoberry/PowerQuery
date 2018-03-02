@@ -1,6 +1,6 @@
 ﻿# Table.RemoveColumns
 Removes the specified columns.
-> _function (table as table, optional columns as nullable any, optional missingField as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>columns</code> as nullable any, optional <code>missingField</code> as nullable any) as table_
 # Description 
 Removes the specified <code>columns</code> from the <code>table</code> provided.
     If the column doesn't exist, an exception is thrown unless the optional parameter <code>missingField</code> specifies an alternative (eg. <code>MissingField.UseNull</code> or <code>MissingField.Ignore</code>).

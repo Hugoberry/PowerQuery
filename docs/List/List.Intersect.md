@@ -1,6 +1,6 @@
 ﻿# List.Intersect
 Returns the intersection of the list values found in the input.
-> _function (lists as list, optional equationCriteria as nullable any) as list_
+> _function (<code>lists</code> as list, optional <code>equationCriteria</code> as nullable any) as list_
 # Description 
 Returns the intersection of the list values found in the input list <code>lists</code>. An optional parameter, <code>equationCriteria</code>, can be specifed.
 # Category 

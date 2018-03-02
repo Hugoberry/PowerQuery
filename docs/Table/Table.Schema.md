@@ -1,6 +1,6 @@
 ﻿# Table.Schema
 Returns a table containing a description of the columns (i.e. the schema) of the specified table.
-> _function (table as table) as table_
+> _function (<code>table</code> as table) as table_
 # Description 
 <p>Returns a table describing the columns of <code>table</code>.</p>
 <p>Each row in the table describes the properties of a column of <code>table</code>:</p>

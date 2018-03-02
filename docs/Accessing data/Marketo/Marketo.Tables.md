@@ -1,6 +1,6 @@
 ﻿# Marketo.Tables
 Enter the URL of the Marketo REST API endpoint associated with your account.
-> _function (url as text, QueryStart as date) as table_
+> _function (<code>url</code> as text, <code>QueryStart</code> as date) as table_
 # Description 
 Returns a table with relevant Marketo data.
 # Category 

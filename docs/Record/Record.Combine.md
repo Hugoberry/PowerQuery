@@ -1,6 +1,6 @@
 ﻿# Record.Combine
 Combines the records in the given list.
-> _function (records as list) as record_
+> _function (<code>records</code> as list) as record_
 # Description 
 Combines the records in the given <code>records</code>. If the <code>records</code> contains non-record values, an error is returned.
 # Category 

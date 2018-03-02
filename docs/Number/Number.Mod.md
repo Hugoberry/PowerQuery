@@ -1,6 +1,6 @@
 ﻿# Number.Mod
 Integer divides two numbers and returns the remainder.
-> _function (optional number as nullable any, optional divisor as nullable any, optional precision as nullable any) as nullable any_
+> _function (optional <code>number</code> as nullable any, optional <code>divisor</code> as nullable any, optional <code>precision</code> as nullable any) as nullable any_
 # Description 
 Returns the remainder resulting from the integer division of <code>number</code> by <code>divisor</code>. 
     If <code>number</code> or <code>divisor</code> are null, <code>Number.Mod</code> returns null.

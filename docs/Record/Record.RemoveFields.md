@@ -1,6 +1,6 @@
 ﻿# Record.RemoveFields
 Removes the specified field(s) from the input record.
-> _function (record as record, optional fields as nullable any, optional missingField as nullable any) as record_
+> _function (<code>record</code> as record, optional <code>fields</code> as nullable any, optional <code>missingField</code> as nullable any) as record_
 # Description 
 Returns a record that removes all the fields specified in list <code>fields</code> from the input <code>record</code>. If the field specified does not exist, an exception is thrown.
 # Category 

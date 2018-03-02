@@ -1,6 +1,6 @@
 ﻿# Text.Lower
 Converts all characters to lowercase.
-> _function (optional text as nullable any, optional culture as nullable any) as nullable any_
+> _function (optional <code>text</code> as nullable any, optional <code>culture</code> as nullable any) as nullable any_
 # Description 
 Returns the result of converting all characters in <code>text</code> to lowercase.
 # Category 

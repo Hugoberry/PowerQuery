@@ -1,6 +1,6 @@
 ﻿# Table.ExpandRecordColumn
 Expands a column of records into columns with each of the values.
-> _function (table as table, column as text, fieldNames as list, optional newColumnNames as nullable list) as table_
+> _function (<code>table</code> as table, <code>column</code> as text, <code>fieldNames</code> as list, optional <code>newColumnNames</code> as nullable list) as table_
 # Description 
 Given the <code>column</code> of records in the input <code>table</code>, creates a table with a column for each field in the record. Optionally, <code>newColumnNames</code> may be specified to ensure unique names for the columns in the new table.
     <ul>

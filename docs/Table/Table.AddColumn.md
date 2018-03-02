@@ -1,6 +1,6 @@
 ﻿# Table.AddColumn
 Adds a column with the specified name. The value is computed using the specified selection function with each row taken as an input.
-> _function (table as table, newColumnName as text, columnGenerator as function, optional columnType as nullable any) as table_
+> _function (<code>table</code> as table, <code>newColumnName</code> as text, <code>columnGenerator</code> as function, optional <code>columnType</code> as nullable any) as table_
 # Description 
 Adds a column named <code>newColumnName</code> to the table <code>table</code>. The values for the column are computed using the specified selection function <code>columnGenerator</code> with each row taken as an input.
 # Category 

@@ -1,6 +1,6 @@
 ﻿# Date.EndOfQuarter
 Returns the last value of the quarter.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns a <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value representing the end of the quarter in <code>dateTime</code>. Time zone information is preserved.
       <ul>

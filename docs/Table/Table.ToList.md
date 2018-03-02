@@ -1,6 +1,6 @@
 ﻿# Table.ToList
 Converts a table into a list by applying the specified combining function to each row of values in the table.
-> _function (table as table, optional combiner as nullable function) as list_
+> _function (<code>table</code> as table, optional <code>combiner</code> as nullable function) as list_
 # Description 
 Converts a table into a list by applying the specified combining function to each row of values in the table.
 # Category 

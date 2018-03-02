@@ -1,6 +1,6 @@
 ﻿# PlanviewEnterprise.Feed
 Enter the URL and database name associated with your Planview Enterprise account.
-> _function (url as text, database as text) as table_
+> _function (<code>url</code> as text, <code>database</code> as text) as table_
 # Description 
 Returns a table with Planview Enterprise data.
 # Category 

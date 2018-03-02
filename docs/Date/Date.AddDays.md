@@ -1,6 +1,6 @@
 ﻿# Date.AddDays
 Adds the specified days to the date.
-> _function (optional dateTime as nullable any, numberOfDays as number) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>numberOfDays</code> as number) as nullable any_
 # Description 
 Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> result from adding <code>numberOfDays</code> days to the <code>datetime</code> value <code>dateTime</code>.
       <ul>

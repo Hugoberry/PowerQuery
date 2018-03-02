@@ -1,6 +1,6 @@
 ﻿# List.LastN
 Returns the last value in the list.  Can optionally specify how many values to return or a qualifying condition.
-> _function (list as list, optional countOrCondition as nullable any) as nullable any_
+> _function (<code>list</code> as list, optional <code>countOrCondition</code> as nullable any) as nullable any_
 # Description 
 Returns the last item of the list <code>list</code>. If the list is empty, an exception is thrown.
  This function takes an optional parameter, <code>countOrCondition</code>, to support gathering multiple items or filtering items. <code>countOrCondition</code> can be specified in three ways:

@@ -1,6 +1,6 @@
 ﻿# Number.Power
 Raises a number to the given power.
-> _function (optional number as nullable any, optional power as nullable any) as nullable any_
+> _function (optional <code>number</code> as nullable any, optional <code>power</code> as nullable any) as nullable any_
 # Description 
 Returns the result of raising <code>number</code> to the power of <code>power</code>. 
     If <code>number</code> or <code>power</code> are null, <code>Number.Power</code> returns null.     

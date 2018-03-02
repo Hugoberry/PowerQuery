@@ -1,6 +1,6 @@
 ﻿# Type.Facets
 Returns the facets of a type.
-> _function (type as type) as record_
+> _function (<code>type</code> as type) as record_
 # Description 
 Returns a record containing the facets of <code>type</code>.
 # Category 

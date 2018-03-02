@@ -1,6 +1,6 @@
 ﻿# Table.ToColumns
 Creates a list of nested lists of column values from a table.
-> _function (table as table) as list_
+> _function (<code>table</code> as table) as list_
 # Description 
 Creates a list of nested lists from the table, <code>table</code>.  Each list item is an inner list that contains the column values.
 # Category 

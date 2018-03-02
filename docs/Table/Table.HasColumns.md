@@ -1,6 +1,6 @@
 ﻿# Table.HasColumns
 indicates whether the table contains the specified column(s).
-> _function (table as table, optional columns as nullable any) as logical_
+> _function (<code>table</code> as table, optional <code>columns</code> as nullable any) as logical_
 # Description 
 indicates whether the <code>table</code> contains the specified column(s), <code>columns</code>. Returns <code>true</code> if the table contains the column(s), <code>false</code> otherwise.
 # Category 

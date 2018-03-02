@@ -1,6 +1,6 @@
 ﻿# Number.Round
 Returns the rounded number. The number of digits and rounding mode can be specified.
-> _function (optional number as nullable any, optional digits as nullable any, optional roundingMode as nullable any) as nullable any_
+> _function (optional <code>number</code> as nullable any, optional <code>digits</code> as nullable any, optional <code>roundingMode</code> as nullable any) as nullable any_
 # Description 
 Returns the result of rounding <code>number</code> to the nearest number. If <code>number</code> is null, <code>Number.Round</code> returns null.
     

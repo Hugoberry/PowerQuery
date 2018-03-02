@@ -1,6 +1,6 @@
 ﻿# List.Range
 Returns a subset of the list beginning at an offset.
-> _function (list as list, offset as number, optional count as nullable any) as list_
+> _function (<code>list</code> as list, <code>offset</code> as number, optional <code>count</code> as nullable any) as list_
 # Description 
 Returns a subset of the list beginning at the offset <code>list</code>. An optional parameter, <code>offset</code>, sets the maximum number of items in the subset.
 # Category 

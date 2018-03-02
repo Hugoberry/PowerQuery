@@ -1,6 +1,6 @@
 ﻿# BinaryFormat.Null
 A binary format that reads zero bytes and returns null.
-> _function (binary as binary) as nullable any_
+> _function (<code>binary</code> as binary) as nullable any_
 # Description 
 A binary format that reads zero bytes and returns null.
 # Category 

@@ -1,6 +1,6 @@
 ﻿# Time.StartOfHour
 Returns the first value of the hour.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the first value of the hour given a <code>time</code>, <code>datetime</code> or <code>datetimezone</code> type.
 # Category 

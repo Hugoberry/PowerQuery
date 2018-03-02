@@ -1,6 +1,6 @@
 ﻿# Type.FunctionRequiredParameters
 Returns a number indicating the minimum number of parameters required to invoke the type of function.
-> _function (type as type) as number_
+> _function (<code>type</code> as type) as number_
 # Description 
 Returns a number indicating the minimum number of parameters required to invoke the input <code>type</code> of function.
 # Category 

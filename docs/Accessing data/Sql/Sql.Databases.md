@@ -1,6 +1,6 @@
 ﻿# Sql.Databases
 Returns a table of databases on a SQL Server.
-> _function (server as text, optional options as nullable record) as table_
+> _function (<code>server</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns a table of databases on the specified SQL server, <code>server</code>. An optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>

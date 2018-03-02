@@ -1,6 +1,6 @@
 ﻿# Date.EndOfMonth
 Returns the last day of the month.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the last day of the month in <code>dateTime</code>.
       <ul>

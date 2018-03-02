@@ -1,6 +1,6 @@
 ﻿# List.Sum
 Returns the sum of the items in the list.
-> _function (list as list, optional precision as nullable any) as nullable any_
+> _function (<code>list</code> as list, optional <code>precision</code> as nullable any) as nullable any_
 # Description 
 Returns the sum of the non-null values in the list, <code>list</code>.  Returns null if there are no non-null values in the list.
 # Category 

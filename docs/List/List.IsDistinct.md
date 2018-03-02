@@ -1,6 +1,6 @@
 ﻿# List.IsDistinct
 Indicates whether there are duplicates in the list.
-> _function (list as list, optional equationCriteria as nullable any) as logical_
+> _function (<code>list</code> as list, optional <code>equationCriteria</code> as nullable any) as logical_
 # Description 
 Returns a logical value whether there are duplicates in the list <code>list</code>; <code>true</code> if the list is distinct, <code>false</code> if there are duplicate values. 
 # Category 

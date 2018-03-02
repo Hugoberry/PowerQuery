@@ -1,6 +1,6 @@
 ﻿# Salesforce.Reports
 Returns the reports from the Salesforce account.
-> _function (optional loginUrl as nullable any, optional options as nullable record) as table_
+> _function (optional <code>loginUrl</code> as nullable any, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns the reports on the Salesforce account provided in the credentials. The account will be connected through the provided environment <code>loginUrl</code>. If no environment is provided then the account will connect to production (https://login.salesforce.com). An optional record parameter, <code>options</code>, may be provided to specify additional properties. The record can contain the following fields:
     <ul>

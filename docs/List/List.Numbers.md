@@ -1,6 +1,6 @@
 ﻿# List.Numbers
 Returns a list of numbers given an initial value, count, and optional increment value.
-> _function (start as number, count as number, optional increment as nullable any) as list_
+> _function (<code>start</code> as number, <code>count</code> as number, optional <code>increment</code> as nullable any) as list_
 # Description 
 Returns a list of numbers given an initial value, count, and optional increment value. The default increment value is 1.
 <ul>

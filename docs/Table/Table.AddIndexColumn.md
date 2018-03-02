@@ -1,6 +1,6 @@
 ﻿# Table.AddIndexColumn
 Appends a column with explicit position values.
-> _function (table as table, newColumnName as text, optional initialValue as nullable any, optional increment as nullable any) as table_
+> _function (<code>table</code> as table, <code>newColumnName</code> as text, optional <code>initialValue</code> as nullable any, optional <code>increment</code> as nullable any) as table_
 # Description 
 Appends a column named <code>newColumnName</code> to the <code>table</code> with explicit position values.
     An optional value, <code>initialValue</code>, the initial index value. An optional value, <code>increment</code>, specifies how much to increment each index value.

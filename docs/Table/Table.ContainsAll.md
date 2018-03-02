@@ -1,6 +1,6 @@
 ﻿# Table.ContainsAll
 Indicates whether all of the specified records appear as rows in the table.
-> _function (table as table, rows as list, optional equationCriteria as nullable any) as logical_
+> _function (<code>table</code> as table, <code>rows</code> as list, optional <code>equationCriteria</code> as nullable any) as logical_
 # Description 
 Indicates whether all the specified records in the list of records <code>rows</code>, appear as rows in the <code>table</code>.
     An optional parameter <code>equationCriteria</code> may be specified to control comparison between the rows of the table.

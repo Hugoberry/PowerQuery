@@ -1,6 +1,6 @@
 ﻿# Text.Contains
 Returns whether the text contains the substring.
-> _function (optional text as nullable any, substring as text, optional comparer as nullable function) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>substring</code> as text, optional <code>comparer</code> as nullable function) as nullable any_
 # Description 
 Detects whether the text <code>text</code> contains the text <code>substring</code>. Returns true if the text is found.
       <div>

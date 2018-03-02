@@ -1,6 +1,6 @@
 ﻿# List.TransformMany
 Returns a list whose elements are transformed from the input list using specified functions.
-> _function (list as list, collectionTransform as function, resultTransform as function) as list_
+> _function (<code>list</code> as list, <code>collectionTransform</code> as function, <code>resultTransform</code> as function) as list_
 # Description 
 Returns a list whose elements are projected from the input list. The collectionTransform function is applied to each element, and the resultTransform function is invoked to construct the resulting list. 
     The collectionSelector has the signature (x as Any) => ... where x is an element in list. 

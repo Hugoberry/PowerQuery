@@ -1,6 +1,6 @@
 ﻿# Table.Partition
 Partitions the table into a list of tables based on the number of groups and column specified.
-> _function (table as table, column as text, groups as number, hash as function) as list_
+> _function (<code>table</code> as table, <code>column</code> as text, <code>groups</code> as number, <code>hash</code> as function) as list_
 # Description 
 Partitions the <code>table</code> into a list of <code>groups</code> number of tables, based on the value of the <code>column</code> and a <code>hash</code> function.
     The <code>hash</code> function is applied to the value of the <code>column</code> row to obtain a hash value for the row. The hash value modulo <code>groups</code> determines in which of the returned tables the row will be placed.

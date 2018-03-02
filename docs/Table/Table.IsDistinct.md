@@ -1,6 +1,6 @@
 ﻿# Table.IsDistinct
 Indicates whether the table contains only distinct rows (no duplicates).
-> _function (table as table, optional comparisonCriteria as nullable any) as logical_
+> _function (<code>table</code> as table, optional <code>comparisonCriteria</code> as nullable any) as logical_
 # Description 
 Indicates whether the <code>table</code> contains only distinct rows (no duplicates). Returns <code>true</code> if the rows are distinct, <code>false</code> otherwise.
     An optional parameter, <code>comparisonCriteria</code>, specifies which columns of the table are tested for duplication. If <code>comparisonCriteria</code> is not specified, all columns are tested.

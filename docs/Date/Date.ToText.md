@@ -1,6 +1,6 @@
 ﻿# Date.ToText
 Returns a textual representation of the Date value.
-> _function (optional date as nullable any, optional format as nullable any, optional culture as nullable any) as nullable any_
+> _function (optional <code>date</code> as nullable any, optional <code>format</code> as nullable any, optional <code>culture</code> as nullable any) as nullable any_
 # Description 
 Returns a textual representation of <code>date</code>, the Date value, <code>date</code>. 
     This function takes in an optional format parameter <code>format</code>. For a complete list of supported formats, please refer to the Library specification document.

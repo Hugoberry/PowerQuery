@@ -1,6 +1,6 @@
 ﻿# Table.FindText
 Returns all the rows that contain the given text in the table.
-> _function (table as table, text as text) as table_
+> _function (<code>table</code> as table, <code>text</code> as text) as table_
 # Description 
 Returns the rows in the table <code>table</code> that contain the text <code>text</code>. If the text is not found, an empty table is returned.
 # Category 

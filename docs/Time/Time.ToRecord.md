@@ -1,6 +1,6 @@
 ﻿# Time.ToRecord
 Returns a record containing the Time value's parts.
-> _function (time as time) as record_
+> _function (<code>time</code> as time) as record_
 # Description 
 Returns a record containing the parts of the given Time value, <code>time</code>.
  <ul>

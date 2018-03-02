@@ -1,6 +1,6 @@
 ﻿# Text.ToList
 Returns a list of character values from the given text value.
-> _function (text as text) as list_
+> _function (<code>text</code> as text) as list_
 # Description 
 Returns a list of character values from the given text value <code>text</code>.
 # Category 

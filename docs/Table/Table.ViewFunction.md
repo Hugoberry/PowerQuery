@@ -1,6 +1,6 @@
 ﻿# Table.ViewFunction
 Creates a function that can be intercepted by a handler defined on a view (via Table.View).
-> _function (function as function) as function_
+> _function (<code>function</code> as function) as function_
 # Description 
 <p>Creates a view function based on <code>function</code> that can be handled in a view created by <code>Table.View</code>.</p>
 <p>The <code>OnInvoke</code> handler of <code>Table.View</code> can be used to defined a handler for the view function.</p>

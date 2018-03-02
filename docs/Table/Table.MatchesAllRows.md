@@ -1,6 +1,6 @@
 ﻿# Table.MatchesAllRows
 Indicates whether all the rows in the table meet the given condition.
-> _function (table as table, condition as function) as logical_
+> _function (<code>table</code> as table, <code>condition</code> as function) as logical_
 # Description 
 Indicates whether all the rows in the <code>table</code> match the given <code>condition</code>. Returns <code>true</code> if all of the rows match, <code>false</code> otherwise.
 # Category 

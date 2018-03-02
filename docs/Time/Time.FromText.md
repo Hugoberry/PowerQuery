@@ -1,6 +1,6 @@
 ﻿# Time.FromText
 Creates a Time from local and universal Time formats.
-> _function (optional text as nullable any, optional culture as nullable any) as nullable any_
+> _function (optional <code>text</code> as nullable any, optional <code>culture</code> as nullable any) as nullable any_
 # Description 
 Creates a <code>time</code> value from a textual representation, <code>text</code>, following ISO 8601 format standard.
   <ul>

@@ -1,6 +1,6 @@
 ﻿# List.MatchesAny
 Returns true if the condition function is satisfied by any value.
-> _function (list as list, condition as function) as logical_
+> _function (<code>list</code> as list, <code>condition</code> as function) as logical_
 # Description 
 Returns <code>true</code> if the condition function, <code>condition</code>, is satisfied by any of values in the list <code>list</code>, otherwise returns <code>false</code>.
 # Category 

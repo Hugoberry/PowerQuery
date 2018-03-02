@@ -1,6 +1,6 @@
 ﻿# Smartsheet.Query
 Returns a JSON result from the Smartsheet API
-> _function (endpoint as text, args as text, headers as record) as nullable any_
+> _function (<code>endpoint</code> as text, <code>args</code> as text, <code>headers</code> as record) as nullable any_
 # Description 
 Makes a call to the Smartsheet 2.0 REST API at the specified endpoint and returns results as a JSON record.
 # Category 

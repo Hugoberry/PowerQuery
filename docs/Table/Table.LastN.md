@@ -1,6 +1,6 @@
 ﻿# Table.LastN
 Returns the last specified number of rows.
-> _function (table as table, optional countOrCondition as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>countOrCondition</code> as nullable any) as table_
 # Description 
 Returns the last row(s) from the table, <code>table</code>, depending on the value of <code>countOrCondition</code>:
     <ul>

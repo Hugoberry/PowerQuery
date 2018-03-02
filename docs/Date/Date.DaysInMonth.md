@@ -1,6 +1,6 @@
 ﻿# Date.DaysInMonth
 Returns a number from 28 to 31 indicating the number of days in the month.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the number of days in the month in the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value <code>dateTime</code>. 
  <ul>

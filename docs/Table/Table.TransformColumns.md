@@ -1,6 +1,6 @@
 ﻿# Table.TransformColumns
 Applies transformation(s) of the form { column, transform }.
-> _function (table as table, transformOperations as list, optional defaultTransformation as nullable function, optional missingField as nullable any) as table_
+> _function (<code>table</code> as table, <code>transformOperations</code> as list, optional <code>defaultTransformation</code> as nullable function, optional <code>missingField</code> as nullable any) as table_
 # Description 
 Returns a table from the input <code>table</code> by applying the transform operation to the column specified in the parameter <code>transformOperations</code> (where format is { column name, transformation }).
     If the column doesn't exist, an exception is thrown unless the optional parameter <code>defaultTransformation</code> specifies an alternative (eg. <code>MissingField.UseNull</code> or <code>MissingField.Ignore</code>).

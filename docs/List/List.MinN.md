@@ -1,6 +1,6 @@
 ﻿# List.MinN
 Returns the minimum value(s) in the list. The number of values to return or filtering condition may be specified.
-> _function (list as list, optional countOrCondition as nullable any, optional comparisonCriteria as nullable any, optional includeNulls as nullable any) as list_
+> _function (<code>list</code> as list, optional <code>countOrCondition</code> as nullable any, optional <code>comparisonCriteria</code> as nullable any, optional <code>includeNulls</code> as nullable any) as list_
 # Description 
 Returns the minimum value(s) in the list, <code>list</code>.  
     The parameter, <code>countOrCondition</code>, specifies the number of values to return or a filtering condition. The optional parameter, <code>comparisonCriteria</code>, specifies how to compare values in the list.

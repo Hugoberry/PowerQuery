@@ -1,6 +1,6 @@
 ﻿# Table.Group
 Groups rows in the table that have the same key.
-> _function (table as table, optional key as nullable any, aggregatedColumns as list, optional groupKind as nullable any, optional comparer as nullable function) as table_
+> _function (<code>table</code> as table, optional <code>key</code> as nullable any, <code>aggregatedColumns</code> as list, optional <code>groupKind</code> as nullable any, optional <code>comparer</code> as nullable function) as table_
 # Description 
 Groups the rows of <code>table</code> by the values in the specified column,<code>key</code>, for each row.
     For each group, a record is constructed containing the key columns (and their values) along with any aggregated columns specified by <code>aggregatedColumns</code>. 

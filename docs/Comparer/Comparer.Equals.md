@@ -1,6 +1,6 @@
 ﻿# Comparer.Equals
 Returns a logical value based on the equality check over the two given values.
-> _function (comparer as function, optional x as nullable any, optional y as nullable any) as logical_
+> _function (<code>comparer</code> as function, optional <code>x</code> as nullable any, optional <code>y</code> as nullable any) as logical_
 # Description 
 Returns a <code>logical</code> value based on the equality check over the two given values, <code>x</code> and <code>y</code>, using the provided <code>comparer</code>.    
       <div>

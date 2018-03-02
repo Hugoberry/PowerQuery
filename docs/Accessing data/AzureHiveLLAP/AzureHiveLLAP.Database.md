@@ -1,6 +1,6 @@
 ﻿# AzureHiveLLAP.Database
 Import data from HDInsight Interactive Query
-> _function (server as text, database as text, optional options as nullable record) as table_
+> _function (<code>server</code> as text, <code>database</code> as text, optional <code>options</code> as nullable record) as table_
 # Description 
 Returns a list of tables from HDInsight Interactive Query specified by the <code>database</code> on the HDInsight Interactive Query <code>server</code>. A port number may be optionally specified with the server, separated by a colon. An optional <code>options</code> parameter may be specified to control the following options:
 <ul>

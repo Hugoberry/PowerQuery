@@ -1,6 +1,6 @@
 ﻿# Duration.FromText
 Returns a duration value from textual elapsed time forms (d.h:m:s).
-> _function (optional text as nullable any) as nullable any_
+> _function (optional <code>text</code> as nullable any) as nullable any_
 # Description 
 Returns a duration value from the specified text, <code>text</code>. The following formats can be parsed by this function: 
  <ul>

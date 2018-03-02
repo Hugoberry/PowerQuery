@@ -1,6 +1,6 @@
 ﻿# Record.FieldCount
 Returns the number of fields in the record.
-> _function (record as record) as number_
+> _function (<code>record</code> as record) as number_
 # Description 
 Returns the number of fields in the record <code>record</code>.
 # Category 

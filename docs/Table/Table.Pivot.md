@@ -1,6 +1,6 @@
 ﻿# Table.Pivot
 Given a pair of columns representing attribute-value pairs, rotates the data in the attribute column into a column headings.
-> _function (table as table, pivotValues as list, attributeColumn as text, valueColumn as text, optional aggregationFunction as nullable function) as table_
+> _function (<code>table</code> as table, <code>pivotValues</code> as list, <code>attributeColumn</code> as text, <code>valueColumn</code> as text, optional <code>aggregationFunction</code> as nullable function) as table_
 # Description 
 Given a pair of columns representing attribute-value pairs, rotates the data in the attribute column into a column headings.
 # Category 

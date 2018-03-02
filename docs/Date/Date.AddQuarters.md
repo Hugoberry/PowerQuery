@@ -1,6 +1,6 @@
 ﻿# Date.AddQuarters
 Adds the specified quarters to the date.
-> _function (optional dateTime as nullable any, numberOfQuarters as number) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>numberOfQuarters</code> as number) as nullable any_
 # Description 
 Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> result from adding <code>numberOfQuarters</code> quarters to the <code>datetime</code> value <code>dateTime</code>.
       <ul>

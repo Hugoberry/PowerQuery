@@ -1,6 +1,6 @@
 ﻿# Type.Is
 Type.Is
-> _function (type1 as type, type2 as type) as logical_
+> _function (<code>type1</code> as type, <code>type2</code> as type) as logical_
 # Description 
 Type.Is
 # Category 

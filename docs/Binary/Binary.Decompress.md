@@ -1,6 +1,6 @@
 ﻿# Binary.Decompress
 Decompresses a binary value using the given compression type.
-> _function (optional binary as nullable any, compressionType as number) as nullable any_
+> _function (optional <code>binary</code> as nullable any, <code>compressionType</code> as number) as nullable any_
 # Description 
 Decompresses a binary value using the given compression type.  The result of this call is a decompressed copy of the input. Compression types include: 
   <ul>

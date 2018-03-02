@@ -1,6 +1,6 @@
 ﻿# Date.AddYears
 Adds the specified years to the date.
-> _function (optional dateTime as nullable any, numberOfYears as number) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>numberOfYears</code> as number) as nullable any_
 # Description 
 Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> result of adding <code>numberOfYears</code> to a <code>datetime</code> value <code>dateTime</code>.
       <ul>

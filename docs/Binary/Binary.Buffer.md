@@ -1,6 +1,6 @@
 ﻿# Binary.Buffer
 Buffers the binary value in memory.
-> _function (optional binary as nullable any) as nullable any_
+> _function (optional <code>binary</code> as nullable any) as nullable any_
 # Description 
 Buffers the binary value in memory.  The result of this call is a stable binary value, which means it will have a deterministic length and order of bytes.
 # Category 

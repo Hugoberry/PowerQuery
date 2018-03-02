@@ -1,6 +1,6 @@
 ﻿# Table.FromList
 Converts a list into a table by applying the specified splitting function to each item in the list.
-> _function (list as list, optional splitter as nullable function, optional columns as nullable any, optional default as nullable any, optional extraValues as nullable any) as table_
+> _function (<code>list</code> as list, optional <code>splitter</code> as nullable function, optional <code>columns</code> as nullable any, optional <code>default</code> as nullable any, optional <code>extraValues</code> as nullable any) as table_
 # Description 
 Converts a list, <code>list</code> into a table by applying the optional splitting function, <code>splitter</code>, to each item in the list. By default, the list is assumed to be a list of text values that is split by commas. Optional <code>columns</code> may be the number of columns, a list of columns or a TableType. Optional <code>default</code> and <code>extraValues</code> may also be specified.
 # Category 

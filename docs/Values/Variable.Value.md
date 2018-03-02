@@ -1,6 +1,6 @@
 ﻿# Variable.Value
 Variable.Value
-> _function (identifier as text) as nullable any_
+> _function (<code>identifier</code> as text) as nullable any_
 # Description 
 Variable.Value
 # Category 

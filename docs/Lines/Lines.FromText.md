@@ -1,6 +1,6 @@
 ﻿# Lines.FromText
 Converts a text value to a list of text values split at lines breaks. If includeLineSeparators is true, then the line break characters are included in the text.
-> _function (text as text, optional quoteStyle as nullable any, optional includeLineSeparators as nullable any) as list_
+> _function (<code>text</code> as text, optional <code>quoteStyle</code> as nullable any, optional <code>includeLineSeparators</code> as nullable any) as list_
 # Description 
 Converts a text value to a list of text values split at lines breaks. If includeLineSeparators is true, then the line break characters are included in the text.
         <div>

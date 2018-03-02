@@ -1,6 +1,6 @@
 ﻿# Date.AddMonths
 Adds the specified months to the date.
-> _function (optional dateTime as nullable any, numberOfMonths as number) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>numberOfMonths</code> as number) as nullable any_
 # Description 
 Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> result from adding <code>numberOfMonths</code> months to the <code>datetime</code> value <code>dateTime</code>.
       <ul>

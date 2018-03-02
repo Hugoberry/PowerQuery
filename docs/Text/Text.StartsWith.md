@@ -1,6 +1,6 @@
 ﻿# Text.StartsWith
 Indicates whether the text starts with a specified value.
-> _function (optional text as nullable any, substring as text, optional comparer as nullable function) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>substring</code> as text, optional <code>comparer</code> as nullable function) as nullable any_
 # Description 
 Returns true if text value <code>text</code> starts with text value <code>substring</code>.
       <ul>

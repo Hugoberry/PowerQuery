@@ -1,6 +1,6 @@
 ﻿# Table.RemoveMatchingRows
 Removes all occurrences of the specified rows from the table.
-> _function (table as table, rows as list, optional equationCriteria as nullable any) as table_
+> _function (<code>table</code> as table, <code>rows</code> as list, optional <code>equationCriteria</code> as nullable any) as table_
 # Description 
 Removes all occurrences of the specified <code>rows</code> from the <code>table</code>. 
     An optional parameter <code>equationCriteria</code> may be specified to control the comparison between the rows of the table.

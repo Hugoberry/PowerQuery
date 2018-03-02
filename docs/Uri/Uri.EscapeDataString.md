@@ -1,6 +1,6 @@
 ﻿# Uri.EscapeDataString
 Encodes special characters in accordance with RFC 3986.
-> _function (data as text) as text_
+> _function (<code>data</code> as text) as text_
 # Description 
 Encodes special characters in the input <code>data</code> according to the rules of RFC 3986.
 # Category 

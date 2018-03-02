@@ -1,6 +1,6 @@
 ﻿# Number.Combinations
 Returns the number of unique combinations.
-> _function (optional setSize as nullable any, optional combinationSize as nullable any) as nullable any_
+> _function (optional <code>setSize</code> as nullable any, optional <code>combinationSize</code> as nullable any) as nullable any_
 # Description 
 Returns the number of unique combinations from a list of items, <code>setSize</code> with specified combination size, <code>combinationSize</code>.
 <ul>

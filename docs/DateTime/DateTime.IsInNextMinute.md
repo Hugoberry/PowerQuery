@@ -1,6 +1,6 @@
 ﻿# DateTime.IsInNextMinute
 Indicates whether this datetime occurs during the next minute, as determined by the current date and time on the system.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Indicates whether the given datetime value <code>dateTime</code> occurs during the next minute, as determined by the current date and time on the system.
       <ul>

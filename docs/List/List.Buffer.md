@@ -1,6 +1,6 @@
 ﻿# List.Buffer
 Buffers a list.
-> _function (list as list) as list_
+> _function (<code>list</code> as list) as list_
 # Description 
 Buffers the list <code>list</code> in memory. The result of this call is a stable list.
 # Category 

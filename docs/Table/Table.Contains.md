@@ -1,6 +1,6 @@
 ﻿# Table.Contains
 Indicates whether the specified record appears as a row in the table.
-> _function (table as table, row as record, optional equationCriteria as nullable any) as logical_
+> _function (<code>table</code> as table, <code>row</code> as record, optional <code>equationCriteria</code> as nullable any) as logical_
 # Description 
 Indicates whether the specified record, <code>row</code>, appears as a row in the <code>table</code>.
     An optional parameter <code>equationCriteria</code> may be specified to control comparison between the rows of the table.

@@ -1,6 +1,6 @@
 ﻿# Date.Month
 Returns the month component.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the month component of the provided <code>datetime</code> value, <code>dateTime</code>.
 # Category 

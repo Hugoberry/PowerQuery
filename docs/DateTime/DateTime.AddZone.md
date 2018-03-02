@@ -1,6 +1,6 @@
 ﻿# DateTime.AddZone
 Sets timezone information on the datetime value.
-> _function (optional dateTime as nullable any, timezoneHours as number, optional timezoneMinutes as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any, <code>timezoneHours</code> as number, optional <code>timezoneMinutes</code> as nullable any) as nullable any_
 # Description 
 Sets timezone information to on the datetime value <code>dateTime</code>. The timezone information will include <code>timezoneHours</code> and optionally <code>timezoneMinutes</code>.
 # Category 

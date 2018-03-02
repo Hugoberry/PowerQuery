@@ -1,6 +1,6 @@
 ﻿# Table.TransformRows
 Transforms the rows of the table using the specified transform function.
-> _function (table as table, transform as function) as list_
+> _function (<code>table</code> as table, <code>transform</code> as function) as list_
 # Description 
 Creates a table from <code>table</code> by applying the <code>transform</code> operation to the rows.
     If the return type of the <code>transform</code> function is specified, then the result will be a table with that row type.  In all other cases, the result of this function will be a list with an item type of the return type of the transform function.

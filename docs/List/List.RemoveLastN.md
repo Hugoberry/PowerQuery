@@ -1,6 +1,6 @@
 ﻿# List.RemoveLastN
 Returns a list that removes the specified number of elements from the end of the list.
-> _function (list as list, optional countOrCondition as nullable any) as list_
+> _function (<code>list</code> as list, optional <code>countOrCondition</code> as nullable any) as list_
 # Description 
 Returns a list that removes the last <code>countOrCondition</code> elements from the end of list <code>list</code>. If <code>list</code> has less than <code>countOrCondition</code> elements, an empty list is returned.
  <ul>

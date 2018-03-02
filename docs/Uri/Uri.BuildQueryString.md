@@ -1,6 +1,6 @@
 ﻿# Uri.BuildQueryString
 Assemble a record into a URI query string.
-> _function (query as record) as text_
+> _function (<code>query</code> as record) as text_
 # Description 
 Assemble the record <code>query</code> into a URI query string, escaping characters as necessary.
 # Category 

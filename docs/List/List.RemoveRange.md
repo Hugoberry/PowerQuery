@@ -1,6 +1,6 @@
 ﻿# List.RemoveRange
 Removes count number of values starting at the specified position.
-> _function (list as list, index as number, optional count as nullable any) as list_
+> _function (<code>list</code> as list, <code>index</code> as number, optional <code>count</code> as nullable any) as list_
 # Description 
 Removes <code>count</code> values in the <code>list</code> starting at the specified position, <code>index</code>.
 # Category 

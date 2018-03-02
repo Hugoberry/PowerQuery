@@ -1,6 +1,6 @@
 ﻿# Diagnostics.Trace
 Writes a trace entry, if tracing is enabled, and returns the value.
-> _function (traceLevel as number, message as text, optional value as nullable any, optional delayed as nullable any) as nullable any_
+> _function (<code>traceLevel</code> as number, <code>message</code> as text, optional <code>value</code> as nullable any, optional <code>delayed</code> as nullable any) as nullable any_
 # Description 
 Writes a trace <code>message</code>, if tracing is enabled, and returns <code>value</code>. An optional parameter <code>delayed</code> specifies whether to delay the evaluation of <code>value</code> until the message is traced. <code>traceLevel</code> can take one of the following values:
     <code>TraceLevel.Critical</code>

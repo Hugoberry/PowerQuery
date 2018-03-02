@@ -1,6 +1,6 @@
 ﻿# Table.Distinct
 Removes duplicate rows from the table.
-> _function (table as table, optional equationCriteria as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>equationCriteria</code> as nullable any) as table_
 # Description 
 Removes duplicate rows from the table <code>table</code>. 
     An optional parameter, <code>equationCriteria</code>, specifies which columns of the table are tested for duplication. If <code>equationCriteria</code> is not specified, all columns are tested.

@@ -1,6 +1,6 @@
 ﻿# Text.EndsWith
 Indicates whether the text ends in the specified value.
-> _function (optional text as nullable any, substring as text, optional comparer as nullable function) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>substring</code> as text, optional <code>comparer</code> as nullable function) as nullable any_
 # Description 
 Indicates whether the given text, <code>text</code>, ends with the specified value, <code>substring</code>. The indication is case-sensitive. 
     

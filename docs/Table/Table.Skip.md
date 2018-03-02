@@ -1,6 +1,6 @@
 ﻿# Table.Skip
 Returns a table with the first count rows skipped.
-> _function (table as table, optional countOrCondition as nullable any) as table_
+> _function (<code>table</code> as table, optional <code>countOrCondition</code> as nullable any) as table_
 # Description 
 Returns a table that does not contain the first specified number of rows, <code>countOrCondition</code>, of the table <code>table</code>. 
     The number of rows skipped depends on the optional parameter <code>countOrCondition</code>. 

@@ -1,6 +1,6 @@
 ﻿# Table.IsEmpty
 Indicates whether the table contains any rows.
-> _function (table as table) as logical_
+> _function (<code>table</code> as table) as logical_
 # Description 
 Indicates whether the <code>table</code> contains any rows. Returns <code>true</code> if there are no rows (i.e. the table is empty), <code>false</code> otherwise.
 # Category 

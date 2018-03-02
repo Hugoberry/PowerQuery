@@ -1,6 +1,6 @@
 ﻿# List.IsEmpty
 Returns true if the list is empty.
-> _function (list as list) as logical_
+> _function (<code>list</code> as list) as logical_
 # Description 
 Returns <code>true</code> if the list, <code>list</code>, contains no values (length 0). If the list contains values (length > 0), returns <code>false</code>.
 # Category 

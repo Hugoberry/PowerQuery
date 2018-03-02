@@ -1,6 +1,6 @@
 ﻿# Number.IsOdd
 Indicates if the value is odd.
-> _function (number as number) as logical_
+> _function (<code>number</code> as number) as logical_
 # Description 
 Indicates if the value is odd. Returns <code>true</code> if <code>number</code> is an odd number, <code>false</code> otherwise.
 # Category 

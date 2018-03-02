@@ -1,6 +1,6 @@
 ﻿# Text.PositionOf
 Returns the first position of the value (-1 if not found).
-> _function (text as text, substring as text, optional occurrence as nullable any, optional comparer as nullable function) as nullable any_
+> _function (<code>text</code> as text, <code>substring</code> as text, optional <code>occurrence</code> as nullable any, optional <code>comparer</code> as nullable function) as nullable any_
 # Description 
 Returns the position of the specified occurrence of the text value <code>substring</code> found in <code>text</code>. 
     An optional parameter <code>occurrence</code> may be used to specify which occurrence position to return (first occurrence by default).

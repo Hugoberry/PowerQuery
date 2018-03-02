@@ -1,6 +1,6 @@
 ﻿# BinaryFormat.UnsignedInteger32
 A binary format that reads a 32-bit unsigned integer.
-> _function (binary as binary) as nullable any_
+> _function (<code>binary</code> as binary) as nullable any_
 # Description 
 A binary format that reads a 32-bit unsigned integer.
 # Category 

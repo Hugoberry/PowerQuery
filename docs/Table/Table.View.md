@@ -1,6 +1,6 @@
 ﻿# Table.View
 Creates or extends a table with user-defined handlers for query and action operations.
-> _function (optional table as nullable table, handlers as record) as table_
+> _function (optional <code>table</code> as nullable table, <code>handlers</code> as record) as table_
 # Description 
 <p>Returns a view of <code>table</code> where the functions specified in <code>handlers</code> are used in lieu of the default behavior of an operation when the operation is applied to the view.</p>
 <p>Handler functions are optional. If a handler function is not specified for an operation, the default behavior of the operation is applied to <code>table</code> instead (except in the case of <code>GetExpression</code>).</p>

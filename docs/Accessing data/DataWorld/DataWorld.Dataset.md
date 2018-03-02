@@ -1,6 +1,6 @@
 ﻿# DataWorld.Dataset
 
-> _function (owner as text, id as text, optional query as nullable any) as table_
+> _function (<code>owner</code> as text, <code>id</code> as text, optional <code>query</code> as nullable any) as table_
 # Description 
 Retrieves a dataset from Data.World
 # Category 

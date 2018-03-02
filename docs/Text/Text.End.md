@@ -1,6 +1,6 @@
 ﻿# Text.End
 Returns the last characters of the text.
-> _function (optional text as nullable any, count as number) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>count</code> as number) as nullable any_
 # Description 
 Returns a <code>text</code> value that is the last <code>count</code> characters of the <code>text</code> value <code>text</code>.
 # Category 

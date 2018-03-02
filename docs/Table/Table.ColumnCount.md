@@ -1,6 +1,6 @@
 ﻿# Table.ColumnCount
 Returns the number of columns in the table.
-> _function (table as table) as number_
+> _function (<code>table</code> as table) as number_
 # Description 
 Returns the number of columns in the table <code>table</code>.
 # Category 

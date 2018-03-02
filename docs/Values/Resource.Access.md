@@ -1,6 +1,6 @@
 ﻿# Resource.Access
 Resource.Access
-> _function (optional resource as nullable any, optional nativeQuery as nullable any, optional options as nullable record) as nullable any_
+> _function (optional <code>resource</code> as nullable any, optional <code>nativeQuery</code> as nullable any, optional <code>options</code> as nullable record) as nullable any_
 # Description 
 Resource.Access
 # Category

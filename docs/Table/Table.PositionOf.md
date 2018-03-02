@@ -1,6 +1,6 @@
 ﻿# Table.PositionOf
 Returns the position or positions of the row within the table.
-> _function (table as table, row as record, optional occurrence as nullable any, optional equationCriteria as nullable any) as nullable any_
+> _function (<code>table</code> as table, <code>row</code> as record, optional <code>occurrence</code> as nullable any, optional <code>equationCriteria</code> as nullable any) as nullable any_
 # Description 
 Returns the row position of the first occurrence of the <code>row</code> in the <code>table</code> specified. Returns -1 if no occurrence is found.  
     <ul>

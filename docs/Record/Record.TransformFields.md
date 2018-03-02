@@ -1,6 +1,6 @@
 ﻿# Record.TransformFields
 Returns a record after applying specified transformations.
-> _function (record as record, transformOperations as list, optional missingField as nullable any) as record_
+> _function (<code>record</code> as record, <code>transformOperations</code> as list, optional <code>missingField</code> as nullable any) as record_
 # Description 
 Returns a record after applying transformations specified in list <code>transformOperations</code> to <code>record</code>.
     One or more fields may be transformed at a given time. 

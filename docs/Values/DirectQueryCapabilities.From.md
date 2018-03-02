@@ -1,6 +1,6 @@
 ﻿# DirectQueryCapabilities.From
 DirectQueryCapabilities.From
-> _function (optional value as nullable any) as table_
+> _function (optional <code>value</code> as nullable any) as table_
 # Description 
 DirectQueryCapabilities.From
 # Category 

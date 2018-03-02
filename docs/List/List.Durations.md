@@ -1,6 +1,6 @@
 ﻿# List.Durations
 Generates a list of duration values given an initial value, count, and incremental duration value.
-> _function (start as duration, count as number, step as duration) as list_
+> _function (<code>start</code> as duration, <code>count</code> as number, <code>step</code> as duration) as list_
 # Description 
 Returns a list of <code>count</code> <code>duration</code> values, starting at <code>start</code> and incremented by the given <code>duration</code> <code>step</code>.
 # Category 

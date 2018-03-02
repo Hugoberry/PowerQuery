@@ -1,6 +1,6 @@
 ﻿# SparkPost.NavTable
 Enter the number of days of metrics to retrieve from SparkPost.
-> _function (DaysOffset as number) as table_
+> _function (<code>DaysOffset</code> as number) as table_
 # Description 
 
 # Category 

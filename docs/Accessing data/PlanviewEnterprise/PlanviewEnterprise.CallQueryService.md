@@ -1,6 +1,6 @@
 ﻿# PlanviewEnterprise.CallQueryService
 Enter the URL, database name associated with your Planview Enterprise account and a SQL query.
-> _function (url as text, database as text, sqlQueryString as text) as table_
+> _function (<code>url</code> as text, <code>database</code> as text, <code>sqlQueryString</code> as text) as table_
 # Description 
 Returns a table with Planview Enterprise data.
 # Category 

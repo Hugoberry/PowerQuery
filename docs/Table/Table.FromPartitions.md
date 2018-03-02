@@ -1,6 +1,6 @@
 ﻿# Table.FromPartitions
 Returns a table that is the result of combining a set of partitioned tables.
-> _function (partitionColumn as text, partitions as list, optional partitionColumnType as nullable any) as table_
+> _function (<code>partitionColumn</code> as text, <code>partitions</code> as list, optional <code>partitionColumnType</code> as nullable any) as table_
 # Description 
 Returns a table that is the result of combining a set of partitioned tables, <code>partitions</code>. <code>partitionColumn</code> is the name of the column to add. The type of the column defaults to <code>any</code>, but can be specified by <code>partitionColumnType</code>.
 # Category 

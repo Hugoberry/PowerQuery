@@ -1,6 +1,6 @@
 ﻿# Text.Middle
 Returns the substring up to a specific length.
-> _function (optional text as nullable any, start as number, optional count as nullable any) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>start</code> as number, optional <code>count</code> as nullable any) as nullable any_
 # Description 
 Returns <code>count</code> characters, or through the end of <code>text</code>; at the offset <code>start</code>.
 # Category 

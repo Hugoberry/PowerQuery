@@ -1,6 +1,6 @@
 ﻿# List.InsertRange
 Inserts values into a list at the given index.
-> _function (list as list, index as number, values as list) as list_
+> _function (<code>list</code> as list, <code>index</code> as number, <code>values</code> as list) as list_
 # Description 
 Returns a new list produced by inserting the values in <code>values</code> into <code>list</code> at <code>index</code>. The first position in the list is at index 0.
       <ul>

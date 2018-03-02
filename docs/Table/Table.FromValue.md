@@ -1,6 +1,6 @@
 ﻿# Table.FromValue
 Creates a table with a column from the provided value(s).
-> _function (optional value as nullable any, optional options as nullable record) as table_
+> _function (optional <code>value</code> as nullable any, optional <code>options</code> as nullable record) as table_
 # Description 
 Creates a table with a column containing the provided value or list of values, <code>value</code>. An optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>

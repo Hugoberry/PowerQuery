@@ -1,6 +1,6 @@
 ﻿# Record.FieldNames
 Returns the names of the fields.
-> _function (record as record) as list_
+> _function (<code>record</code> as record) as list_
 # Description 
 Returns the names of the fields in the record <code>record</code> as text.
 # Category 

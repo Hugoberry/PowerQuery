@@ -1,6 +1,6 @@
 ﻿# DateTimeZone.ToUtc
 Converts the timezone component to UTC timezone.
-> _function (optional dateTimeZone as nullable any) as nullable any_
+> _function (optional <code>dateTimeZone</code> as nullable any) as nullable any_
 # Description 
 Changes timezone information of the datetime value <code>dateTimeZone</code> to the UTC or Universal Time timezone information.
     If <code>dateTimeZone</code> does not have a timezone component, the UTC timezone information is added.

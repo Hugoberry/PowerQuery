@@ -1,6 +1,6 @@
 ﻿# Json.FromValue
 Produces a JSON representation of a given value.
-> _function (optional value as nullable any, optional encoding as nullable any) as binary_
+> _function (optional <code>value</code> as nullable any, optional <code>encoding</code> as nullable any) as binary_
 # Description 
 <p>Produces a JSON representation of a given value <code>value</code> with a text encoding specified by <code>encoding</code>. If <code>encoding</code> is omitted, UTF8 is used. Values are represented as follows:</p>
  <ul>

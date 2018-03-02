@@ -1,6 +1,6 @@
 ﻿# Table.ReplaceRows
 Replaces the specified range of rows with the provided row(s).
-> _function (table as table, offset as number, count as number, rows as list) as table_
+> _function (<code>table</code> as table, <code>offset</code> as number, <code>count</code> as number, <code>rows</code> as list) as table_
 # Description 
 Replaces a specified number of rows, <code>count</code>, in the input <code>table</code> with the specified <code>rows</code>, beginning after the <code>offset</code>. The <code>rows</code> parameter is a list of records.
     <ul>

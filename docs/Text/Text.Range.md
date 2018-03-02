@@ -1,6 +1,6 @@
 ﻿# Text.Range
 Returns the substring found at offset.
-> _function (optional text as nullable any, offset as number, optional count as nullable any) as nullable any_
+> _function (optional <code>text</code> as nullable any, <code>offset</code> as number, optional <code>count</code> as nullable any) as nullable any_
 # Description 
 Returns the substring from the text <code>text</code> found at the offset <code>offset</code>. 
     An optional parameter, <code>count</code>, can be included to specify how many characters to return. Throws an error if there aren't enough characters.

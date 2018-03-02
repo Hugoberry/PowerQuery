@@ -1,6 +1,6 @@
 ﻿# Table.AggregateTableColumn
 Aggregates a column of tables into multiple columns in the containing table.
-> _function (table as table, column as text, aggregations as list) as table_
+> _function (<code>table</code> as table, <code>column</code> as text, <code>aggregations</code> as list) as table_
 # Description 
 Aggregates tables in <code>table</code>[<code>column</code>] into multiple columns containing aggregate values for the tables. <code>aggregations</code> is used to specify the columns containing the tables to aggregate, the aggregation functions to apply to the tables to generate their values, and the names of the aggregate columns to create.
 # Category 

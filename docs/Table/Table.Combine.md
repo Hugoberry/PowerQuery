@@ -1,6 +1,6 @@
 ﻿# Table.Combine
 Returns a table that is the result of merging a list of tables.
-> _function (tables as list) as table_
+> _function (<code>tables</code> as list) as table_
 # Description 
 Returns a table that is the result of merging a list of tables, <code>tables</code>. The tables must all have the same row type structure.
 # Category 

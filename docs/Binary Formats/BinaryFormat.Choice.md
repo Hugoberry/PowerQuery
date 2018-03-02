@@ -1,6 +1,6 @@
 ﻿# BinaryFormat.Choice
 Returns a binary format that chooses the next binary format based on a value that has already been read.
-> _function (binaryFormat as function, chooseFunction as function, optional type as nullable any, optional combineFunction as nullable function) as function_
+> _function (<code>binaryFormat</code> as function, <code>chooseFunction</code> as function, optional <code>type</code> as nullable any, optional <code>combineFunction</code> as nullable function) as function_
 # Description 
 Returns a binary format that chooses the next binary format based on a value that has already been read.  The binary format value produced by this function works in stages:<ul>
 <li>The binary format specified by the <code>binaryFormat</code> parameter is used to read a value.</li>

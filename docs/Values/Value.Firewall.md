@@ -1,6 +1,6 @@
 ﻿# Value.Firewall
 Value.Firewall
-> _function (key as text) as nullable any_
+> _function (<code>key</code> as text) as nullable any_
 # Description 
 Value.Firewall
 # Category 

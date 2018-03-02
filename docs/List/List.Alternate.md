@@ -1,6 +1,6 @@
 ﻿# List.Alternate
 Returns a list comprised of all the odd numbered offset elements in a list.
-> _function (list as list, count as number, optional repeatInterval as nullable any, optional offset as nullable any) as list_
+> _function (<code>list</code> as list, <code>count</code> as number, optional <code>repeatInterval</code> as nullable any, optional <code>offset</code> as nullable any) as list_
 # Description 
 Returns a list comprised of all the odd numbered offset elements in a list. Alternates between taking and skipping values from the list <code>list</code> depending on the parameters.
     <ul>

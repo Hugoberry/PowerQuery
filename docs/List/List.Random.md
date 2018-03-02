@@ -1,6 +1,6 @@
 ﻿# List.Random
 Returns a list of random numbers.
-> _function (count as number, optional seed as nullable any) as list_
+> _function (<code>count</code> as number, optional <code>seed</code> as nullable any) as list_
 # Description 
 Returns a list of random numbers between 0 and 1, given the number of values to generate and an optional seed value. 
 <ul>

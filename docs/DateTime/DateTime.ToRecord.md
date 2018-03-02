@@ -1,6 +1,6 @@
 ﻿# DateTime.ToRecord
 Returns a record containing the datetime value's parts.
-> _function (dateTime as datetime) as record_
+> _function (<code>dateTime</code> as datetime) as record_
 # Description 
 Returns a record containing the parts of the given datetime value, <code>dateTime</code>.
  <ul>

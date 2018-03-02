@@ -1,6 +1,6 @@
 ﻿# comScore.NavTable
 
-> _function (datacenter as text, client as text, optional startDate as nullable any, optional endDate as nullable any) as table_
+> _function (<code>datacenter</code> as text, <code>client</code> as text, optional <code>startDate</code> as nullable any, optional <code>endDate</code> as nullable any) as table_
 # Description 
 
 # Category 

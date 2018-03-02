@@ -1,6 +1,6 @@
 ﻿# Web.Contents
 Returns the contents downloaded from the url as binary.
-> _function (url as text, optional options as nullable record) as binary_
+> _function (<code>url</code> as text, optional <code>options</code> as nullable record) as binary_
 # Description 
 Returns the contents downloaded from <code>url</code> as binary. An optional record parameter, <code>options</code>, may be provided to specify additional properties. The record can contain the following fields:
      <ul>

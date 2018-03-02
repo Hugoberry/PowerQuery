@@ -1,6 +1,6 @@
 ﻿# Date.Day
 Returns the day component.
-> _function (optional dateTime as nullable any) as nullable any_
+> _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the day component of a <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value.
       <ul>

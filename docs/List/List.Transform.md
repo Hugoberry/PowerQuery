@@ -1,6 +1,6 @@
 ﻿# List.Transform
 Returns a new list of values computed from this list.
-> _function (list as list, transform as function) as list_
+> _function (<code>list</code> as list, <code>transform</code> as function) as list_
 # Description 
 Returns a new list of values by applying the transform function <code>transform</code> to the list, <code>list</code>.
 # Category 

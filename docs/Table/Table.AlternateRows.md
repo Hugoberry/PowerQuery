@@ -1,6 +1,6 @@
 ﻿# Table.AlternateRows
 Keeps the initial offset then alternates taking and skipping the following rows.
-> _function (table as table, offset as number, skip as number, take as number) as table_
+> _function (<code>table</code> as table, <code>offset</code> as number, <code>skip</code> as number, <code>take</code> as number) as table_
 # Description 
 Keeps the initial offset then alternates taking and skipping the following rows.
     <ul>

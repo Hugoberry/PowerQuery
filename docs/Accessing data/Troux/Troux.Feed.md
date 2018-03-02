@@ -1,6 +1,6 @@
 ﻿# Troux.Feed
 Enter the URL of your Troux account.
-> _function (url as text) as table_
+> _function (<code>url</code> as text) as table_
 # Description 
 Returns a table with relevant Troux data.
 # Category 

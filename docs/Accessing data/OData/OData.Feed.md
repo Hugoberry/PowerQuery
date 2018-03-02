@@ -1,6 +1,6 @@
 ﻿# OData.Feed
 Returns a table of OData feeds offered by an OData service.
-> _function (serviceUri as text, optional headers as nullable record, optional options as nullable any) as nullable any_
+> _function (<code>serviceUri</code> as text, optional <code>headers</code> as nullable record, optional <code>options</code> as nullable any) as nullable any_
 # Description 
 Returns a table of OData feeds offered by an OData service from a uri <code>serviceUri</code>, headers <code>headers</code>. A boolean value specifying whether to use concurrent connections or an optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>
