@@ -9,8 +9,6 @@ Returns the row position of the first occurrence of the <code>row</code> in the 
        <li><code>occurrence</code>: <i>[Optional]</i> Specifies which occurrences of the row to return.</li>
        <li><code>equationCriteria</code>: <i>[Optional]</i> Controls the comparison between the table rows.</li>
     </ul>
-    
-
 # Category 
 Table.Membership
 # Examples 

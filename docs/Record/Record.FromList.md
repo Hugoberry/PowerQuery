@@ -3,7 +3,6 @@ Returns a record given a list of field values and a set of fields.
 > _function (<code>list</code> as list, optional <code>fields</code> as nullable any) as record_
 # Description 
 Returns a record given a <code>list</code> of field values and a set of fields.  The <code>fields</code> can be specified either by a list of text values, or a record type.  An error is thrown if the fields are not unique.
-
 # Category 
 Record.Serialization
 # Examples 

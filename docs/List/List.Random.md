@@ -7,7 +7,6 @@ Returns a list of random numbers between 0 and 1, given the number of values to 
    <li><code>count</code>: The number of random values to generate.</li>
    <li><code>seed</code>:  <i>[Optional]</i> A numeric value used to seed the random number generator.  If omitted a unique list of random numbers is generated each time you call the function.  If you specify the seed value with a number every call to the function generates the same list of random numbers.</li>
 </ul>
-
 # Category 
 List.Generators
 # Examples 

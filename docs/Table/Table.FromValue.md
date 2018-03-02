@@ -6,8 +6,6 @@ Creates a table with a column containing the provided value or list of values, <
     <ul>
     <li> <code>DefaultColumnName</code> : The column name used when constructing a table from a list or scalar value.</li>
     </ul>
-  
-
 # Category 
 Table.Table construction
 # Examples 

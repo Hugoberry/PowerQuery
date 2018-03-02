@@ -7,7 +7,6 @@ Returns the last row(s) from the table, <code>table</code>, depending on the val
     <li> If <code>countOrCondition</code> is a number, that many rows will be returned starting from position (end - <code>countOrCondition</code>). </li>
     <li> If <code>countOrCondition</code> is a condition, the rows that meet the condition will be returned in ascending position until a row does not meet the condition.</li>
 </ul>
-
 # Category 
 Table.Row operations
 # Examples 

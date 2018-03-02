@@ -5,8 +5,6 @@ Returns the highest previous number. The number of digits can be specified.
 Returns the result of rounding <code>number</code> down to the previous highest integer. If <code>number</code> is null, <code>Number.RoundDown</code> returns null.
     
     If <code>digits</code> is specified, <code>number</code> is rounded to the <code>digits</code> number of decimal digits.
-  
-
 # Category 
 Number.Rounding
 # Examples 

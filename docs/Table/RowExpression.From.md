@@ -21,7 +21,6 @@ Returns the AST for the body of a function.
 </ul>
 </p>
 </p>An error is raised if a row expression AST cannot be returned for the body of <code>function</code>.</p>
-
 # Category 
 Table.Table construction
 # Examples 

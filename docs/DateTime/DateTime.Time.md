@@ -3,7 +3,6 @@ Returns the time part of the given datetime value.
 > _function (optional <code>dateTime</code> as nullable any) as nullable any_
 # Description 
 Returns the time part of the given datetime value, <code>dateTime</code>.
-
 # Category 
 DateTime
 # Examples 

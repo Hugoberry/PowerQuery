@@ -4,7 +4,6 @@ Changes the timezone of the value.
 # Description 
 Changes timezone information to on the datetimezone value <code>dateTimeZone</code> to the new timezone information provided by <code>timezoneHours</code> and optionally <code>timezoneMinutes</code>.
     If <code>dateTimeZone</code> does not have a timezone component, an exception is thrown.
-
 # Category 
 DateTimeZone
 # Examples 

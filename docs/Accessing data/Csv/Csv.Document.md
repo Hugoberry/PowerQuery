@@ -9,8 +9,6 @@ Returns the contents of the CSV document as a table.
      <li> Please refer to <code>ExtraValues.Type</code> for supported values of optional <code>extraValues</code>.</li>
      <li> <code>encoding</code> specifies the text encoding type.</li>
     </ul>
-    
-
 # Category 
 Accessing data
 # Examples 

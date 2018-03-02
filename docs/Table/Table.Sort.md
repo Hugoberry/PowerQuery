@@ -3,7 +3,6 @@ Sorts the table using one or more column names and comparison criteria.
 > _function (<code>table</code> as table, optional <code>comparisonCriteria</code> as nullable any) as table_
 # Description 
 Sorts the <code>table</code> using the list of one or more column names and optional <code>comparisonCriteria</code> in the form { { col1, comparisonCriteria }, {col2} }.
-
 # Category 
 Table.Ordering
 # Examples 

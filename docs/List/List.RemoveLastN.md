@@ -8,7 +8,6 @@ Returns a list that removes the last <code>countOrCondition</code> elements from
  <li>If a condition is specified, the returned list ends with the first element from the bottom in <code>list</code> that meets the criteria. Once an item fails the condition, no further items are considered. </li>
  <li>If this parameter is null, only one item is removed. </li>
  </ul>
-
 # Category 
 List.Transformation functions
 # Examples 

@@ -3,7 +3,6 @@ Returns the day of the week name.
 > _function (optional <code>date</code> as nullable any, optional <code>culture</code> as nullable any) as nullable any_
 # Description 
 Returns the day of the week name for the provided <code>date</code> and, optionally, a culture <code>culture</code>.
-
 # Category 
 Date
 # Examples 

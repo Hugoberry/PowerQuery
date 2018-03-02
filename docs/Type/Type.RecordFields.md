@@ -3,7 +3,6 @@ Returns a record describing the fields of a record type with each field of the r
 > _function (<code>type</code> as type) as record_
 # Description 
 Returns a record describing the fields of a record <code>type</code>. Each field of the returned record type has a corresponding name and a value, in the form of a record <code>[ Type = type, Optional = logical ]</code>.
-
 # Category 
 Type
 # Examples 

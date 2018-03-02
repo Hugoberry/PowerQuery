@@ -3,7 +3,6 @@ Returns a table with only those rows of the input table that contain an error in
 > _function (<code>table</code> as table, optional <code>columns</code> as nullable list) as table_
 # Description 
 Returns a table with only those rows of the input table that contain an error in at least one of the cells. If a columns list is specified, then only the cells in the specified columns are inspected for errors.
-
 # Category 
 Table.Row operations
 # Examples 

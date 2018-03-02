@@ -9,7 +9,5 @@ Returns a table listing the available projects in Google BigQuery. An optional r
         <li><code>BillingProject</code>: Billing project name. The default value is the first available project.</li>
       </ul>
     The record parameter is specified as [option1 = value1, option2 = value2...].
-    
-
 # Category 
 Accessing data

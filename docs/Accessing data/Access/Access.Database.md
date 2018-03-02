@@ -9,6 +9,5 @@ Returns a structural representation of an Access database, <code>database</code>
 </ul>
 
     The record parameter is specified as [option1 = value1, option2 = value2...] for example.
-
 # Category 
 Accessing data

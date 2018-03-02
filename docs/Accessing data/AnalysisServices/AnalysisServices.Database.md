@@ -12,8 +12,5 @@ Returns a table of multidimensional cubes or tabular models from the Analysis Se
 <li><code>SubQueries</code> : A number (0, 1 or 2) that sets the value of the &quot;SubQueries&quot; property in the connection string. This controls the behavior of calculated members on subselects or subcubes. (The default value is 2).</li>
 <li><code>Implementation</code></li>
 </ul>
-
-    
-
 # Category 
 Accessing data

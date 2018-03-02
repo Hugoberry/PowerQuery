@@ -7,7 +7,6 @@ Creates a <code>time</code> value from a textual representation, <code>text</cod
    <li> <code>Time.FromText("12:34:12") </code> // Time, hh:mm:ss </li>
    <li> <code>Time.FromText("12:34:12.1254425") </code> // hh:mm:ss.nnnnnnn </li>
   </ul>
-
 # Category 
 Time
 # Examples 

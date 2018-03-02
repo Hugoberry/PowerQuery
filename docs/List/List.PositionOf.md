@@ -7,7 +7,6 @@ Returns the offset at which the value <code>value</code> appears in the list <co
 <ul>
    <li><code>occurrence</code>: The maximum number of occurrences to report.</li>
 </ul>
-
 # Category 
 List.Membership functions
 # Examples 

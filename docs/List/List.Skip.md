@@ -9,7 +9,6 @@ This function takes an optional parameter, <code>countOrCondition</code>, to sup
  <li>If a condition is specified, the returned list begins with the first element in <code>list</code> that meets the criteria. Once an item fails the condition, no further items are considered. </li>
  <li>If this parameter is null, the default behavior is observed. </li>
  </ul>
-
 # Category 
 List.Selection
 # Examples 

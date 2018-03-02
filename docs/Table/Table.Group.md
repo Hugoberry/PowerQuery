@@ -5,8 +5,7 @@ Groups rows in the table that have the same key.
 Groups the rows of <code>table</code> by the values in the specified column,<code>key</code>, for each row.
     For each group, a record is constructed containing the key columns (and their values) along with any aggregated columns specified by <code>aggregatedColumns</code>. 
     Note if multiple keys match the comparer, different keys may be returned. This function cannot guarantee to return a fixed order of rows.
-    Optionally, <code>groupKind</code> and <code>comparer</code> may also be specifed. 
-
+    Optionally, <code>groupKind</code> and <code>comparer</code> may also be specifed.
 # Category 
 Table.Transformation
 # Examples 

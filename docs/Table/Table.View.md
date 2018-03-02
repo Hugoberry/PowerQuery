@@ -8,6 +8,5 @@ Creates or extends a table with user-defined handlers for query and action opera
 <p>If a handler function raises an error, the default behavior of the operation is applied to the view.</p>
 <p><code>Table.View</code> can be used to implement folding to a data source – the translation of M queries into source-specific queries (e.g. to create T-SQL statements from M queries).</p>
 <p>Please see the published documentation for a more complete description of <code>Table.View</code>.</p>
-
 # Category 
 Table.Table construction

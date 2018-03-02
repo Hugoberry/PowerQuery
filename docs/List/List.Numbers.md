@@ -8,7 +8,6 @@ Returns a list of numbers given an initial value, count, and optional increment 
    <li><code>count</code>: The number of values to create.</li>
    <li><code>increment</code>: <i>[Optional]</i> The value to increment by. If omitted values are incremented by 1.</li>
 </ul>
-
 # Category 
 List.Generators
 # Examples 

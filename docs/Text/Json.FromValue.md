@@ -13,8 +13,6 @@ Produces a JSON representation of a given value.
         <li>Binary values are represented as base-64 encoded text</li>
         <li>Types and functions produce an error</li>
  </ul>
-    
-
 # Category 
 Text.Conversions from and to text
 # Examples 

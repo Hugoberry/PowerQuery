@@ -3,7 +3,6 @@ Enter the URL, database name associated with your Planview Enterprise account an
 > _function (<code>url</code> as text, <code>database</code> as text, <code>sqlQueryString</code> as text) as table_
 # Description 
 Returns a table with Planview Enterprise data.
-
 # Category 
 Accessing data
 # Examples 

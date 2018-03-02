@@ -9,7 +9,6 @@ Returns the last item of the list <code>list</code>. If the list is empty, an ex
   <li>If a condition is specified, all items are returned that initially meet the condition, starting at the end of the list. Once an item fails the condition, no further items are considered. </li>
   <li>If this parameter is null the last item in the list is returned.</li>
  </ul>
-
 # Category 
 List.Selection
 # Examples 

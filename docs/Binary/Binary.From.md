@@ -7,7 +7,6 @@ Returns a <code>binary</code> value from the given <code>value</code>. If the gi
         <li><code>text</code>: A <code>binary</code> value from the text representation. See <code>Binary.FromText</code> for details.</li>        
       </ul>
 If <code>value</code> is of any other type, an error is returned.
-
 # Category 
 Binary
 # Examples 

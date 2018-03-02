@@ -9,8 +9,6 @@ Keeps the initial offset then alternates taking and skipping the following rows.
        <li><code>skip</code>: The number of rows to remove in each iteration.</li>
        <li><code>take</code>: The number of rows to keep in each iteration.</li>
     </ul>
-    
-
 # Category 
 Table.Row operations
 # Examples 

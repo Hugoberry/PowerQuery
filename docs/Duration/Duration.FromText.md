@@ -14,7 +14,6 @@ Returns a duration value from the specified text, <code>text</code>. The followi
         mm: Number of minutes, between 0 and 59.<br>
         ss: Number of seconds, between 0 and 59.<br>
         ff: Fraction of seconds, between 0 and 9999999.
-
 # Category 
 Duration
 # Examples 

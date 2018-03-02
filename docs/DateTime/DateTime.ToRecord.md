@@ -6,7 +6,6 @@ Returns a record containing the parts of the given datetime value, <code>dateTim
  <ul>
         <li><code>dateTime</code>: A <code>datetime</code> value for from which the record of its parts is to be calculated.</li>    
       </ul>
-
 # Category 
 DateTime
 # Examples 

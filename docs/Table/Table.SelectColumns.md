@@ -8,8 +8,6 @@ Returns the <code>table</code> with only the specified <code>columns</code>.
        <li><code>columns</code>: The list of columns from the table <code>table</code> to return. Columns in the returned table are in the order listed in <code>columns</code>.</li>
        <li><code>missingField</code>: <i>(Optional)</i> What to do if the columnn does not exist.  Example: <code>MissingField.UseNull</code> or <code>MissingField.Ignore</code>.
     </ul>
-    
-
 # Category 
 Table.Column operations
 # Examples 

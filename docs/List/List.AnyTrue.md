@@ -3,7 +3,6 @@ Returns true if any expression is true.
 > _function (<code>list</code> as list) as logical_
 # Description 
 Returns true if any expression in the list <code>list</code> is true.
-
 # Category 
 List.Membership functions
 # Examples 

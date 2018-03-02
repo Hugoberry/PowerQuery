@@ -2,8 +2,7 @@
 Removes the specified number of rows.
 > _function (<code>table</code> as table, <code>offset</code> as number, optional <code>count</code> as nullable any) as table_
 # Description 
-Removes <code>count</code> of rows from the beginning of the <code>table</code>, starting at the <code>offset</code> specified. A default count of 1 is used if the <code>count</code> parameter isn't provided. 
-
+Removes <code>count</code> of rows from the beginning of the <code>table</code>, starting at the <code>offset</code> specified. A default count of 1 is used if the <code>count</code> parameter isn't provided.
 # Category 
 Table.Row operations
 # Examples 

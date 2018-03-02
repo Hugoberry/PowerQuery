@@ -16,7 +16,6 @@ The <code>group</code> parameter specifies a list of item definitions.  Each ite
 <li>Default item value (optional).  If the default item value appears in the item definition list and is not null, then it will be used instead of the default.  The default for repeating or optional items is null, and the default for repeating values is an empty list { }.</li>
 <li>Item value transform (optional).   If the item value transform function is present in the item definition list and is not null, then it will be called to transform the item value before it is returned.  The transform function is only called if the item appears in the input (it will never be called with the default value). </li>
 </ul>
-
 # Category 
 Binary Formats.Reading a group of items
 # Examples 

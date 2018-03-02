@@ -9,7 +9,5 @@ Converts a text value to a list of text values split at lines breaks. If include
             <li><code>QuoteStyle.Csv:</code> Quoting is as per Csv. A double quote character is used to demarcate such regions, and a pair of double quote characters is used to indicate a single double quote character within such a region. </li>
           </ul>
         </div>
-    
-
 # Category 
 Lines

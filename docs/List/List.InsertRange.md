@@ -8,7 +8,6 @@ Returns a new list produced by inserting the values in <code>values</code> into 
         <li><code>index</code>: The index of the target list(<code>list</code>) where the values are to be inserted. The first position in the list is at index 0.</li>
         <li><code>values</code>: The list of values which are to be inserted into <code>list</code>.</li>
       </ul>
-
 # Category 
 List.Selection
 # Examples 

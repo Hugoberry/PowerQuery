@@ -7,8 +7,5 @@ Returns the objects on the Salesforce account provided in the credentials. The a
 <li><code>CreateNavigationProperties</code> : A logical (true/false) that sets whether to generate navigation properties on the returned values (default is false).</li>
 <li><code>ApiVersion</code> : The Salesforce API version to use for this query. When not specified, API version 29.0 is used.</li>
 </ul>
-
-    
-
 # Category 
 Accessing data

@@ -11,7 +11,6 @@ Returns a binary format that chooses the next binary format based on a value tha
 <li>If the combine function is not specified, the second value is returned.</li>
 <li>The second value is returned.</li>
 </ul>The optional <code>type</code> parameter indicates the type of binary format that will be returned by the choice function.  Either <code>type any</code>, <code>type list</code>, or <code>type binary</code> may be specified.  If the <code>type</code> parameter is not specified, then <code>type any</code> is used.   If <code>type list</code> or <code>type binary</code> is used, then the system may be able to return a streaming <code>binary</code> or <code>list</code> value instead of a buffered one, which may reduce the amount of memory necessary to read the format.
-
 # Category 
 Binary Formats.Controlling what comes next
 # Examples 

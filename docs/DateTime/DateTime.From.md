@@ -11,7 +11,6 @@ Returns a <code>datetime</code> value from the given <code>value</code>. If the 
         <li><code>number</code>: A <code>datetime</code> equivalent the OLE Automation Date expressed by <code>value</code>. </li>
       </ul>
 If <code>value</code> is of any other type, an error is returned.
-
 # Category 
 DateTime
 # Examples 

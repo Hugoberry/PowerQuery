@@ -4,7 +4,6 @@ Indicates whether any of the specified records appear as rows in the table.
 # Description 
 Indicates whether any the specified records in the list of records <code>rows</code>, appear as rows in the <code>table</code>.
     An optional parameter <code>equationCriteria</code> may be specified to control comparison between the rows of the table.
-
 # Category 
 Table.Membership
 # Examples 

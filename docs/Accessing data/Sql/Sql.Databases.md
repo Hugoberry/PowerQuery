@@ -17,7 +17,5 @@ Returns a table of databases on the specified SQL server, <code>server</code>. A
     The record parameter is specified as [option1 = value1, option2 = value2...] for example.
     <br>
     Does not support setting a SQL query to run on the server. <code>Sql.Database</code> should be used instead to run a SQL query.
-    
-
 # Category 
 Accessing data

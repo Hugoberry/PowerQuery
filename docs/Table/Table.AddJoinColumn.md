@@ -4,7 +4,6 @@ Performs a join between tables on supplied columns and produces the join result 
 # Description 
 Joins the rows of <code>table1</code> with the rows of <code>table2</code> based on the equality of the values of the key columns selected by <code>key1</code> (for <code>table1</code>) and <code>key2</code> (for <code>table2</code>). The results are entered into the column named <code>newColumnName</code>.
 This function behaves similarly to Table.Join with a JoinKind of LeftOuter except that the join results are presented in a nested rather than flattened fashion.
-
 # Category 
 Table.Transformation
 # Examples 

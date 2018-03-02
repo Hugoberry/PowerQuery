@@ -6,7 +6,6 @@ Returns a record containing the parts of the given datetimezone value, <code>dat
  <ul>
         <li><code>dateTimeZone</code>: A <code>datetimezone</code> value for from which the record of its parts is to be calculated.</li>    
       </ul>
-
 # Category 
 DateTimeZone
 # Examples 

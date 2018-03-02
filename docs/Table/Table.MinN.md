@@ -7,7 +7,6 @@ Returns the smallest row(s) in the <code>table</code>, given the <code>compariso
         <li> If a number is specified, a list of up to <code>countOrCondition</code> items in ascending order is returned. </li>
         <li> If a condition is specified, a list of items that initially meet the condition is returned. Once an item fails the condition, no further items are considered. </li>
  </ul>
-
 # Category 
 Table.Ordering
 # Examples 

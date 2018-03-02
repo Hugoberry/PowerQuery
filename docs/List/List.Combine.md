@@ -3,7 +3,6 @@ Returns a single list by combining multiple lists.
 > _function (<code>lists</code> as list) as list_
 # Description 
 Takes a list of lists, <code>lists</code>, and merges them into a single new list.
-
 # Category 
 List.Transformation functions
 # Examples 

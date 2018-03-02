@@ -4,7 +4,6 @@ Returns a textual representation of the Time value.
 # Description 
 Returns a textual representation of <code>time</code>, the Time value, <code>time</code>. 
     This function takes in an optional format parameter <code>format</code>. For a complete list of supported formats, please refer to the Library specification document.
-
 # Category 
 Time
 # Examples 

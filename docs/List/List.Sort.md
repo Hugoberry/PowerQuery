@@ -10,7 +10,6 @@ Sorts a list of data, <code>list</code>, according to the optional criteria spec
     <li> To both select a key and control order, comparison criterion can be a list containing the key and order (<code>{each 1 / _, Order.Descending}</code>). </li> 
     <li> To completely control the comparison, a function of 2 arguments can be used that returns -1, 0, or 1 given the relationship between the left and right inputs. Value.Compare is a method that can be used to delegate this logic. </li> 
     </ul>
-
 # Category 
 List.Ordering
 # Examples 

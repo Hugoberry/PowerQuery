@@ -8,7 +8,6 @@ Returns a textual representation in the form "day.hour:mins:sec" of the given du
         <li><code>duration</code>: A <code>duration</code> from which the textual representation is calculated.</li>  
   <li><code>format</code>: <i>[Optional]</i> A <code>text</code> value that specifies the format.</li>   
       </ul>
-
 # Category 
 Duration
 # Examples 

@@ -14,6 +14,5 @@ Returns a profile of the columns of a table.
   <li>distinct count</li>
 </ul>
 </p>
-
 # Category 
 Table.Information

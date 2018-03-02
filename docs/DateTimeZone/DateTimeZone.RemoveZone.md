@@ -3,7 +3,6 @@ Removes timezone information from the given datetimezone value.
 > _function (optional <code>dateTimeZone</code> as nullable any) as nullable any_
 # Description 
 Returns a #datetime value from <code>dateTimeZone</code> with timezone information removed.
-
 # Category 
 DateTimeZone
 # Examples 

@@ -3,7 +3,6 @@ Replaces one value with another in the specified columns.
 > _function (<code>table</code> as table, optional <code>oldValue</code> as nullable any, optional <code>newValue</code> as nullable any, <code>replacer</code> as function, <code>columnsToSearch</code> as list) as table_
 # Description 
 Replaces <code>oldValue</code> with <code>newValue</code> in the specified columns of the <code>table</code>.
-
 # Category 
 Table.Transformation
 # Examples 

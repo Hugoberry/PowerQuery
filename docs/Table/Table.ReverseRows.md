@@ -3,7 +3,6 @@ Returns a table with the rows in reverse order.
 > _function (<code>table</code> as table) as table_
 # Description 
 Returns a table with the rows from the input <code>table</code> in reverse order.
-
 # Category 
 Table.Row operations
 # Examples 

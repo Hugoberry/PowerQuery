@@ -8,7 +8,6 @@ Returns the integer portion of the result from dividing a number, <code>number1<
         <li><code>number1</code>: The dividend.</li>        
         <li><code>number2</code>: The divisor.</li>        
       </ul>
-
 # Category 
 Number.Operations
 # Examples 

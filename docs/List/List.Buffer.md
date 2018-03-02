@@ -3,7 +3,6 @@ Buffers a list.
 > _function (<code>list</code> as list) as list_
 # Description 
 Buffers the list <code>list</code> in memory. The result of this call is a stable list.
-
 # Category 
 List.Selection
 # Examples 

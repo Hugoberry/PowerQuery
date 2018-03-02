@@ -4,7 +4,6 @@ Removes the specified columns.
 # Description 
 Removes the specified <code>columns</code> from the <code>table</code> provided.
     If the column doesn't exist, an exception is thrown unless the optional parameter <code>missingField</code> specifies an alternative (eg. <code>MissingField.UseNull</code> or <code>MissingField.Ignore</code>).
-
 # Category 
 Table.Column operations
 # Examples 

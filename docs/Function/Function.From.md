@@ -3,7 +3,6 @@ Creates a function with a specific parameter signature on top of a function that
 > _function (<code>functionType</code> as type, <code>function</code> as function) as function_
 # Description 
 Takes a unary function <code>function</code> and creates a new function with the type <code>functionType</code> that constructs a list out of its arguments and passes it to <code>function</code>.
-
 # Category 
 Function
 # Examples 

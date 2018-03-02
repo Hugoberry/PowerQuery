@@ -8,8 +8,5 @@ Returns a table of multidimensional packages from the SAP HANA database <code>se
 <li><code>Distribution</code> : A SapHanaDistribution that sets the value of the &quot;Distribution&quot; property in the connection string. Statement routing is the method of evaluating the correct server node of a distributed system before statement execution. The default value is SapHanaDistribution.All.</li>
 <li><code>Implementation</code> : Specifies the implementation of the SAP HANA connector to use.</li>
 </ul>
-
-    
-
 # Category 
 Accessing data

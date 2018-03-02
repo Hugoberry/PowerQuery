@@ -7,8 +7,6 @@ Returns the number of unique combinations from a list of items, <code>setSize</c
     <li><code>setSize</code>: The number of items in the list.</li>
     <li><code>combinationSize</code>: The number of items in each combination.</li>
 </ul>
-
-
 # Category 
 Number.Operations
 # Examples 

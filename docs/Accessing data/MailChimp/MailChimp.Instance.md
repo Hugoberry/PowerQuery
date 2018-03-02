@@ -3,7 +3,6 @@ Returns raw response results from a MailChimp API endpoint.
 > _function (<code>path</code> as text) as table_
 # Description 
 Makes a call to the MailChimp API and returns the raw response.
-
 # Category 
 Accessing data
 # Examples 

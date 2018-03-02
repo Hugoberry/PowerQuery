@@ -3,7 +3,6 @@ Returns an opened version of the given record type (or the same type, if it is a
 > _function (<code>type</code> as type) as type_
 # Description 
 Returns an opened version of the given <code>record</code> <code>type</code> (or the same type, if it is already opened).
-
 # Category 
 Type
 # Examples 

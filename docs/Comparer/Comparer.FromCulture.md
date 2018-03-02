@@ -3,7 +3,6 @@ Returns a comparer function given the culture and a logical value for case sensi
 > _function (<code>culture</code> as text, optional <code>ignoreCase</code> as nullable any) as function_
 # Description 
 Returns a comparer function given the <code>culture</code> and a logical value <code>ignoreCase</code> for case sensitivity for the comparison. The default value for <code>ignoreCase</code> is false. The value for culture are well known text representations of locales used in the .NET framework.
-
 # Category 
 Comparer
 # Examples 

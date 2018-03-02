@@ -6,7 +6,6 @@ Creates a <code>date</code> value from a textual representation, <code>text</cod
   <ul>
    <li> <code>Date.FromText("2010-02-19") </code> // Date, yyyy-MM-dd </li>
   </ul>
-
 # Category 
 Date
 # Examples 

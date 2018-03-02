@@ -16,7 +16,6 @@ Returns the position of the specified occurrence of the text value <code>substri
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
         <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
       </ul>
-
 # Category 
 Text.Membership
 # Examples 

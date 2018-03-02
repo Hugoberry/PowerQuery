@@ -14,7 +14,6 @@ Detects whether the text <code>text</code> contains the text <code>substring</co
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
         <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
       </ul>
-
 # Category 
 Text.Membership
 # Examples 

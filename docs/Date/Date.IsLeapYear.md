@@ -6,7 +6,6 @@ Indicates whether the given datetime value <code>dateTime</code> falls in is a l
  <ul>
         <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to be evaluated.</li>        
       </ul>
-
 # Category 
 Date
 # Examples 

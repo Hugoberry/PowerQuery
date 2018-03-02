@@ -6,7 +6,6 @@ Returns the first set of items in the list by specifying how many items to retur
   <li>If a number is specified, up to that many items are returned. </li>
   <li>If a condition is specified, all items are returned that initially meet the condition. Once an item fails the condition, no further items are considered. </li>
  </ul>
-
 # Category 
 List.Selection
 # Examples 

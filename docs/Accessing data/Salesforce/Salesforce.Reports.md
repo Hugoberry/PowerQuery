@@ -6,8 +6,5 @@ Returns the reports on the Salesforce account provided in the credentials. The a
     <ul>
 <li><code>ApiVersion</code> : The Salesforce API version to use for this query. When not specified, API version 29.0 is used.</li>
 </ul>
-
-    
-
 # Category 
 Accessing data

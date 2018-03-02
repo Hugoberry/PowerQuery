@@ -8,7 +8,6 @@ Returns a <code>duration</code> value from the given <code>value</code>. If the 
         <li><code>number</code>: A <code>duration</code> equivalent to the number of whole and fractional days expressed by <code>value</code>.</li>
       </ul>
 If <code>value</code> is of any other type, an error is returned.
-
 # Category 
 Duration
 # Examples 

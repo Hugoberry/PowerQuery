@@ -3,7 +3,6 @@ Makes columns into rows and rows into columns.
 > _function (<code>table</code> as table, optional <code>columns</code> as nullable any) as table_
 # Description 
 Makes columns into rows and rows into columns.
-
 # Category 
 Table.Transformation
 # Examples 

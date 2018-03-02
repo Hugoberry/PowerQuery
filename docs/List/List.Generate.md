@@ -4,7 +4,6 @@ Generates a list given an initial value function, a condition function, a next f
 # Description 
 Generates a list of values given four functions that generate the initial value <code>initial</code>, test against a condition <code>condition</code>, and if successful select the result and generate the next value <code>next</code>.
     An optional parameter, <code>selector</code>, may also be specified.
-
 # Category 
 List.Generators
 # Examples 
