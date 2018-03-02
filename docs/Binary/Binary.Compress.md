@@ -1,4 +1,4 @@
-﻿# Binary.Compress
+# Binary.Compress
 Compresses a binary value using the given compression type.
 > _function (optional binary as nullable any, compressionType as number) as nullable any_
 # Description 
@@ -7,6 +7,7 @@ Compresses a binary value using the given compression type.  The result of this 
         <li><code>Compression.GZip</code></li>        
         <li><code>Compression.Deflate</code></li>  
   </ul>
+  
 # Category 
 Binary
 # Examples 
