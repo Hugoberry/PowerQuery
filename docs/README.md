@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Power Query M reference
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+The Power Query M formula language is optimized for building highly flexible data mashup queries. It's a functional, case sensitive language similar to F#.
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Power Query M language specification
+ 
+The specification describes the values, expressions, environments and variables, identifiers, and the evaluation model that form the Power Query M language’s basic concepts.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Power Query M language specification.pdf](http://download.microsoft.com/download/8/1/A/81A62C9B-04D5-4B6D-B162-D28E4D848552/Power%20Query%20Formula%20Language%20Specification%20(October%202016).pdf)
