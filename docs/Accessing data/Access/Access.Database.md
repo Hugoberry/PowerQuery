@@ -1,6 +1,7 @@
-﻿# Access.Database
+# Access.Database
 Returns a structural representation of an Access database.
 > _function (<code>database</code> as binary, optional <code>options</code> as nullable record) as table_
+
 # Description 
 Returns a structural representation of an Access database, <code>database</code>. An optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>
