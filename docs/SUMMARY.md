@@ -4,6 +4,8 @@
 
 * [Power Query](README.md)
 
-## Methods
-
-* [Access.Database](Accessing data/Access/Access.Database.md)
+## Accessing data
+* [Access](Accessing data/Access/Access.Database.md)
+    * [Access.Database](Accessing data/Access/Access.Database.md)
+* [ActiveDirectory]
+    * [ActiveDirectory.Domains](Accessing data/ActiveDirectory/ActiveDirectory.Domains.md)
