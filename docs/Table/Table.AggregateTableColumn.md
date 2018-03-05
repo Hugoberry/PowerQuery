@@ -9,7 +9,7 @@ Table.Transformation
 # Examples 
 Aggregate table columns in <code>[t]</code> in the table <code>{[t = {[a=1, b=2, c=3], [a=2,b=4,c=6]}, b = 2]}</code> into the sum of <code>[t.a]</code>, the min and max of <code>[t.b]</code>, and the count of values in <code>[t.a]</code>.
 ```
-Table.AggregateTableColumn(Table.FromRecords({[t = Table.FromRecords({[a=1, b=2, c=3], [a=2,b=4,c=6]}), b = 2]}, type table [t = table [a=number, b=number, c=number], b = number]), "t", {{"a", List.Sum, "sum of t.a"}, {"b", List.Min, "min of t.b"}, {"b", List.Max, "max of t.b"}, {"a", List.Count, "count of t.a"}})
+Table.AggregateTableColumn(Table.FromRecords({[t = Table.FromRecords({[a=1, b=2, c=3], [a=2,b=4,c=6]}), b = 2]}, type table [t = table [a=number, b=number, c=number], b = number]), "t", { {"a", List.Sum, "sum of t.a"}, {"b", List.Min, "min of t.b"}, {"b", List.Max, "max of t.b"}, {"a", List.Count, "count of t.a"} })
 ```
 > Table.FromRecords({[#"sum of t.a" = 3, #"min of t.b" = 2, #"max of t.b" = 4, #"count of t.a" = 2, b = 2]})
 ***

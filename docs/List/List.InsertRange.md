@@ -24,9 +24,9 @@ List.InsertRange({1, 2, 5}, 2, {3, 4})
     5
 }
 ***
-Insert a list with a nested list ({1, {1.1, 1.2}}) into a target list ({2, 3, 4}) at index 0.
+Insert a list with a nested list ({1, {1.1, 1.2} }) into a target list ({2, 3, 4}) at index 0.
 ```
-List.InsertRange({2, 3, 4}, 0, {1, {1.1, 1.2}})
+List.InsertRange({2, 3, 4}, 0, {1, {1.1, 1.2} })
 ```
 > {
     1, {

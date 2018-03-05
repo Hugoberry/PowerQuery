@@ -16,7 +16,7 @@ Table.RenameColumns(Table.FromRecords({[CustomerNum=1, Name="Bob", Phone = "123-
 ***
 Replace the column name "CustomerNum" with "CustomerID" and "PhoneNum" with "Phone" in the table.
 ```
-Table.RenameColumns(Table.FromRecords({[CustomerNum=1, Name="Bob", PhoneNum = "123-4567"]}), {{"CustomerNum", "CustomerID"}, {"PhoneNum", "Phone"}})
+Table.RenameColumns(Table.FromRecords({[CustomerNum=1, Name="Bob", PhoneNum = "123-4567"]}), { {"CustomerNum", "CustomerID"}, {"PhoneNum", "Phone"} })
 ```
 > Table.FromRecords({[CustomerID=1,Name="Bob", Phone="123-4567"]})
 ***

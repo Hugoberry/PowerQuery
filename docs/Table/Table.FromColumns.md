@@ -16,7 +16,7 @@ Table.FromColumns({ {1, "Bob", "123-4567"} , {2, "Jim", "987-6543"}, {3, "Paul",
 ***
 Create a table from a given list of columns and a list of column names.
 ```
-Table.FromColumns({ {1, "Bob", "123-4567"} , {2, "Jim", "987-6543"}, {3, "Paul", "543-7890"}}, {"CustomerID", "Name", "Phone"})
+Table.FromColumns({ {1, "Bob", "123-4567"} , {2, "Jim", "987-6543"}, {3, "Paul", "543-7890"} }, {"CustomerID", "Name", "Phone"})
 ```
 > Table.FromRecords({[CustomerID=1,Name=2,Phone=3],[CustomerID="Bob",Name="Jim",Phone="Paul"],[CustomerID="123-4567",Name="987-6543",Phone="543-7890"]})
 ***
