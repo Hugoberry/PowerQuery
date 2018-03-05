@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api", "collapsible-menu" ],
+    "plugins": [ "theme-api"],
     "root": "./docs",
     "pluginsConfig": {
         "theme-api": {
