@@ -12,10 +12,12 @@ Build a record from a list of field values and a list of field names.
 Record.FromList({1, "Bob", "123-4567"}, {"CustomerID", "Name", "Phone"})
 ```
 > [CustomerID = 1, Name = "Bob", Phone = "123-4567"]
+
 ***
 Build a record from a list of field values and a record type.
 ```
 Record.FromList({1, "Bob", "123-4567"}, type [CustomerID = number, Name = text, Phone = number])
 ```
 > [CustomerID = 1, Name = "Bob", Phone = "123-4567"]
+
 ***

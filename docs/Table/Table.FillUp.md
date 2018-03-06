@@ -12,4 +12,5 @@ Return a table with the null values in column [Column2] filled with the value be
 Table.FillUp(Table.FromRecords({[Column1 = 1, Column2 = 2], [Column1  = 3, Column2 = null], [Column1  = 5, Column2 = 3]}), {"Column2"})
 ```
 > Table.FromRecords({[Column1=1,Column2=2],[Column1=3,Column2=3],[Column1=5,Column2=3]})
+
 ***

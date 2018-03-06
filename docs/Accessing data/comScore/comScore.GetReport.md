@@ -12,4 +12,5 @@ Accessing data
 Source = comScore.ReportItems("US", "Microsoft", "43", "www", "today-30", null, null, null, null),
 ```
 > Data from the report item.
+
 ***

@@ -12,4 +12,5 @@ Get the first 5 characters of "Hello, World".
 Text.Start("Hello, World", 5)
 ```
 > "Hello"
+
 ***

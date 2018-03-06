@@ -9,7 +9,7 @@ Returns a <code>time</code> value from the given <code>value</code>. If the give
         <li><code>datetime</code>: The time component of the <code>value</code>.</li>
         <li><code>datetimezone</code>: The time component of the local datetime equivalent of <code>value</code>.</li>
         <li><code>number</code>: A <code>time</code> equivalent to the number of fractional days expressed by <code>value</code>. If <code>value</code> is negative or greater or equal to 1, an error is returned.</li>
-      </ul>
+      
 If <code>value</code> is of any other type, an error is returned.
 # Category 
 Time
@@ -19,10 +19,12 @@ Convert <code>0.7575</code> to a <code>time</code> value.
 Time.From(0.7575)
 ```
 > #time(18,10,48)
+
 ***
 Convert <code>#datetime(1899, 12, 30, 06, 45, 12)</code> to a <code>time</code> value.
 ```
 Time.From(#datetime(1899, 12, 30, 06, 45, 12))
 ```
 > #time(06, 45, 12)
+
 ***

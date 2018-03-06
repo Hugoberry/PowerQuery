@@ -12,10 +12,12 @@ Pulls a table of data from the MailChimp API's lists endpoint.
 MailChimp.Collection("lists")
 ```
 > A table with list data.
+
 ***
 Pulls a table of data from the MailChimp API's campaign-folders endpoint.
 ```
 MailChimp.Collection("campaign-folders", "folders")
 ```
 > A table with campaign-folders data.
+
 ***

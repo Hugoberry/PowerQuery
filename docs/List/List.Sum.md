@@ -12,4 +12,5 @@ Find the sum of the numbers in the list <code>{1, 2, 3}</code>.
 List.Sum({1, 2, 3}) 
 ```
 > 6
+
 ***

@@ -12,4 +12,5 @@ Find the month in #datetime(2011, 12, 31, 9, 15, 36).
 Date.Month(#datetime(2011, 12, 31, 9, 15, 36))
 ```
 > 12
+
 ***

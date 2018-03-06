@@ -12,4 +12,5 @@ Find the return type of <code>() as any)</code>.
 Type.FunctionReturn(type function () as any)
 ```
 > type any
+
 ***

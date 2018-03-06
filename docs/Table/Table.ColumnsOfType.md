@@ -12,4 +12,5 @@ Return the names of columns of type Number.Type from the table.
 Table.ColumnsOfType(Table.FromRecords({[a=1,b="hello"]}, type table[a=Number.Type, b=Text.Type]), {type number})
 ```
 > {"a"}
+
 ***

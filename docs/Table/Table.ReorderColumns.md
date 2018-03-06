@@ -13,10 +13,12 @@ Switch the order of the columns [Phone] and [Name] in the table.
 Table.ReorderColumns(Table.FromRecords({[CustomerID=1, Phone = "123-4567", Name ="Bob"]}), {"Name","Phone"})
 ```
 > Table.FromRecords({[CustomerID=1,Name="Bob", Phone="123-4567"]})
+
 ***
 Switch the order of the columns [Phone] and [Address] or use "MissingField.Ignore" in the table. It doesn't change the table because column [Address] doesn't exist.
 ```
 Table.ReorderColumns(Table.FromRecords({[CustomerID=1, Name = "Bob", Phone = "123-4567"]}), {"Phone", "Address"}, MissingField.Ignore)
 ```
 > Table.FromRecords({[CustomerID=1,Name="Bob", Phone="123-4567"]})
+
 ***

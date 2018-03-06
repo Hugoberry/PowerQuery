@@ -12,4 +12,5 @@ Find the minutes in #duration(5, 4, 3, 2).
 Duration.Minutes(#duration(5, 4, 3, 2))
 ```
 > 3
+
 ***

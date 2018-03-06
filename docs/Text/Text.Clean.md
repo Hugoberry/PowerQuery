@@ -12,4 +12,5 @@ Remove line feeds and other non-printable characters from a text value.
 Text.Clean("ABC#(lf)D")
 ```
 > "ABCD"
+
 ***

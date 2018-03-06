@@ -18,4 +18,5 @@ Table.ExpandTableColumn(Table.FromRecords({[t = Table.FromRecords({[a=1, b=2, c=
     "t.c",
     "b"
 })
+
 ***

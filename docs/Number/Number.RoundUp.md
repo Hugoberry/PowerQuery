@@ -13,16 +13,19 @@ Round up 1.234 to integer.
 Number.RoundUp(1.234)
 ```
 > 2
+
 ***
 Round up 1.999 to integer.
 ```
 Number.RoundUp(1.999)
 ```
 > 2
+
 ***
 Round up 1.234 to two decimal places.
 ```
 Number.RoundUp(1.234, 2)
 ```
 > 1.24
+
 ***

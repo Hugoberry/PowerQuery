@@ -16,6 +16,7 @@ in
     textFormat(binaryData)
 ```
 > "AB"
+
 ***
 Decode ASCII text where the length of the text in bytes appears before the text as a byte.
 ```
@@ -27,4 +28,5 @@ in
     textFormat(binaryData)
 ```
 > "AB"
+
 ***

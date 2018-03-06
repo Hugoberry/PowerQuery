@@ -12,10 +12,12 @@ Compare "a" and "A" using "en-US" locale to determine if the values are equal.
 Comparer.FromCulture("en-us")("a", "A")
 ```
 > -1
+
 ***
 Compare "a" and "A" using "en-US" locale ignoring the case to determine if the values are equal.
 ```
 Comparer.FromCulture("en-us", true)("a", "A")
 ```
 > 0
+
 ***

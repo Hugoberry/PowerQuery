@@ -12,4 +12,5 @@ Replace a single character at position 2 in text value "ABGF" with new text valu
 Text.ReplaceRange("ABGF", 2, 1, "CDE")
 ```
 > "ABCDEF"
+
 ***

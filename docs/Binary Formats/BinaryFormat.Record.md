@@ -21,4 +21,5 @@ in
     recordFormat(binaryData)
 ```
 > [A = 1, B = 2]
+
 ***

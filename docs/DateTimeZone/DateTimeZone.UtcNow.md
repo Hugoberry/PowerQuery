@@ -12,4 +12,5 @@ Get the current date & time in UTC.
 DateTimeZone.UtcNow()
 ```
 > #datetimezone(2011, 8, 16, 23, 34, 37.745, 0, 0)
+
 ***

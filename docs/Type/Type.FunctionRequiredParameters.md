@@ -12,4 +12,5 @@ Find the number of required parameters to the function <code>(x as number, optio
 Type.FunctionRequiredParameters(type function (x as number, optional y as text) as any)
 ```
 > 1
+
 ***

@@ -12,4 +12,5 @@ Returns raw data from the reports/click-details MailChimp API endpoint for a giv
 MailChimp.Instance("reports/{campaign_id}/click-details")
 ```
 > Raw click details data from the given campaign.
+
 ***

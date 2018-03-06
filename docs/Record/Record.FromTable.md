@@ -12,4 +12,5 @@ Create a record from the table of the form Table.FromRecords({[Name = "CustomerI
 Record.FromTable(Table.FromRecords({[Name = "CustomerID", Value = 1], [Name = "Name", Value = "Bob"], [Name = "Phone", Value = "123-4567"]}))
 ```
 > [CustomerID = 1, Name = "Bob", Phone = "123-4567"]
+
 ***

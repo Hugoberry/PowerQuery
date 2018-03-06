@@ -8,7 +8,7 @@ Returns the integer portion of the result from dividing a number, <code>number1<
       <ul>
         <li><code>number1</code>: The dividend.</li>        
         <li><code>number2</code>: The divisor.</li>        
-      </ul>
+      
 # Category 
 Number.Operations
 # Examples 
@@ -17,10 +17,12 @@ Divide 6 by 4.
 Number.IntegerDivide(6, 4)
 ```
 > 1
+
 ***
 Divide 8.3 by 3.
 ```
 Number.IntegerDivide(8.3, 3)
 ```
 > 2
+
 ***

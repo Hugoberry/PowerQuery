@@ -15,6 +15,7 @@ Convert "Price" field to number.
 Record.TransformFields([OrderID = 1, CustomerID= 1, Item = "Fishing rod", Price = "100.0"], {"Price", Number.FromText})
 ```
 > [OrderID = 1, CustomerID= 1, Item = "Fishing rod", Price = 100]
+
 ***
 Convert "OrderID" and "Price" fields to numbers.
 ```
@@ -23,4 +24,5 @@ Record.TransformFields(
     { {"OrderID", Number.FromText}, {"Price",Number.FromText} })
 ```
 > [OrderID = 1, CustomerID= 1, Item = "Fishing rod", Price = 100]
+
 ***

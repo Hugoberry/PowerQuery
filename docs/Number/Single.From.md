@@ -12,4 +12,5 @@ Get the Single <code>number</code> value of <code>"1.5"</code>.
 Single.From("1.5")
 ```
 > 1.5
+
 ***

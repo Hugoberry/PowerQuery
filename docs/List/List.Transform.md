@@ -12,4 +12,5 @@ Add 1 to each value in the list {1, 2}.
 List.Transform({1, 2}, each _ + 1)
 ```
 > {2, 3}
+
 ***

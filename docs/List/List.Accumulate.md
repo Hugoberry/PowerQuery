@@ -13,4 +13,5 @@ Accumulates the summary value from the items in the list {1, 2, 3, 4, 5} using (
 List.Accumulate({1, 2, 3, 4, 5}, 0, (state, current) => state + current)
 ```
 > 15
+
 ***

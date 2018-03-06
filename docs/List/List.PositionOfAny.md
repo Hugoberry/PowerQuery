@@ -7,7 +7,7 @@ Returns the offset in list <code>list</code> of the first occurrence of a value 
     An optional occurrence parameter <code>occurrence</code> can be specified.
 <ul>
    <li><code>occurrence</code>: The maximum number of occurrences that can be returned.</li>
-</ul>
+
 # Category 
 List.Membership functions
 # Examples 
@@ -16,4 +16,5 @@ Find the first position in the list {1, 2, 3} at which the value 2 or 3 appears.
 List.PositionOfAny({1, 2, 3}, {2, 3})
 ```
 > 1
+
 ***

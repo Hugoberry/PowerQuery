@@ -12,4 +12,5 @@ Accessing data
 Source = SparkPost.GetContents("metrics/campaigns",[Query=[match="c1", limit=5]])
 ```
 > Json.Document
+
 ***

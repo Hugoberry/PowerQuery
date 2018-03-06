@@ -19,6 +19,7 @@ Assuming today is 2017-6-15, get summaries data between 2017-5-1 to 2017-6-15
     
 ```
 > Function will return summaries data between 2017-5-1 to 2017-6-15
+
 ***
 Assuming today is 2017-6-15, get summaries data for April 2017.
 ```
@@ -32,6 +33,7 @@ Assuming today is 2017-6-15, get summaries data for April 2017.
     
 ```
 > Function will return data between 2017-4-1 and 2017-4-30
+
 ***
 Assuming today is 2017-6-15, get summaries data from April 2017 till now.
 ```
@@ -45,6 +47,7 @@ Assuming today is 2017-6-15, get summaries data from April 2017 till now.
     
 ```
 > Function will return data between 2017-4-1 and 2017-6-15
+
 ***
 Assuming today is 2017-6-15, get summaries data from last December till this February 
 ```
@@ -58,6 +61,7 @@ Assuming today is 2017-6-15, get summaries data from last December till this Feb
     
 ```
 > Function will return data between 2016-12-1 and 2017-2-28
+
 ***
 Assuming today is 2017-6-15, get marketplace charges for last 18 month
 ```
@@ -71,6 +75,7 @@ Assuming today is 2017-6-15, get marketplace charges for last 18 month
     
 ```
 > Function will return data between 2015-12-1 and 2017-6-15
+
 ***
 Assuming today is 2017-6-15, get detail charges for June 2017 and May 2017
 ```
@@ -84,6 +89,7 @@ Assuming today is 2017-6-15, get detail charges for June 2017 and May 2017
     
 ```
 > Function will return data between 2017-5-1 and 2017-6-15
+
 ***
 Assuming today is 2017-7-3, get detail charges for July 2016
 ```
@@ -97,6 +103,7 @@ Assuming today is 2017-7-3, get detail charges for July 2016
     
 ```
 > Function will return data between 2016-7-1 and 2016-7-31
+
 ***
 Assuming today is 2017-7-13, get balance summaries for past 10 month plus 13 days of this month
 ```
@@ -110,4 +117,5 @@ Assuming today is 2017-7-13, get balance summaries for past 10 month plus 13 day
     
 ```
 > Function will return data between 2016-9-1 and 2017-7-13
+
 ***

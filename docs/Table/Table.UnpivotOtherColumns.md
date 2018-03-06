@@ -22,4 +22,5 @@ Table.UnpivotOtherColumns(Table.FromRecords({
     [ key = "key2", column1 = "attribute2", column2 = 5 ],
     [ key = "key2", column1 = "attribute3", column2 = 6 ]
 })
+
 ***

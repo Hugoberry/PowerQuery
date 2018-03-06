@@ -12,4 +12,5 @@ Given the character "#(tab)" 9, find the number value.
 Character.ToNumber("#(tab)")
 ```
 > 9
+
 ***

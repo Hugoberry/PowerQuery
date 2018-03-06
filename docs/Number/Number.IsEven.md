@@ -12,10 +12,12 @@ Check if 625 is an even number.
 Number.IsEven(625)
 ```
 > false
+
 ***
 Check if 82 is an even number.
 ```
 Number.IsEven(82)
 ```
 > true
+
 ***

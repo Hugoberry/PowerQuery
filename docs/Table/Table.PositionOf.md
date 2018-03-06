@@ -9,7 +9,7 @@ Returns the row position of the first occurrence of the <code>row</code> in the 
        <li><code>row</code>: The row in the table to find the position of.</li>
        <li><code>occurrence</code>: <i>[Optional]</i> Specifies which occurrences of the row to return.</li>
        <li><code>equationCriteria</code>: <i>[Optional]</i> Controls the comparison between the table rows.</li>
-    </ul>
+    
 # Category 
 Table.Membership
 # Examples 
@@ -18,16 +18,19 @@ Find the position of the first occurrence of [a = 2, b = 4] in the table <code>(
 Table.PositionOf(Table.FromRecords({[a = 2, b = 4], [a = 1, b = 4], [a = 2, b = 4], [a = 1, b = 4]}), [a = 2, b = 4])
 ```
 > 0
+
 ***
 Find the position of the second occurrence of [a = 2, b = 4] in the table <code>({[a = 2, b = 4], [a = 6, b = 8], [a = 2, b = 4], [a = 1, b = 4]})</code>.
 ```
 Table.PositionOf(Table.FromRecords({[a = 2, b = 4], [a = 1, b = 4], [a = 2, b = 4], [a = 1, b = 4]}), [a = 2, b = 4], 1)
 ```
 > 2
+
 ***
 Find the position of all the occurrences of [a = 2, b = 4] in the table <code>({[a = 2, b = 4], [a = 6, b = 8], [a = 2, b = 4], [a = 1, b = 4]})</code>.
 ```
 Table.PositionOf(Table.FromRecords({[a = 2, b = 4], [a = 1, b = 4], [a = 2, b = 4], [a = 1, b = 4]}), [a = 2, b = 4], Occurrence.All)
 ```
 > {0, 2}
+
 ***

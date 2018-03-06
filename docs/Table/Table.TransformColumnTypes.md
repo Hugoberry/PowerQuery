@@ -15,4 +15,5 @@ Table.TransformColumnTypes(Table.FromRecords({[a = 1, b = 2], [a = 3, b = 4]}), 
 > Table.FromRecords({[a = "1", b = 2],
     [a = "3", b = 4]})
   
+
 ***

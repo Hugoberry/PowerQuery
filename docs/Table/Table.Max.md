@@ -12,10 +12,12 @@ Find the row with the largest value in column [a] in the table <code>({[a = 2, b
 Table.Max(Table.FromRecords({[a = 2, b = 4], [a = 6, b = 8]}), "a")
 ```
 > [a = 6, b = 8]
+
 ***
 Find the row with the largest value in column [a] in the table <code>({})</code>. Return -1 if empty.
 ```
 Table.Max(#table({"a"},{}), "a", -1)
 ```
 > -1
+
 ***

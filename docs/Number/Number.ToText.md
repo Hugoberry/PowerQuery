@@ -14,7 +14,7 @@ Formats the numeric value <code>number</code> to a text value according to the f
         <li>"P" or "p": (Percent) Number multiplied by 100 and displayed with a percent symbol. </li>
         <li>"R" or "r": (Round-trip) A text value that can round-trip an identical number. The precision specifier is ignored. </li>
         <li>"X" or "x": (Hexadecimal) A hexadecimal text value. </li>
-      </ul>
+      
 # Category 
 Number.Conversion and formatting
 # Examples 
@@ -23,16 +23,19 @@ Format a number as text without format specified.
 Number.ToText(4)
 ```
 > "4"
+
 ***
 Format a number as text in Exponential format.
 ```
 Number.ToText(4, "e")
 ```
 > "4.000000e+000"
+
 ***
 Format a number as text in Decimal format with limited precision.
 ```
 Number.ToText(-0.1234, "P1")
 ```
 > "-12.3 %"
+
 ***

@@ -12,4 +12,5 @@ Remove the items in the list {2, 4, 6} from the list {1, 2, 3, 4, 2, 5, 5}.
 List.RemoveItems({1, 2, 3, 4, 2, 5, 5}, {2, 4, 6})
 ```
 > {1, 3, 5, 5}
+
 ***

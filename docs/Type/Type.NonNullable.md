@@ -12,4 +12,5 @@ Return the non nullable type of <code>type nullable number</code>.
 Type.NonNullable(type nullable number)
 ```
 > type number
+
 ***

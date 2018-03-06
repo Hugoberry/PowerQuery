@@ -20,6 +20,7 @@ Table.SelectRows(Table.FromRecords({
     [CustomerID = 3, Name = "Paul", Phone = "543-7890"] ,
     [CustomerID = 4, Name = "Ringo", Phone = "232-1550"]
 })
+
 ***
 Select the rows in the table where the names do not contain a "B".
 ```
@@ -35,4 +36,5 @@ Table.SelectRows(Table.FromRecords({
     [CustomerID = 3, Name = "Paul", Phone = "543-7890"] ,
     [CustomerID = 4, Name = "Ringo", Phone = "232-1550"]
 })
+
 ***

@@ -13,10 +13,12 @@ Remove column [Phone] from the table.
 Table.RemoveColumns(Table.FromRecords({[CustomerID=1, Name="Bob", Phone = "123-4567"]}), "Phone")
 ```
 > Table.FromRecords({[CustomerID=1,Name="Bob"]})
+
 ***
 Remove column [Address] from the table. Throws an error if it doesn't exist.
 ```
 Table.RemoveColumns(Table.FromRecords({[CustomerID=1, Name="Bob", Phone = "123-4567"]}), "Address")
 ```
 > [Expression.Error] The field 'Address' of the record was not found.
+
 ***

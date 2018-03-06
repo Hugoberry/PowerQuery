@@ -13,10 +13,12 @@ Get the base 10 logarithm of 2.
 Number.Log(2, 10)
 ```
 > 0.3010299956639812
+
 ***
 Get the base e logarithm of 2.
 ```
 Number.Log(2)
 ```
 > 0.69314718055994529
+
 ***

@@ -7,7 +7,7 @@ Returns a duration value from the specified text, <code>text</code>. The followi
  <ul>
         <li>(-)hh:mm(:ss(.ff)) </li>
         <li>(-)ddd(.hh:mm(:ss(.ff))) </li>
- </ul>
+ 
         <br>
         (All ranges are inclusive)<br>
         ddd: Number of days.<br>
@@ -23,4 +23,5 @@ Convert <code>"2.05:55:20"</code> into a <code>duration</code> value.
 Duration.FromText("2.05:55:20")
 ```
 > #duration(2, 5, 55, 20)
+
 ***

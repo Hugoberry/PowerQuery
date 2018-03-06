@@ -13,10 +13,12 @@ Find the first value in the list {1, 2, 3}.
 List.First({1, 2, 3})
 ```
 > 1
+
 ***
 Find the first value in the list {}. If the list is empty, return -1.
 ```
 List.First({}, -1)
 ```
 > -1
+
 ***

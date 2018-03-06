@@ -14,7 +14,7 @@ Returns a table of SQL tables, views, and stored scalar functions available in a
 <li><code>OldGuids</code> : A logical (true/false) that sets whether char(36) columns (if false) or binary(16) columns (if true) will be treated as GUIDs. The default value is false.</li>
 <li><code>ReturnSingleDatabase</code> : A logical (true/false) that sets whether to return all tables of all databases (if false) or to return tables and views of the specified database (if true). The default value is false.</li>
 <li><code>HierarchicalNavigation</code> : A logical (true/false) that sets whether to view the tables grouped by their schema names (default is false).</li>
-</ul>
+
 
     The record parameter is specified as [option1 = value1, option2 = value2...] or [Query = "select ..."] for example.
 # Category 

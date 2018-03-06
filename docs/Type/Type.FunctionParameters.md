@@ -12,4 +12,5 @@ Find the types of the parameters to the function <code>(x as number, y as text)<
 Type.FunctionParameters(type function (x as number, y as text) as any)
 ```
 > [x = type number, y = type text]
+
 ***

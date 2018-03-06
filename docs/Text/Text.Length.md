@@ -12,4 +12,5 @@ Find how many characters are in the text "Hello World".
 Text.Length("Hello World")
 ```
 > 11
+
 ***

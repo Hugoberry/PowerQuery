@@ -13,16 +13,19 @@ Find the single value in the list {1}.
 List.SingleOrDefault({1})
 ```
 > 1
+
 ***
 Find the single value in the list {}.
 ```
 List.SingleOrDefault({})
 ```
 > null
+
 ***
 Find the single value in the list {}. If is empty, return -1.
 ```
 List.SingleOrDefault({}, -1)
 ```
 > -1
+
 ***

@@ -12,4 +12,5 @@ Remove the "null" values from the list {1, 2, 3, null, 4, 5, null, 6}.
 List.RemoveNulls({1, 2, 3, null, 4, 5, null, 6})
 ```
 > {1, 2, 3, 4, 5, 6}
+
 ***

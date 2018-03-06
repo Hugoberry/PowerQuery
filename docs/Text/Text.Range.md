@@ -13,10 +13,12 @@ Find the substring from the text "Hello World" starting at index 6.
 Text.Range("Hello World", 6)
 ```
 > "World"
+
 ***
 Find the substring from the text "Hello World Hello" starting at index 6 spanning 5 characters.
 ```
 Text.Range("Hello World Hello", 6, 5)
 ```
 > "World"
+
 ***

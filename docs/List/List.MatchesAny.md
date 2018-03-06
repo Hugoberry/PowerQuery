@@ -12,10 +12,12 @@ Find if any of the values in the list {9, 10, 11} are greater than 10.
 List.MatchesAny({9, 10, 11},each _  > 10) 
 ```
 > true
+
 ***
 Find if any of the values in the list {1, 2, 3} are greater than 10.
 ```
 List.MatchesAny({1, 2, 3},each _  > 10) 
 ```
 > false
+
 ***

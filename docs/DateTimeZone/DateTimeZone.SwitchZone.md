@@ -13,10 +13,12 @@ Change timezone information for #datetimezone(2010, 12, 31, 11, 56, 02, 7, 30) t
 DateTimeZone.SwitchZone(#datetimezone(2010, 12, 31, 11, 56, 02, 7, 30), 8)
 ```
 > #datetimezone(2010, 12, 31, 12, 26, 2, 8, 0)
+
 ***
 Change timezone information for #datetimezone(2010, 12, 31, 11, 56, 02, 7, 30) to -30 minutes.
 ```
 DateTimeZone.SwitchZone(#datetimezone(2010, 12, 31, 11, 56, 02, 7, 30), 0, -30)
 ```
 > #datetimezone(2010, 12, 31, 3, 56, 2, 0, -30)
+
 ***

@@ -13,4 +13,5 @@ Table.PrefixColumns(Table.FromRecords({[CustomerID = 1, Name = "Bob", Phone = "1
 ```
 > Table.FromRecords({[MyTable.CustomerID=1,MyTable.Name="Bob",
 MyTable.Phone="123-4567"]})
+
 ***

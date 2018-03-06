@@ -12,4 +12,5 @@ Create a text value from the logical <code>true</code>.
 Logical.ToText(true)
 ```
 > "true"
+
 ***

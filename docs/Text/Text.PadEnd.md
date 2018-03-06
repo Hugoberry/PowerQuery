@@ -13,10 +13,12 @@ Pad the end of a text value so it is 10 characters long.
 Text.PadEnd("Name", 10)
 ```
 > "Name      "
+
 ***
 Pad the end of a text value with "|" so it is 10 characters long.
 ```
 Text.PadEnd("Name", 10, "|")
 ```
 > "Name||||||"
+
 ***

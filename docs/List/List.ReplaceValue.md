@@ -12,4 +12,5 @@ Replace all the "a" values in the list {"a", "B", "a", "a"} with "A".
 List.ReplaceValue({"a", "B", "a", "a"}, "a", "A", Replacer.ReplaceText)
 ```
 > {"A", "B", "A", "A"}
+
 ***

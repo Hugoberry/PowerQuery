@@ -13,10 +13,12 @@ Get a textual representation of #time(11, 56, 2).
 Time.ToText(#time(11, 56, 2))
 ```
 > "11:56 AM"
+
 ***
 Get a textual representation of #time(11, 56, 2) with format option.
 ```
 Time.ToText(#time(11, 56, 2), "hh:mm")
 ```
 > "11:56"
+
 ***

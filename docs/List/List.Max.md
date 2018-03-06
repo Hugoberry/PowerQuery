@@ -13,10 +13,12 @@ Find the max in the list {1, 4, 7, 3, -2, 5}.
 List.Max({1, 4, 7, 3, -2, 5},1)
 ```
 > 7
+
 ***
 Find the max in the list {} or return -1 if it is empty. 
 ```
 List.Max({}, -1)
 ```
 > -1
+
 ***

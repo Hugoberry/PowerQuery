@@ -8,7 +8,7 @@ Returns a textual representation in the form "day.hour:mins:sec" of the given du
  <ul>
         <li><code>duration</code>: A <code>duration</code> from which the textual representation is calculated.</li>  
   <li><code>format</code>: <i>[Optional]</i> A <code>text</code> value that specifies the format.</li>   
-      </ul>
+      
 # Category 
 Duration
 # Examples 
@@ -17,4 +17,5 @@ Convert <code>#duration(2, 5, 55, 20)</code> into a text value.
 Duration.ToText(#duration(2, 5, 55, 20))
 ```
 > "2.05:55:20"
+
 ***

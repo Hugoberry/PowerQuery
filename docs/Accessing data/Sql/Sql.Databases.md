@@ -13,7 +13,7 @@ Returns a table of databases on the specified SQL server, <code>server</code>. A
 <li><code>HierarchicalNavigation</code> : A logical (true/false) that sets whether to view the tables grouped by their schema names (default is false).</li>
 <li><code>MultiSubnetFailover</code> : A logical (true/false) that sets the value of the &quot;MultiSubnetFailover&quot; property in the connection string (default is false).</li>
 <li><code>UnsafeTypeConversions</code></li>
-</ul>
+
 
     The record parameter is specified as [option1 = value1, option2 = value2...] for example.
     <br>

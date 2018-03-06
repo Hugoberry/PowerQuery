@@ -12,4 +12,5 @@ Reorder some of the fields in the record.
 Record.ReorderFields([CustomerID= 1, OrderID = 1, Item = "Fishing rod", Price = 100.0], {"OrderID", "CustomerID"})
 ```
 > [OrderID = 1, CustomerID = 1, Item = "Fishing rod", Price = 100.0]
+
 ***

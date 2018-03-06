@@ -13,4 +13,5 @@ Find the items that appears most frequently in the list <code>{"A", 1, 2, 3, 3, 
 List.Modes({"A", 1, 2, 3, 3, 4, 5, 5})
 ```
 > {3, 5}
+
 ***

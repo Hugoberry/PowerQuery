@@ -7,7 +7,7 @@ Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</cod
       <ul>
       <li><code>dateTime</code>: The <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to which days are being added.</li>
       <li><code>numberOfDays</code>: The number of days to add.</li>
-      </ul>
+      
 # Category 
 Date
 # Examples 
@@ -16,4 +16,5 @@ Add 5 days to the <code>date</code>, <code>datetime</code>, or <code>datetimezon
 Date.AddDays(#date(2011, 5, 14), 5)
 ```
 > #date(2011, 5, 19)
+
 ***

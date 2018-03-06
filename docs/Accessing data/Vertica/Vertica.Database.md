@@ -8,6 +8,6 @@ An optional record parameter, <code>options</code>, may be provided to specify a
 <ul>
     <li><code>ConnectionTimeout</code>: A duration which controls how long to wait before abandoning an attempt to make a connection to the server. The default value is driver-dependent.</li>
     <li><code>CommandTimeout </code>: A duration which controls how long the server-side query is allowed to run before it is canceled. The default value is driver dependent.</li>
-</ul>
+
 # Category 
 Accessing data

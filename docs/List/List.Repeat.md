@@ -12,4 +12,5 @@ Create a list that has {1, 2} repeated 3 times.
 List.Repeat({1, 2}, 3)
 ```
 > {1, 2, 1, 2, 1, 2}
+
 ***

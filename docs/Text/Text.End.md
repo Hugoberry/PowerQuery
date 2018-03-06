@@ -12,4 +12,5 @@ Get the last 5 characters of the text "Hello, World".
 Text.End("Hello, World", 5)
 ```
 > "World"
+
 ***

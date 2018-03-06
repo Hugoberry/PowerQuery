@@ -12,4 +12,5 @@ Extract the field values from a record.
 Record.ToList([A = 1, B = 2, C = 3])
 ```
 > {1, 2, 3}
+
 ***

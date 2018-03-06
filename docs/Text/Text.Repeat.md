@@ -12,10 +12,12 @@ Repeat the text "a" five times.
 Text.Repeat("a", 5)
 ```
 > "aaaaa"
+
 ***
 Repeat the text "helloworld" three times.
 ```
 Text.Repeat("helloworld.", 3)
 ```
 > "helloworld.helloworld.helloworld."
+
 ***

@@ -17,6 +17,6 @@ Returns a table of OData feeds offered by an OData service from a uri <code>serv
     <li> <code>FunctionOverloads</code> : A logical (true/false) when set to true, function import overloads will be listed in the navigator as separate entries, when set to false, function import overloads will be listed as one union function in the navigator. Default value for V3: false. Default value for V4: true.</li>
     <li> <code>MoreColumns</code> : A logical (true/false) when set to true, adds a "More Columns" column to each entity feed containing open types and polymorphic types. This will contain the fields not declared in the base type. When false, this field is not present. Defaults to false.</li>
     <li> <code>IncludeAnnotations</code> : A comma separated list of namespace qualified term names or patterns to include with "*" as a wildcard. By default, none of the annotations are included.</li>
-    </ul>
+    
 # Category 
 Accessing data

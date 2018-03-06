@@ -12,4 +12,5 @@ Determine if the record <code>type [ A = number, ...]</code> is open.
 Type.IsOpenRecord(type [ A = number,...])
 ```
 > true
+
 ***

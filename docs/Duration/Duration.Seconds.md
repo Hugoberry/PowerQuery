@@ -12,4 +12,5 @@ Find the seconds in #duration(5, 4, 3, 2).
 Duration.Seconds(#duration(5, 4, 3, 2))
 ```
 > 2
+
 ***

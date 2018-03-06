@@ -12,4 +12,5 @@ Find the sine of the angle 0.
 Number.Sin(0)
 ```
 > 0
+
 ***

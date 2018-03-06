@@ -12,4 +12,5 @@ Find the hours in #duration(5, 4, 3, 2).
 Duration.Hours(#duration(5, 4, 3, 2))
 ```
 > 4
+
 ***

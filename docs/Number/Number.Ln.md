@@ -12,4 +12,5 @@ Get the natural logarithm of 15.
 Number.Ln(15)
 ```
 > 2.70805020110221
+
 ***

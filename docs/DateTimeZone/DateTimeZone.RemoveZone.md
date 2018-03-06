@@ -12,4 +12,5 @@ Remove timezone information from the value  #datetimezone(2011, 12, 31, 9, 15, 3
 DateTimeZone.RemoveZone( #datetimezone(2011, 12, 31, 9, 15, 36,-7, 0))
 ```
 > #datetime(2011, 12, 31, 9, 15, 36)
+
 ***

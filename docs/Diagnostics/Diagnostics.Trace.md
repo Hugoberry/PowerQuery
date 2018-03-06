@@ -17,4 +17,5 @@ Trace the message before invoking Text.From function and return the result.
 Diagnostics.Trace(TraceLevel.Information, "TextValueFromNumber", () => Text.From(123), true)
 ```
 > "123"
+
 ***

@@ -12,4 +12,5 @@ Get the month name.
 Date.MonthName(#datetime(2011, 12, 31, 5, 0, 0), "en-US")
 ```
 > "December"
+
 ***

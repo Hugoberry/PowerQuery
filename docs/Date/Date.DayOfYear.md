@@ -12,4 +12,5 @@ The number of the day March 1st, 2011 (<code>#date(2011, 03, 01)</code>).
 Date.DayOfYear(#date(2011, 03, 01))
 ```
 > 60
+
 ***

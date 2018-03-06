@@ -12,4 +12,5 @@ Use <code>Text.Proper</code> on a simple sentence.
 Text.Proper("the QUICK BrOWn fOx jUmPs oVER tHe LAzy DoG")
 ```
 > "The Quick Brown Fox Jumps Over The Lazy Dog"
+
 ***

@@ -8,7 +8,7 @@ The parameters are as follows:
 <li>The <code>binaryFormat</code> parameter specifies the binary format of the key value.</li>
 <li>The <code>group</code> parameter provides information about the group of known items.</li>
 <li>The optional <code>extra</code> parameter can be used to specify a function that will return a binary format value for the value following any key that was unexpected.  If the <code>extra</code> parameter is not specified, then an error will be raised if there are unexpected key values.</li>
-</ul>
+
 The <code>group</code> parameter specifies a list of item definitions.  Each item definition is a list, containing 3-5 values, as follows:
 <ul>
 <li>Key value.  The value of the key that corresponds to the item.  This must be unique within the set of items.</li>
@@ -16,7 +16,7 @@ The <code>group</code> parameter specifies a list of item definitions.  Each ite
 <li>Item occurrence.  The <code>BinaryOccurrence.Type</code> value for how many times the item is expected to appear in the group.   Required items that are not present cause an error.  Required or optional duplicate items are handled like unexpected key values.</li>
 <li>Default item value (optional).  If the default item value appears in the item definition list and is not null, then it will be used instead of the default.  The default for repeating or optional items is null, and the default for repeating values is an empty list { }.</li>
 <li>Item value transform (optional).   If the item value transform function is present in the item definition list and is not null, then it will be called to transform the item value before it is returned.  The transform function is only called if the item appears in the input (it will never be called with the default value). </li>
-</ul>
+
 # Category 
 Binary Formats.Reading a group of items
 # Examples 
@@ -27,7 +27,7 @@ The following assumes a key value that is a single byte, with 4 expected items i
 <li>Key 3 is optional, and does not appear, and results in a value of null.</li>
 <li>Key 4 repeats, but does not appear, and results in a value of { }.</li>
 <li>Key 5 is not part of the group, but appears once with value 55.  The extra function is called with the key value 5, and returns the format corresponding to that value (BinaryFormat.Byte).  The value 55 is read and discarded.</li>
-</ul>
+
 ```
 let
     b = #binary(
@@ -51,6 +51,7 @@ in
     f(b)
 ```
 > { 11, { 22, 22 }, null, { } }
+
 ***
 The following example illustrates the item value transform and default item value.   The repeating item with key 1 sums the list of values read using List.Sum.  The optional item with key 2 has a default value of 123 instead of null.
 ```
@@ -71,4 +72,5 @@ in
     f(b)
 ```
 > { 203, 123 }
+
 ***

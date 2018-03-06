@@ -12,4 +12,5 @@ Get a random number.
 Number.Random()
 ```
 > 0.919303
+
 ***

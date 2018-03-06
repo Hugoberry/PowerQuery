@@ -1,6 +1,6 @@
 # Power Query M reference
 
-- Accessing Data
+- [Accessing Data](Accessing data/README.md)
   - Access
     * [Access.Database](Accessing data/Access/Access.Database.md)
   - Active Directory

@@ -10,7 +10,7 @@ Partitions the <code>table</code> into a list of <code>groups</code> number of t
        <li><code>column</code>: The column to hash to determine which returned table the row is in.</li>
        <li><code>groups</code>: The number of tables the input table will be partitioned into.</li>
        <li><code>hash</code>: The function applied to obtain a hash value.</li>
-    </ul>
+    
 # Category 
 Table.Row operations
 # Examples 
@@ -26,4 +26,5 @@ Table.Partition(Table.FromRecords({[a = 2, b = 4], [a = 1, b = 4], [a = 2, b = 4
     "a",
     "b"
 }) }
+
 ***

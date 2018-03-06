@@ -12,10 +12,12 @@ Find the subset starting at offset 6 of the list of numbers 1 through 10.
 List.Range({1..10}, 6)
 ```
 > {7, 8, 9, 10}
+
 ***
 Find the subset of length 2 from offset 6, from the list of numbers 1 through 10.
 ```
 List.Range({1..10}, 6, 2)
 ```
 > {7, 8}
+
 ***

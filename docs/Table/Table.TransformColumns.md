@@ -13,22 +13,26 @@ Transform the number values in column [A] to number values.
 Table.TransformColumns(Table.FromRecords({[A="1", B=2], [A="5", B=10]}),{"A", Number.FromText})
 ```
 > Table.FromRecords({[A=1, B=2], [A=5, B=10]})
+
 ***
 Transform the number values in missing column [X] to text values, ignoring columns which don't exist.
 ```
 Table.TransformColumns(Table.FromRecords({[A="1", B=2], [A="5", B=10]}), {"X", Number.FromText}, null, MissingField.Ignore)
 ```
 > Table.FromRecords({[A="1", B=2], [A="5", B=10]})
+
 ***
 Transform the number values in missing column [X] to text values, defaulting to null on columns which don't exist.
 ```
 Table.TransformColumns(Table.FromRecords({[A="1",B=2], [A="5", B=10]}), {"X", Number.FromText}, null, MissingField.UseNull)
 ```
 > Table.FromRecords({[A="1", B=2, X=null], [A="5", B=10, X=null]})
+
 ***
 Transform the number values in missing column [X] to text values, erroring on columns which don't exist.
 ```
 Table.TransformColumns(Table.FromRecords({[A="1",B=2], [A="5", B=10]}), {"X", Number.FromText})
 ```
 > [Expression.Error] The column 'X' of the table wasn't found.
+
 ***

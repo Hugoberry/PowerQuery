@@ -13,4 +13,5 @@ Create a list from {1, 2, 3, 4, 5, 5} without {1, 5}.
 List.RemoveMatchingItems({1, 2, 3, 4, 5, 5}, {1, 5})
 ```
 > {2, 3, 4}
+
 ***

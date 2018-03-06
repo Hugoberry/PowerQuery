@@ -13,10 +13,12 @@ Get a textual representation of #date(2010, 12, 31).
 Date.ToText(#date(2010, 12, 31))
 ```
 > "12/31/2010"
+
 ***
 Get a textual representation of #date(2010, 12, 31) with format option.
 ```
 Date.ToText(#date(2010, 12, 31), "yyyy/MM/dd")
 ```
 > "2010/12/31"
+
 ***

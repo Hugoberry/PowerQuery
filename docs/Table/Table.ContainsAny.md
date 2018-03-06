@@ -13,16 +13,19 @@ Determine if the table <code>({[a = 1, b = 2], [a = 3, b = 4]})</code> contains 
 Table.ContainsAny(Table.FromRecords({[a = 1, b = 2], [a = 3, b = 4]}), {[a = 1, b = 2], [a = 3, b = 5]})
 ```
 > true
+
 ***
 Determine if the table <code>({[a = 1, b = 2], [a = 3, b = 4]})</code> contains the rows <code>[a = 1, b = 3]</code> or <code>[a = 3, b = 5]</code>.
 ```
 Table.ContainsAny(Table.FromRecords({[a = 1, b = 2], [a = 3, b = 4]}), {[a = 1, b = 3], [a = 3, b = 5]})
 ```
 > false
+
 ***
 Determine if the table <code>(Table.FromRecords({[a = 1, b = 2], [a = 3, b = 4]}))</code> contains the rows <code>[a = 1, b = 3]</code> or <code>[a = 3, b = 5]</code> comparing only the column [a].
 ```
 Table.ContainsAny(Table.FromRecords({[a = 1, b = 2], [a = 3, b = 4]}), {[a = 1, b = 3], [a = 3, b = 5]}, "a")
 ```
 > true
+
 ***

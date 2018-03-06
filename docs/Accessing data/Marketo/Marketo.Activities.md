@@ -12,4 +12,5 @@ Pulls a table of "Visit Webpage" activities since November 1, 2015
 Marketo.Activities("https://100-AAA-999.mktorest.com/rest", #date(2015,11,1), {1})
 ```
 > A table with details of all "Visit Webpage" activities since November 1
+
 ***

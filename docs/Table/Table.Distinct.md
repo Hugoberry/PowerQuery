@@ -17,6 +17,7 @@ Table.Distinct(Table.FromRecords({[a = "A", b = "a"], [a = "B", b = "b"], [a = "
     "a",
     "b"
 })
+
 ***
 Remove the duplicate rows from column [b] in the table <code>({[a = "A", b = "a"], [a = "B", b = "a"], [a = "A", b = "b"]})</code>.
 ```
@@ -27,4 +28,5 @@ Table.Distinct(Table.FromRecords({[a = "A", b = "a"], [a = "B", b = "a"], [a = "
     "a",
     "b"
 })
+
 ***

@@ -13,6 +13,7 @@ Transform the rows into a list of numbers from the table <code>({[A = 1], [A = 2
 Table.TransformRows(Table.FromRecords({[a = 1], [a = 2], [a = 3], [a = 4], [a = 5]}), each [a])
 ```
 > {1, 2, 3, 4, 5}
+
 ***
 Transform the rows in column [A] into text values in a column [B] from the table <code>({[A = 1], [A = 2], [A = 3], [A = 4], [A = 5])</code>.
 ```
@@ -29,4 +30,5 @@ Table.TransformRows(Table.FromRecords({[a = 1], [a = 2], [a = 3], [a = 4], [a = 
    ], [
        B = "5"
    ] }
+
 ***

@@ -12,4 +12,5 @@ Replace the text "hE" with "He" in the string "hEllo world".
 Replacer.ReplaceText("hEllo world","hE","He")
 ```
 > "Hello world"
+
 ***

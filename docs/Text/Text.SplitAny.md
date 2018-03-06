@@ -16,4 +16,5 @@ Text.SplitAny("Jamie|Campbell|Admin|Adventure Works|www.adventure-works.com", "|
     "Admin",
     "Adventure Works",
     "www.adventure-works.com"}
+
 ***

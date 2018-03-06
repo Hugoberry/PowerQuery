@@ -13,10 +13,12 @@ Check if the record has the field "CustomerID".
 Record.HasFields([CustomerID = 1, Name = "Bob", Phone = "123-4567"],"CustomerID")
 ```
 > true
+
 ***
 Check if the record has the field "CustomerID" and "Address".
 ```
 Record.HasFields([CustomerID = 1, Name = "Bob", Phone = "123-4567"],{"CustomerID", "Address"})
 ```
 > false
+
 ***

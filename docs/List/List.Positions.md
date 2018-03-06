@@ -13,4 +13,5 @@ Find the offsets of values in the list {1, 2, 3, 4, null, 5}.
 List.Positions({1, 2, 3, 4, null, 5})
 ```
 > {0, 1, 2, 3, 4, 5}
+
 ***

@@ -7,6 +7,6 @@ Returns a table listing the tables in the Snowflake Computing <code>warehouse</c
 <ul>
 <li><code>ConnectionTimeout</code>: The number of seconds to wait for network responses from Snowflake.</li>
 <li><code>CommandTimeout</code>: The number of seconds to wait for a query to execute.</li>
-</ul>
+
 # Category 
 Accessing data

@@ -12,4 +12,5 @@ Remove characters , and ; from the text value.
 Text.Remove("a,b;c",{",",";"})
 ```
 > "abc"
+
 ***

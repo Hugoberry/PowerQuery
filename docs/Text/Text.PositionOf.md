@@ -16,7 +16,7 @@ Returns the position of the specified occurrence of the text value <code>substri
         <li><code>Comparer.Ordinal</code>: Used to perform an exact ordinal comparison</li>
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
         <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
-      </ul>
+      
 # Category 
 Text.Membership
 # Examples 
@@ -25,10 +25,12 @@ Get the position of the first occurrence of "World" in the text "Hello, World! H
 Text.PositionOf("Hello, World! Hello, World!", "World")
 ```
 > 7
+
 ***
 Get the position of last occurrence of "World" in "Hello, World! Hello, World!".
 ```
 Text.PositionOf("Hello, World! Hello, World!", "World", Occurrence.Last)
 ```
 > 21
+
 ***

@@ -12,7 +12,7 @@ Returns a <code>number</code> value from the given <code>value</code>. If the gi
         <li><code>date</code>: A double-precision floating-point number that contains an OLE Automation date equivalent.</li>
         <li><code>time</code>:  Expressed in fractional days.</li>
         <li><code>duration</code>: Expressed in whole and fractional days.</li>  
-      </ul>
+      
 If <code>value</code> is of any other type, an error is returned.
 # Category 
 Number.Conversion and formatting
@@ -22,16 +22,19 @@ Get the <code>number</code> value of <code>"4"</code>.
 Number.From("4")
 ```
 > 4
+
 ***
 Get the <code>number</code> value of <code>#datetime(2020, 3, 20, 6, 0, 0)</code>.
 ```
 Number.From(#datetime(2020, 3, 20, 6, 0, 0))
 ```
 > 43910.25
+
 ***
 Get the <code>number</code> value of <code>"12.3%"</code>.
 ```
 Number.From("12.3%")
 ```
 > 0.123
+
 ***

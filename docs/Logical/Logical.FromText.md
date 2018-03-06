@@ -12,10 +12,12 @@ Create a logical value from the text string "true".
 Logical.FromText("true")
 ```
 > true
+
 ***
 Create a logical value from the text string "a".
 ```
 Logical.FromText("a")
 ```
 > [Expression.Error] Could not convert to a logical.
+
 ***

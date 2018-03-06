@@ -14,4 +14,5 @@ Type.ClosedRecord(type [ A = number,...])
 > type [
     A = number
 ]
+
 ***

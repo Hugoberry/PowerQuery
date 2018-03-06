@@ -12,4 +12,5 @@ Find the minute in #datetime(2011, 12, 31, 9, 15, 36).
 Time.Minute(#datetime(2011, 12, 31, 9, 15, 36))
 ```
 > 15
+
 ***

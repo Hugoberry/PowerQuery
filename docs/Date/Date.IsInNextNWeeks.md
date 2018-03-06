@@ -7,7 +7,7 @@ Indicates whether the given datetime value <code>dateTime</code> occurs during t
       <ul>
       <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to be evaluated.</li>
       <li><code>weeks</code>: The number of weeks.</li>
-      </ul>
+      
 # Category 
 Date
 # Examples 
@@ -16,4 +16,5 @@ Determine if the week after the current system time is in the next two weeks.
 Date.IsInNextNWeeks(Date.AddDays(DateTime.FixedLocalNow(), 7), 2)
 ```
 > true
+
 ***

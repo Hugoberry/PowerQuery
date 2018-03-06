@@ -12,10 +12,12 @@ Rename the field "UnitPrice" to "Price" from the record.
 Record.RenameFields([OrderID = 1, CustomerID = 1, Item = "Fishing rod", UnitPrice = 100.0], {"UnitPrice","Price"})
 ```
 > [OrderID = 1, CustomerID = 1, Item = "Fishing rod", Price = 100.0]
+
 ***
 Rename the fields "UnitPrice" to "Price" and "OrderNum" to "OrderID"  from the record.
 ```
 Record.RenameFields([OrderNum = 1, CustomerID = 1, Item = "Fishing rod", UnitPrice = 100.0], { {"UnitPrice", "Price"}, {"OrderNum", "OrderID"} })
 ```
 > [OrderID = 1, CustomerID = 1, Item = "Fishing rod", Price = 100.0]
+
 ***

@@ -13,10 +13,12 @@ Find out if the list {1, 2, 3, 4, 5} contains 3 and 4.
 List.ContainsAll({1, 2, 3, 4, 5}, {3, 4})
 ```
 > true
+
 ***
 Find out if the list {1, 2, 3, 4, 5} contains 5 and 6.
 ```
 List.ContainsAll({1, 2, 3, 4, 5}, {5, 6})
 ```
 > false
+
 ***

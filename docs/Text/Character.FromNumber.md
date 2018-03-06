@@ -12,4 +12,5 @@ Given the number 9, find the character value.
 Character.FromNumber(9)
 ```
 > "#(tab)"
+
 ***

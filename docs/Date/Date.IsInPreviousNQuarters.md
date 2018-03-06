@@ -7,7 +7,7 @@ Indicates whether the given datetime value <code>dateTime</code> occurs during t
       <ul>
       <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to be evaluated.</li>
       <li><code>quarters</code>: The number of quarters.</li>
-      </ul>
+      
 # Category 
 Date
 # Examples 
@@ -16,4 +16,5 @@ Determine if the quarter before the current system time is in the previous two q
 Date.IsInPreviousNQuarters(Date.AddQuarters(DateTime.FixedLocalNow(), -1), 2)
 ```
 > true
+
 ***

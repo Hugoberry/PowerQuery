@@ -12,4 +12,5 @@ Find the start of the month for October 10th, 2011, 8:10:32AM (<code>#datetime(2
 Date.StartOfMonth(#datetime(2011, 10, 10, 8, 10, 32))
 ```
 > #datetime(2011, 10, 1, 0, 0, 0)
+
 ***

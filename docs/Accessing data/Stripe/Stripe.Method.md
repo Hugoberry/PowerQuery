@@ -12,10 +12,12 @@ Returns a table with events created after November 1, 2015
 Stripe.Method("events", [#"created[gte]"=1446374329], {"id", "livemode", "created", "type", "data", "object", "pending_webhooks", "request", "api_version"})
 ```
 > A table with the specified events for the current Stripe account
+
 ***
 Returns a table with all SKUs
 ```
 Stripe.Method("skus", [], {"id", "created", "updated", "object", "livemode", "product", "image", "active", "price", "currency", "inventory", "attributes", "metadata", "package_dimensions"})
 ```
 > A table with all SKUs for the current Stripe account
+
 ***

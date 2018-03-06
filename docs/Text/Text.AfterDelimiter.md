@@ -14,16 +14,19 @@ Get the portion of "111-222-333" after the (first) hyphen.
 Text.AfterDelimiter("111-222-333", "-")
 ```
 > "222-333"
+
 ***
 Get the portion of "111-222-333" after the second hyphen.
 ```
 Text.AfterDelimiter("111-222-333", "-", 1)
 ```
 > "333"
+
 ***
 Get the portion of "111-222-333" after the second hyphen from the end.
 ```
 Text.AfterDelimiter("111-222-333", "-", {1, RelativePosition.FromEnd})
 ```
 > "222-333"
+
 ***

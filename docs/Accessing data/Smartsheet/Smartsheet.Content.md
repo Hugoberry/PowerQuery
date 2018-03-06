@@ -12,4 +12,5 @@ Pulls a table of users information from the Smartsheet API
 Smartsheet.Content("users")
 ```
 > A table with users information as returned by the Smartsheet API
+
 ***

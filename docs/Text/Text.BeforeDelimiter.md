@@ -14,16 +14,19 @@ Get the portion of "111-222-333" before the (first) hyphen.
 Text.BeforeDelimiter("111-222-333", "-")
 ```
 > "111"
+
 ***
 Get the portion of "111-222-333" before the second hyphen.
 ```
 Text.BeforeDelimiter("111-222-333", "-", 1)
 ```
 > "111-222"
+
 ***
 Get the portion of "111-222-333" before the second hyphen from the end.
 ```
 Text.BeforeDelimiter("111-222-333", "-", {1, RelativePosition.FromEnd})
 ```
 > "111"
+
 ***

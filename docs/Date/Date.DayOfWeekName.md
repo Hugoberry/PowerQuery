@@ -12,4 +12,5 @@ Get the day of the week name.
 Date.DayOfWeekName(#date(2011, 12, 31), "en-US")
 ```
 > "Saturday"
+
 ***

@@ -13,10 +13,12 @@ Determine if the table contains all the rows comparing only the column [Customer
 Table.ContainsAll(  Table.FromRecords( {  [CustomerID = 1, Name = "Bob", Phone = "123-4567"],  [CustomerID = 2, Name = "Jim", Phone = "987-6543"] ,  [CustomerID = 3, Name = "Paul", Phone = "543-7890"] ,  [CustomerID = 4, Name = "Ringo", Phone = "232-1550"]}),    {[CustomerID=1, Name="Bill"],[CustomerID=2, Name="Fred"]},    "CustomerID")
 ```
 > true
+
 ***
 Determine if the table contains all the rows.
 ```
 Table.ContainsAll(  Table.FromRecords( {  [CustomerID = 1, Name = "Bob", Phone = "123-4567"],  [CustomerID = 2, Name = "Jim", Phone = "987-6543"] ,  [CustomerID = 3, Name = "Paul", Phone = "543-7890"] ,  [CustomerID = 4, Name = "Ringo", Phone = "232-1550"]}),    {[CustomerID=1, Name="Bill"],[CustomerID=2, Name="Fred"]})
 ```
 > false
+
 ***

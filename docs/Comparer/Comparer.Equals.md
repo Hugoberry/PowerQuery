@@ -14,7 +14,7 @@ Returns a <code>logical</code> value based on the equality check over the two gi
         <li><code>Comparer.Ordinal</code>: Used to perform an exact ordinal comparison</li>
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
         <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
-      </ul>
+      
 # Category 
 Comparer
 # Examples 
@@ -23,4 +23,5 @@ Compare "1" and "A" using "en-US" locale to determine if the values are equal.
 Comparer.Equals(Comparer.FromCulture("en-us"), "1", "A")
 ```
 > false
+
 ***

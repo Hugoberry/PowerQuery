@@ -13,10 +13,12 @@ Find if the list {1, 2, 3, 4, 5} contains 3.
 List.Contains({1, 2, 3, 4, 5}, 3)
 ```
 > true
+
 ***
 Find if the list {1, 2, 3, 4, 5} contains 6.
 ```
 List.Contains({1, 2, 3, 4, 5}, 6)
 ```
 > false
+
 ***

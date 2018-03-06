@@ -15,7 +15,7 @@ Indicates whether the given text, <code>text</code>, ends with the specified val
         <li><code>Comparer.Ordinal</code>: Used to perform an exact ordinal comparison</li>
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
         <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
-      </ul>
+      
 # Category 
 Text.Membership
 # Examples 
@@ -24,10 +24,12 @@ Check if "Hello, World" ends with "world".
 Text.EndsWith("Hello, World", "world")
 ```
 > false
+
 ***
 Check if "Hello, World" ends with "World".
 ```
 Text.EndsWith("Hello, World", "World")
 ```
 > true
+
 ***

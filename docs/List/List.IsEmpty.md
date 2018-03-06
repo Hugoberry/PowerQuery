@@ -12,10 +12,12 @@ Find if the list {} is empty.
 List.IsEmpty({})
 ```
 > true
+
 ***
 Find if the list {1, 2} is empty.
 ```
 List.IsEmpty({1, 2})
 ```
 > false
+
 ***

@@ -7,7 +7,7 @@ Indicates whether the given datetime value <code>dateTime</code> occurs during t
       <ul>
       <li><code>dateTime</code>: A <code>datetime</code>, or <code>datetimezone</code> value to be evaluated.</li>
       <li><code>minutes</code>: The number of minutes.</li>
-      </ul>
+      
 # Category 
 DateTime
 # Examples 
@@ -16,4 +16,5 @@ Determine if the minute after the current system time is in the next two minutes
 DateTime.IsInNextNMinutes(DateTime.FixedLocalNow() + #duration(0,0,2,0), 2)
 ```
 > true
+
 ***

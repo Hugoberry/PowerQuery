@@ -12,4 +12,5 @@ Pulls data from the sheets Smartsheet API endpoint with additional arguments spe
 Smartsheet.Content("sheets", "include=ownerInfo&includeAll=true", [])
 ```
 > A table with sheets information as returned by the Smartsheet API
+
 ***

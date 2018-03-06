@@ -12,4 +12,5 @@ Find the character at position 4 in string "Hello, World".
 Text.At("Hello, World", 4)
 ```
 > "o"
+
 ***

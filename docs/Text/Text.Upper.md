@@ -12,4 +12,5 @@ Get the uppercase version of "aBcD".
 Text.Upper("aBcD")
 ```
 > "ABCD"
+
 ***

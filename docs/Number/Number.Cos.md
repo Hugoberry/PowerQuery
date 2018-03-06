@@ -12,4 +12,5 @@ Find the cosine of the angle 0.
 Number.Cos(0)
 ```
 > 1
+
 ***

@@ -13,10 +13,12 @@ Find the square root of 625.
 Number.Sqrt(625)
 ```
 > 25
+
 ***
 Find the square root of 85.
 ```
 Number.Sqrt(85)
 ```
 > 9.2195444572928871
+
 ***

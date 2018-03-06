@@ -9,7 +9,7 @@ Returns the contents of the CSV document as a table.
      <li> <code>delimiter</code> can take a single character or a list; Comma is used if not specified or null.</li>
      <li> Please refer to <code>ExtraValues.Type</code> for supported values of optional <code>extraValues</code>.</li>
      <li> <code>encoding</code> specifies the text encoding type.</li>
-    </ul>
+    
 # Category 
 Accessing data
 # Examples 
@@ -23,4 +23,5 @@ Table.PromoteHeaders(Csv.Document("OrderID,Item
     [ OrderID = "1", Item = "Fishing rod" ],
     [ OrderID = "2", Item = "1 lb. worms" ]
 })
+
 ***

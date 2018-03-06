@@ -12,4 +12,5 @@ Returns sheets, folders, reports, and workspaces available at the top level of t
 Smartsheet.Tables()
 ```
 > A table of folders, reports, and workspaces from the top level of the Smartsheet hierarchy
+
 ***

@@ -8,7 +8,7 @@ Returns a table listing the available projects in Google BigQuery. An optional r
         <li><code>ConnectionTimeout</code>: A duration which controls how long to wait before abandoning an attempt to make a connection to the server. The default value is ODBC Connection Timeout value.</li>
         <li><code>CommandTimeout</code>: A duration which controls how long the server-side query is allowed to run before it is canceled.</li>
         <li><code>BillingProject</code>: Billing project name. The default value is the first available project.</li>
-      </ul>
+      
     The record parameter is specified as [option1 = value1, option2 = value2...].
 # Category 
 Accessing data

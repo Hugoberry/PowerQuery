@@ -12,10 +12,12 @@ Check if 625 is an odd number.
 Number.IsOdd(625)
 ```
 > true
+
 ***
 Check if 82 is an odd number.
 ```
 Number.IsOdd(82)
 ```
 > false
+
 ***

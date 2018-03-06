@@ -16,6 +16,7 @@ Table.ReplaceErrorValues(Table.FromRows({ {1,"hello"},{3,...} }, {"A","B"}), {"B
     "A",
     "B"
 })
+
 ***
 Replace the error value in column A with the text "hello" and in column B with the text "world" in the table.
 ```
@@ -26,4 +27,5 @@ Table.ReplaceErrorValues(Table.FromRows({ {..., ...},{1,2} }, {"A","B"}), { {"A"
     "A",
     "B"
 })
+
 ***

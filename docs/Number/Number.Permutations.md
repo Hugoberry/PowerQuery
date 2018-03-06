@@ -12,4 +12,5 @@ Find the number of permutations from a total of 5 items in groups of 3.
 Number.Permutations(5, 3)
 ```
 > 60
+
 ***

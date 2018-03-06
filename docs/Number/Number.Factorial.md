@@ -12,4 +12,5 @@ Find the factorial of 10.
 Number.Factorial(10)
 ```
 > 3628800
+
 ***

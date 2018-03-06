@@ -12,4 +12,5 @@ Return the table from the record.
 Record.ToTable([OrderID = 1, CustomerID = 1, Item = "Fishing rod", Price = 100.0])
 ```
 > Table.FromRecords({[Name="OrderID", Value=1],[Name="CustomerID", Value=1],[Name="Item", Value="Fishing rod"],[Name="Price", Value=100]})
+
 ***

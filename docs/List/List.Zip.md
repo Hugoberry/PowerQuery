@@ -15,6 +15,7 @@ List.Zip({ {1, 2}, {3, 4} })
     { 1, 3 },
     { 2, 4 }
 }
+
 ***
 Zips the two simple lists of different lengths {1, 2} and {3}.
 ```
@@ -24,4 +25,5 @@ List.Zip({ {1, 2}, {3} })
     { 1, 3 },
     { 2, null }
 }
+
 ***

@@ -12,4 +12,5 @@ Using Ordinal rules, compare if "encyclop?dia" and "encyclopaedia" are equivalen
 Comparer.Equals(Comparer.Ordinal, "encyclop?dia", "encyclopaedia")
 ```
 > false
+
 ***

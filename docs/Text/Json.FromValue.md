@@ -13,7 +13,7 @@ Produces a JSON representation of a given value.
         <li>Dates, times, datetimes, datetimezones and durations are represented as ISO-8601 text</li>
         <li>Binary values are represented as base-64 encoded text</li>
         <li>Types and functions produce an error</li>
- </ul>
+ 
 # Category 
 Text.Conversions from and to text
 # Examples 
@@ -22,4 +22,5 @@ Convert a complex value to JSON.
 Text.FromBinary(Json.FromValue([A={1, true, "3"}, B=#date(2012, 3, 25)]))
 ```
 > "{""A"":[1,true,""3""],""B"":""2012-03-25""}"
+
 ***

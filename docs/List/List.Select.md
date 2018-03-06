@@ -12,4 +12,5 @@ Find the values in the list {1, -3, 4, 9, -2} that are greater than 0.
 List.Select({1, -3, 4, 9, -2}, each _ > 0) 
 ```
 > {1, 4, 9}
+
 ***

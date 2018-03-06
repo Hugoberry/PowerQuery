@@ -7,7 +7,7 @@ Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</cod
       <ul>
       <li><code>dateTime</code>: The <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to which quarters are being added.</li>
       <li><code>numberOfQuarters</code>: The number of quarters to add.</li>
-      </ul>
+      
 # Category 
 Date
 # Examples 
@@ -16,4 +16,5 @@ Add 1 quarter to the <code>date</code>, <code>datetime</code>, or <code>datetime
 Date.AddQuarters(#date(2011, 5, 14), 1)
 ```
 > #date(2011, 8, 14)
+
 ***

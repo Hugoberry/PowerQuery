@@ -8,7 +8,7 @@ Returns the result of converting text value <code>text</code> to a binary (list 
       <ul>
         <li><code>BinaryEncoding.Base64</code>: Base 64 encoding</li>
         <li><code>BinaryEncoding.Hex</code>: Hex encoding</li>        
-      </ul>
+      
 # Category 
 Binary
 # Examples 
@@ -17,10 +17,12 @@ Decode "1011" into binary.
 Binary.FromText("1011")
 ```
 > Binary.FromText("1011", BinaryEncoding.Base64)
+
 ***
 Decode "1011" into binary with Hex encoding.
 ```
 Binary.FromText("1011", BinaryEncoding.Hex)
 ```
 > Binary.FromText("EBE=", BinaryEncoding.Base64)
+
 ***

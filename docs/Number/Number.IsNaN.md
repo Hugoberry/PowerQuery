@@ -12,10 +12,12 @@ Check if 0 divided by 0 is NaN.
 Number.IsNaN(0/0)
 ```
 > true
+
 ***
 Check if 1 divided by 0 is NaN.
 ```
 Number.IsNaN(1/0)
 ```
 > false
+
 ***

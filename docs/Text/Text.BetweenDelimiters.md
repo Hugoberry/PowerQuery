@@ -15,16 +15,19 @@ Get the portion of "111 (222) 333 (444)" between the (first) open parenthesis an
 Text.BetweenDelimiters("111 (222) 333 (444)", "(", ")")
 ```
 > "222"
+
 ***
 Get the portion of "111 (222) 333 (444)" between the second open parenthesis and the first closed parenthesis that follows it.
 ```
 Text.BetweenDelimiters("111 (222) 333 (444)", "(", ")", 1, 0)
 ```
 > "444"
+
 ***
 Get the portion of "111 (222) 333 (444)" between the second open parenthesis from the end and the second closed parenthesis that follows it.
 ```
 Text.BetweenDelimiters("111 (222) 333 (444)", "(", ")", {1, RelativePosition.FromEnd}, {1, RelativePosition.FromStart})
 ```
 > "222) 333 (444"
+
 ***

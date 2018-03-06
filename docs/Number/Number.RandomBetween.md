@@ -12,4 +12,5 @@ Get a random number between 1 and 5.
 Number.RandomBetween(1, 5)
 ```
 > 2.546797
+
 ***

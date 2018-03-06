@@ -17,6 +17,7 @@ List.Combine({ {1, 2}, {3, 4} })
     3,
     4
 }
+
 ***
 Combine the two lists, {1, 2} and {3, {4, 5} }, one of which contains a nested list.
 ```
@@ -28,4 +29,5 @@ List.Combine({ {1, 2}, {3, {4, 5} }})
     3, {4,
         5}
 }
+
 ***

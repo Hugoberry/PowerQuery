@@ -12,4 +12,5 @@ Returns a table with key MailChimp data.
 MailChimp.Tables()
 ```
 > A table with key MailChimp data.
+
 ***

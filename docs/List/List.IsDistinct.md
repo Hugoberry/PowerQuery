@@ -12,10 +12,12 @@ Find if the list {1, 2, 3} is distinct (i.e. no duplicates).
 List.IsDistinct({1, 2, 3})
 ```
 > true
+
 ***
 Find if the list {1, 2, 3, 3} is distinct (i.e. no duplicates).
 ```
 List.IsDistinct({1, 2, 3, 3})
 ```
 > false
+
 ***

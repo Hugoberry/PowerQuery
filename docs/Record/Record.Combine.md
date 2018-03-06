@@ -12,4 +12,5 @@ Create a combined record from the records.
 Record.Combine({ [CustomerID =1, Name ="Bob"] , [Phone =  "123-4567"]})
 ```
 > [CustomerID=1, Name="Bob", Phone="123-4567"]
+
 ***

@@ -12,10 +12,12 @@ Returns all charges data
 Stripe.Contents("charges")
 ```
 > A table with all charges data for the current Stripe account
+
 ***
 Returns one page of charges data
 ```
 Stripe.Contents("charges", [], 1)
 ```
 > A table with the most recent charges data for the current Stripe account
+
 ***

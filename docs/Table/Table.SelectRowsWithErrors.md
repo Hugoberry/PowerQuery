@@ -17,4 +17,5 @@ Table.SelectRowsWithErrors(Table.FromRecords({
 }))[Name]
 ```
 > {"Bob"}
+
 ***

@@ -44,4 +44,5 @@ Table.AddJoinColumn(Table.FromRecords({[saleID = 1, item = "Shirt"], [saleID = 2
     "item",
     "price"
 })
+
 ***

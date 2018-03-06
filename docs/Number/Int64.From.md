@@ -12,10 +12,12 @@ Get the 64-bit integer <code>number</code> value of <code>"4"</code>.
 Int64.From("4")
 ```
 > 4
+
 ***
 Get the 64-bit integer <code>number</code> value of <code>"4.5"</code> using <code>RoundingMode.AwayFromZero</code>.
 ```
 Int64.From("4.5", null, RoundingMode.AwayFromZero)
 ```
 > 5
+
 ***

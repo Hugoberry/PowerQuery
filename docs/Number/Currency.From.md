@@ -12,10 +12,12 @@ Get the <code>currency</code> value of <code>"1.23455"</code>.
 Currency.From("1.23455")
 ```
 > 1.2346
+
 ***
 Get the <code>currency</code> value of <code>"1.23455"</code> using <code>RoundingMode.Down</code>.
 ```
 Currency.From("1.23455", "en-Us", RoundingMode.Down)
 ```
 > 1.2345
+
 ***

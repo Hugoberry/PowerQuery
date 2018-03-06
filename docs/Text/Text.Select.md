@@ -12,4 +12,5 @@ Select all characters in the range of 'a' to 'z' from the text value.
 Text.Select("a,b;c", {"a".."z"})
 ```
 > "abc"
+
 ***

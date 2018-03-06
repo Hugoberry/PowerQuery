@@ -14,16 +14,19 @@ Round down 1.234 to integer.
 Number.RoundDown(1.234)
 ```
 > 1
+
 ***
 Round down 1.999 to integer.
 ```
 Number.RoundDown(1.999)
 ```
 > 1
+
 ***
 Round down 1.999 to two decimal places.
 ```
 Number.RoundDown(1.999, 2)
 ```
 > 1.99
+
 ***

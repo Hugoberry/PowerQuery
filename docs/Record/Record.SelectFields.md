@@ -12,4 +12,5 @@ Select the fields "Item" and "Price" in the record.
 Record.SelectFields( [OrderID = 1, CustomerID = 1, Item = "Fishing rod", Price = 100.0] , {"Item", "Price"})
 ```
 > [Item = "Fishing rod", Price = 100]
+
 ***

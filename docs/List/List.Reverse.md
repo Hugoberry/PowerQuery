@@ -12,4 +12,5 @@ Create a list from {1..10} in reverse order.
 List.Reverse({1..10})
 ```
 > {10, 9, 8, 7, 6, 5, 4, 3, 2, 1}
+
 ***

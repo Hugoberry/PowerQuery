@@ -14,6 +14,6 @@ Returns the contents downloaded from <code>url</code> as binary. An optional rec
         <li><code>IsRetry</code>: Specifying this logical value as true will ignore any existing response in the cache when fetching data.</li>
         <li><code>ManualStatusHandling</code>: Specifying this value as a list will prevent any builtin handling for HTTP requests whose response has one of these status codes.</li>
         <li><code>RelativePath</code>: Specifying this value as text appends it to the base URL before making the request.</li>
-      </ul>
+      
 # Category 
 Accessing data

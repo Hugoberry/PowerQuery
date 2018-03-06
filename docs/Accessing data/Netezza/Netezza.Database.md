@@ -10,7 +10,7 @@ Returns a table of Netezza tables, views, and stored functions from the Netezza 
         <li><code>ConnectionTimeout</code>: A duration which controls how long to wait before abandoning an attempt to make a connection to the server. The default value is driver-dependent.</li>
         <li><code>CommandTimeout</code>: A duration which controls how long the server-side query is allowed to run before it is canceled. The default value is driver-dependent.</li>
 
-</ul>
+
 The record parameter is specified as [option1 = value1, option2 = value2...].
 # Category 
 Accessing data

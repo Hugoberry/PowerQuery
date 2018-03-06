@@ -12,4 +12,5 @@ Get the lowercase version of "AbCd".
 Text.Lower("AbCd")
 ```
 > "abcd"
+
 ***

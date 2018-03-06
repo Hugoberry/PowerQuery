@@ -12,4 +12,5 @@ Pulls a table of key metrics for tenant 98765 in last 30 days
 Webtrends.KeyMetrics("98765")
 ```
 > A table of key metrics
+
 ***

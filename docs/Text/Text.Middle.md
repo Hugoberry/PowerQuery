@@ -12,10 +12,12 @@ Find the substring from the text "Hello World" starting at index 6 spanning 5 ch
 Text.Middle("Hello World", 6, 5)
 ```
 > "World"
+
 ***
 Find the substring from the text "Hello World" starting at index 6 through the end.
 ```
 Text.Middle("Hello World", 6, 20)
 ```
 > "World"
+
 ***

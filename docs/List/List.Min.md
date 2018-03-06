@@ -13,10 +13,12 @@ Find the min in the list {1, 4, 7, 3, -2, 5}.
 List.Min({1, 4, 7, 3, -2, 5})
 ```
 > -2
+
 ***
 Find the min in the list {} or return -1 if it is empty. 
 ```
 List.Min({}, -1)
 ```
 > -1
+
 ***

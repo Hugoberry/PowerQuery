@@ -12,4 +12,5 @@ Calculate the covariance between two lists.
 List.Covariance({1, 2, 3},{1, 2, 3})
 ```
 > 0.66666666666666607
+
 ***

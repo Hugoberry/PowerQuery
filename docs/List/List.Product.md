@@ -12,4 +12,5 @@ Find the product of the numbers in the list <code>{1, 2, 3, 3, 4, 5, 5}</code>.
 List.Product({1, 2, 3, 3, 4, 5, 5})
 ```
 > 1800
+
 ***

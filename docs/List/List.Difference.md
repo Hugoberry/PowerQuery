@@ -13,10 +13,12 @@ Find the items in list {1, 2, 3, 4, 5}that do not appear in {4, 5, 3}.
 List.Difference({1, 2, 3, 4, 5},{4, 5, 3})
 ```
 > {1, 2}
+
 ***
 Find the items in the list {1, 2} that do not appear in {1, 2, 3}.
 ```
 List.Difference({1, 2}, {1, 2, 3})
 ```
 > {}
+
 ***

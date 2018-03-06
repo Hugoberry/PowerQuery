@@ -12,4 +12,5 @@ Find which quarter of the year the date #date(2011, 12, 31) falls in.
 Date.QuarterOfYear(#date(2011, 12, 31))
 ```
 > 4
+
 ***

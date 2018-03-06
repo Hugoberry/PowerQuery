@@ -12,10 +12,12 @@ Remove the field "Price" from the record.
 Record.RemoveFields([CustomerID=1, Item = "Fishing rod", Price=18.00], "Price")
 ```
 > [CustomerID=1, Item="Fishing rod"]
+
 ***
 Remove the fields "Price" and "Item" from the record.
 ```
 Record.RemoveFields([CustomerID=1, Item = "Fishing rod", Price=18.00], {"Price", "Item"})
 ```
 > [CustomerID=1]
+
 ***

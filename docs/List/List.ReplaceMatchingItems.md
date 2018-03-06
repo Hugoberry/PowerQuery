@@ -13,4 +13,5 @@ Create a list from {1, 2, 3, 4, 5} replacing the value 5 with -5, and the value 
 List.ReplaceMatchingItems({1, 2, 3, 4, 5}, { {5, -5}, {1, -1} })
 ```
 > {-1, 2, 3, 4, -5}
+
 ***

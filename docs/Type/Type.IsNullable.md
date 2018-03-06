@@ -12,10 +12,12 @@ Determine if <code>number</code> is nullable.
 Type.IsNullable(type number)
 ```
 > false
+
 ***
 Determine if <code>type nullable number</code> is nullable.
 ```
 Type.IsNullable(type nullable number)
 ```
 > true
+
 ***

@@ -13,10 +13,12 @@ Find the last value in the list {1, 2, 3}.
 List.Last({1, 2, 3})
 ```
 > 3
+
 ***
 Find the last value in the list {} or -1 if it empty.
 ```
 List.Last({}, -1)
 ```
 > -1
+
 ***

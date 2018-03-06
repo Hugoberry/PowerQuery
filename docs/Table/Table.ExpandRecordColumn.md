@@ -9,7 +9,7 @@ Given the <code>column</code> of records in the input <code>table</code>, create
         <li><code>column</code>: The column to expand.</li>
         <li><code>fieldNames</code>: The list of fields to expand into columns in the table.</li>
         <li><code>newColumnNames</code>: The list of column names to give the new columns. The new column names cannot duplicate any column in the new table.</li>
-    </ul>
+    
 # Category 
 Table.Transformation
 # Examples 
@@ -26,4 +26,5 @@ Table.ExpandRecordColumn(Table.FromRecords({[a = [aa = 1, bb = 2, cc = 3], b = 2
     "cc",
     "b"
 })
+
 ***

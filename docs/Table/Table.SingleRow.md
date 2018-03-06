@@ -12,4 +12,5 @@ Return the single row in the table.
 Table.SingleRow(Table.FromRecords({[CustomerID = 1, Name = "Bob", Phone = "123-4567"]}))
 ```
 > [CustomerID = 1, Name = "Bob", Phone = "123-4567"]
+
 ***

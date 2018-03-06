@@ -12,4 +12,5 @@ Find the number of fields in the record.
 Record.FieldCount([CustomerID = 1, Name = "Bob"])
 ```
 > 2
+
 ***

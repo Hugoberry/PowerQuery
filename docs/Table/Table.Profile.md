@@ -13,7 +13,7 @@ Returns a profile of the columns of a table.
   <li>count</li>
   <li>null count</li>
   <li>distinct count</li>
-</ul>
+
 </p>
 # Category 
 Table.Information

@@ -82,4 +82,5 @@ Table.FromPartitions(
     "Month",
     "Year"
 })
+
 ***

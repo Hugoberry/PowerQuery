@@ -12,4 +12,5 @@ Encode the special characters in "+money$".
 Uri.EscapeDataString("+money$")
 ```
 > "%2Bmoney%24"
+
 ***

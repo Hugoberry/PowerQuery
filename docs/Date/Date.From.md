@@ -9,7 +9,7 @@ Returns a <code>date</code> value from the given <code>value</code>. If the give
         <li><code>datetime</code>: The date component of the <code>value</code>.</li>
         <li><code>datetimezone</code>: The date component of the local datetime equivalent of <code>value</code>.</li>
         <li><code>number</code>: The date component of the datetime equivalent the OLE Automation Date expressed by <code>value</code>.</li>
-      </ul>
+      
 If <code>value</code> is of any other type, an error is returned.
 # Category 
 Date
@@ -19,10 +19,12 @@ Convert <code>43910</code> to a <code>date</code> value.
 Date.From(43910)
 ```
 > #date(2020, 3, 20)
+
 ***
 Convert <code>#datetime(1899, 12, 30, 06, 45, 12)</code> to  a <code>date</code> value.
 ```
 Date.From(#datetime(1899, 12, 30, 06, 45, 12))
 ```
 > #date(1899, 12, 30)
+
 ***

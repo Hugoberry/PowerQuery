@@ -12,4 +12,5 @@ Pulls the details for three leads
 Marketo.Leads("https://100-AAA-999.mktorest.com/rest", {50, 2343, 88498})
 ```
 > A table with details for the supplied leads
+
 ***

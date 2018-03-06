@@ -7,7 +7,7 @@ Returns the offset at which the value <code>value</code> appears in the list <co
     An optional occurrence parameter <code>occurrence</code> can be specified.
 <ul>
    <li><code>occurrence</code>: The maximum number of occurrences to report.</li>
-</ul>
+
 # Category 
 List.Membership functions
 # Examples 
@@ -16,4 +16,5 @@ Find the position in the list {1, 2, 3} at which the value 3 appears.
 List.PositionOf({1, 2, 3}, 3)
 ```
 > 2
+
 ***

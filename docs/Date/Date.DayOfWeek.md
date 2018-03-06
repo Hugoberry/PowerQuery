@@ -9,7 +9,7 @@ Valid values are: Day.Sunday, Day.Monday, Day.Tuesday, Day.Wednesday, Day.Thursd
   <ul>
         <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value from which the day of the week is determined.</li>        
         <li><code>firstDayOfWeek</code>: A <code>Day</code> type representing the first day of the week for this calculation.</li>        
-      </ul>
+      
 # Category 
 Date
 # Examples 
@@ -18,10 +18,12 @@ Get which the day of the week  February 21st, 2011 falls on, with (default) Sund
 Date.DayOfWeek(#date(2011, 02, 21))
 ```
 > 1
+
 ***
 Get which day of the week February 21st, 2011 falls on, with Monday being the first day of the week.
 ```
 Date.DayOfWeek(#date(2011, 02, 21), Day.Monday)
 ```
 > 0
+
 ***

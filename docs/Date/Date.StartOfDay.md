@@ -13,4 +13,5 @@ Find the start of the day for October 10th, 2011, 8:00AM (<code>#datetime(2011, 
 Date.StartOfDay(#datetime(2011, 10, 10, 8, 0, 0))
 ```
 > #datetime(2011, 10, 10, 0, 0, 0)
+
 ***

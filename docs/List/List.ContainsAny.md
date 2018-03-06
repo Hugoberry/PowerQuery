@@ -13,10 +13,12 @@ Find out if the list {1, 2, 3, 4, 5} contains 3 or 9.
 List.ContainsAny({1, 2, 3, 4, 5}, {3, 9})
 ```
 > true
+
 ***
 Find out if the list {1, 2, 3, 4, 5} contains 6 or 7.
 ```
 List.ContainsAny({1, 2, 3, 4, 5}, {6, 7})
 ```
 > false
+
 ***

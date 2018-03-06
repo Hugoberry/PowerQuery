@@ -14,4 +14,5 @@ Type.OpenRecord(type [ A = number])
 > type [
     A = number, ...
 ]
+
 ***

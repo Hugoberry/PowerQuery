@@ -7,7 +7,7 @@ Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</cod
       <ul>
         <li><code>dateTime</code>: The <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to which years are added.</li>
         <li><code>numberOfYears</code>: The number of years to add.</li>        
-      </ul>
+      
 # Category 
 Date
 # Examples 
@@ -16,10 +16,12 @@ Add 4 years to the <code>date</code>, <code>datetime</code>, or <code>datetimezo
 Date.AddYears(#date(2011, 5, 14), 4)
 ```
 > #date(2015, 5, 14)
+
 ***
 Add 10 years to the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value representing the date and time of 5/14/2011 08:15:22 AM.
 ```
 Date.AddYears(#datetime(2011, 5, 14, 8, 15, 22), 10)
 ```
 > #datetime(2021, 5, 14, 8, 15, 22)
+
 ***

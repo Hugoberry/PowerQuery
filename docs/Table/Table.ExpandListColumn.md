@@ -12,4 +12,5 @@ Split the list column [Name] in the table.
 Table.ExpandListColumn(Table.FromRecords({[Name= {"Bob", "Jim", "Paul"}, Discount = .15]}), "Name")
 ```
 > Table.FromRecords({[Name="Bob", Discount=0.15],[Name="Jim", Discount=0.15],[Name="Paul", Discount=0.15]})
+
 ***

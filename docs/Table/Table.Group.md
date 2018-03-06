@@ -15,4 +15,5 @@ Group the table adding an aggregate column [total] which contains the sum of pri
 Table.Group(Table.FromRecords({[CustomerID= 1, price = 20], [CustomerID= 2, price = 10], [CustomerID= 2, price = 20], [CustomerID= 1, price = 10], [CustomerID= 3, price = 20], [CustomerID= 3, price = 5]}), "CustomerID", {"total",each List.Sum([price])})
 ```
 > Table.FromRecords({ [CustomerID= 1, total = 30], [CustomerID= 2, total = 30], [CustomerID= 3, total = 25]},  {"CustomerID", "total"})
+
 ***

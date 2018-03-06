@@ -11,7 +11,7 @@ Returns a table of SQL tables and views available in a Sybase database on server
 <li><code>CommandTimeout</code> : A duration which controls how long the server-side query is allowed to run before it is canceled. The default value is ten minutes.</li>
 <li><code>ConnectionTimeout</code> : A duration which controls how long to wait before abandoning an attempt to make a connection to the server. The default value is driver-dependent.</li>
 <li><code>HierarchicalNavigation</code> : A logical (true/false) that sets whether to view the tables grouped by their schema names (default is false).</li>
-</ul>
+
 
     The record parameter is specified as [option1 = value1, option2 = value2...] or [Query = "select ..."] for example.
 # Category 

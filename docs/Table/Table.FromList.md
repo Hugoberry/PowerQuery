@@ -24,10 +24,12 @@ Table.FromList({"a", "b", "c", "d"}, null, {"Letters"})
     "Letters"
 })
 
+
 ***
 Create a table from the list using the Record.FieldValues splitter with the resulting table having "CustomerID" and "Name" as column names.
 ```
 Table.FromList({[CustomerID=1,Name="Bob"],[CustomerID=2,Name="Jim"]} , Record.FieldValues, {"CustomerID", "Name"})
 ```
 > Table.FromRecords({[CustomerID=1,Name="Bob"],[CustomerID=2,Name="Jim"]})
+
 ***

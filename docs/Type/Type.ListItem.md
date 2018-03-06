@@ -12,4 +12,5 @@ Find item type from the list <code>{number}</code>.
 Type.ListItem(type {number})
 ```
 > type number 
+
 ***

@@ -12,4 +12,5 @@ Find the total hours spanned in #duration(5, 4, 3, 2).
 Duration.TotalHours(#duration(5, 4, 3, 2))
 ```
 > 124.05055555555555
+
 ***

@@ -12,4 +12,5 @@ Find the hour in #datetime(2011, 12, 31, 9, 15, 36).
 Time.Hour(#datetime(2011, 12, 31, 9, 15, 36))
 ```
 > 9
+
 ***

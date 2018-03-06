@@ -12,4 +12,5 @@ Find the number of values in the list {1, 2, 3}.
 List.Count({1, 2, 3})
 ```
 > 3
+
 ***

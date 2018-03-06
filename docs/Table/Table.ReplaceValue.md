@@ -16,6 +16,7 @@ Table.ReplaceValue(Table.FromRecords({[a = 1, b = "hello"], [a = 3, b = "goodbye
     "a",
     "b"
 })
+
 ***
 Replace the text "ur" with the text "or" in the table.
 ```
@@ -26,4 +27,5 @@ Table.ReplaceValue(Table.FromRecords({[a = 1, b = "hello"], [a = 3, b = "wurld"]
     "a",
     "b"
 })
+
 ***

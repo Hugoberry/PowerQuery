@@ -12,4 +12,5 @@ Get the Double <code>number</code> value of <code>"4"</code>.
 Double.From("4.5")
 ```
 > 4.5
+
 ***

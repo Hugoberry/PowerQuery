@@ -12,4 +12,5 @@ Find the total days spanned in #duration(5, 4, 3, 2).
 Duration.TotalDays(#duration(5, 4, 3, 2))
 ```
 > 5.1687731481481478
+
 ***

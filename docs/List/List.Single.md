@@ -13,10 +13,12 @@ Find the single value in the list {1}.
 List.Single({1})
 ```
 > 1
+
 ***
 Find the single value in the list {1, 2, 3}.
 ```
 List.Single({1, 2, 3})
 ```
 > [Expression.Error] There were too many elements in the enumeration to complete the operation.
+
 ***

@@ -12,4 +12,5 @@ Find the total seconds spanned in #duration(5, 4, 3, 2).
 Duration.TotalSeconds(#duration(5, 4, 3, 2))
 ```
 > 446582
+
 ***

@@ -12,4 +12,5 @@ Get the <code>percentage</code> value of <code>"12.3%"</code>.
 Percentage.From("12.3%")
 ```
 > 0.123
+
 ***

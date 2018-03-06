@@ -12,4 +12,5 @@ Encode a query string which contains some special characters.
 Uri.BuildQueryString([a="1", b="+$"])
 ```
 > "a=1&b=%2B%24"
+
 ***

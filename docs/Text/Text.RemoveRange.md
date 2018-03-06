@@ -13,10 +13,12 @@ Remove 1 character from the text value "ABEFC" at position 2.
 Text.RemoveRange("ABEFC", 2)
 ```
 > "ABFC"
+
 ***
 Remove two characters from the text value "ABEFC" starting at position 2.
 ```
 Text.RemoveRange("ABEFC", 2, 2)
 ```
 > "ABC"
+
 ***

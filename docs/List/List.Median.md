@@ -14,4 +14,5 @@ Find the median of the list <code>{5, 3, 1, 7, 9}</code>.
 List.Median({5, 3, 1, 7, 9})
 ```
 > 5
+
 ***

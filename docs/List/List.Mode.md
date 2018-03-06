@@ -13,10 +13,12 @@ Find the item that appears most frequently in the list <code>{"A", 1, 2, 3, 3, 4
 List.Mode({"A", 1, 2, 3, 3, 4, 5})
 ```
 > 3
+
 ***
 Find the item that appears most frequently in the list <code>{"A", 1, 2, 3, 3, 4, 5, 5}</code>.
 ```
 List.Mode({"A", 1, 2, 3, 3, 4, 5, 5})
 ```
 > 5
+
 ***

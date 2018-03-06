@@ -12,4 +12,5 @@ Get the Decimal <code>number</code> value of <code>"4.5"</code>.
 Decimal.From("4.5")
 ```
 > 4.5
+
 ***

@@ -12,4 +12,5 @@ Using case-insensitive Ordinal rules, compare "Abc" with "abc". Note "Abc" is le
 Comparer.OrdinalIgnoreCase("Abc", "abc")
 ```
 > 0
+
 ***

@@ -16,9 +16,9 @@ Returns the AST for the body of a function.
       <li><code>If</code></li>
       <li><code>FieldAccess</code></li>
       <li><code>NotImplemented</code></li>
-    </ul>
+    
   </li>
-</ul>
+
 </p>
 </p>An error is raised if an item expression AST cannot be returned for the body of <code>function</code>.</p>
 # Category 
@@ -38,4 +38,5 @@ ItemExpression.From(each _ <> null)
         Value = null
     ]
 ]
+
 ***

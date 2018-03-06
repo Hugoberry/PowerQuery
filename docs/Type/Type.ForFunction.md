@@ -12,4 +12,5 @@ Determine if the record <code>type [ A = number, ...]</code> is open.
 Type.ForFunction([ReturnType = type number, Parameters = [X = type number]], 1)
 ```
 > type  function (X as number) as number
+
 ***

@@ -17,6 +17,7 @@ in
     listFormat(binaryData)
 ```
 > {1, 2}
+
 ***
 Limit the number of byte read when reading a list of bytes to the byte value preceeding the list.
 ```
@@ -28,4 +29,5 @@ in
     listFormat(binaryData)
 ```
 > {2}
+
 ***

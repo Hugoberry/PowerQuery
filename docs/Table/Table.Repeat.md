@@ -28,4 +28,5 @@ Table.Repeat(Table.FromRecords({[a = 1, b = "hello"], [a = 3, b = "world"]}), 2)
     "a",
     "b"
 })
+
 ***

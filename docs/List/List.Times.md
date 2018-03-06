@@ -17,4 +17,5 @@ List.Times(#time(12, 0, 0), 4, #duration(0, 1, 0, 0))
     #time(14, 0, 0),
     #time(15, 0, 0)
 }
+
 ***

@@ -12,4 +12,5 @@ Accessing data
 Source = SparkPost.GetMetrics(3, "count_sent,count_bounce", "metrics/deliverability")
 ```
 > table
+
 ***

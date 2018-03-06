@@ -14,7 +14,7 @@ Returns a table of SQL tables and views available in a DB2 database on server <c
 <li><code>Implementation</code> : Specifies the internal database provider implementation to use. Valid values are: &quot;IBM&quot; and &quot;Microsoft&quot;.</li>
 <li><code>BinaryCodePage</code> : A number for the CCSID (Coded Character Set Identifier) to decode DB2 FOR BIT binary data into character strings. Applies to Implementation = &quot;Microsoft&quot;. Set 0 to disable conversion (default). Set 1 to convert based on database encoding. Set other CCSID number to convert to application encoding.</li>
 <li><code>PackageCollection</code> : Specifies a string value for package collection (default is &quot;NULLID&quot;) to enable use of shared packages required to process SQL statements. Applies to Implementation = &quot;Microsoft&quot;.</li>
-</ul>
+
 
     The record parameter is specified as [option1 = value1, option2 = value2...] or [Query = "select ..."] for example.
 # Category 

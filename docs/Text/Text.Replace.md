@@ -12,4 +12,5 @@ Replace every occurrence of "the" in a sentence with "a".
 Text.Replace("the quick brown fox jumps over the lazy dog", "the", "a")
 ```
 > "a quick brown fox jumps over a lazy dog"
+
 ***

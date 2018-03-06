@@ -13,10 +13,12 @@ Find the position of "W" in text "Hello, World!".
 Text.PositionOfAny("Hello, World!", {"W"})
 ```
 > 7
+
 ***
 Find the position of "W" or "H" in text "Hello, World!".
 ```
 Text.PositionOfAny("Hello, World!", {"H","W"})
 ```
 > 0
+
 ***

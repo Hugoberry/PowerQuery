@@ -12,4 +12,5 @@ Remove the duplicates from the list {1, 1, 2, 3, 3, 3}.
 List.Distinct({1, 1, 2, 3, 3, 3})
 ```
 > {1, 2, 3}
+
 ***

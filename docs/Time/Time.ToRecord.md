@@ -6,7 +6,7 @@ Returns a record containing the Time value's parts.
 Returns a record containing the parts of the given Time value, <code>time</code>.
  <ul>
         <li><code>time</code>: A <code>time</code> value for from which the record of its parts is to be calculated.</li>    
-      </ul>
+      
 # Category 
 Time
 # Examples 
@@ -19,4 +19,5 @@ Time.ToRecord(#time(11, 56, 2))
       Minute = 56,
       Second = 2
 ]
+
 ***

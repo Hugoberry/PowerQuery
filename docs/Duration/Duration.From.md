@@ -7,7 +7,7 @@ Returns a <code>duration</code> value from the given <code>value</code>. If the 
       <ul>
         <li><code>text</code>: A <code>duration</code> value from textual elapsed time forms (d.h:m:s). See <code>Duration.FromText</code> for details.</li>        
         <li><code>number</code>: A <code>duration</code> equivalent to the number of whole and fractional days expressed by <code>value</code>.</li>
-      </ul>
+      
 If <code>value</code> is of any other type, an error is returned.
 # Category 
 Duration
@@ -17,4 +17,5 @@ Convert <code>2.525</code> into a <code>duration</code> value.
 Duration.From(2.525)
 ```
 > #duration(2, 12, 36, 0)
+
 ***
