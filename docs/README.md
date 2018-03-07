@@ -3,7 +3,6 @@
 The Power Query M formula language is optimized for building highly flexible data mashup queries. It's a functional, case sensitive language similar to F#. Power Query Formula Language is used in a number of Microsoft products such as Power BI Desktop, Excel, and Analysis Services. 
 
 
-
 ## Power Query M language specification
  
 The specification describes the values, expressions, environments and variables, identifiers, and the evaluation model that form the Power Query M language’s basic concepts.
