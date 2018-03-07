@@ -3,7 +3,7 @@ This is a repository that contains the automated scrips for building an up to da
 
 The documentation is sourced from #shared structure in Power BI desktop and is published to GitBooks. It is easily accessible via https://www.powerquery.io/ 
 
-## Foldure structure
+## Folder structure
 
 ```
 │   book.json                -- GitBook configuration
