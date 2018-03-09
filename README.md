@@ -23,3 +23,9 @@ The documentation is sourced from #shared structure in Power BI desktop and is p
     │   │
 ...
 ```
+
+## How to run it
+1. Open `dox.pbix` and hit refresh data. Leave the *Power BI Desktop* running
+2. Run `dox.ps1` PowerShell script
+3. Check with git for any documentation changes `git status`
+4. Commit and push the changes to the `published` branch
