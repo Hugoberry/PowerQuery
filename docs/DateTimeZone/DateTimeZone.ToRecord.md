@@ -5,7 +5,7 @@ Returns a record containing the datetimezone value's parts.
 # Description 
 Returns a record containing the parts of the given datetimezone value, <code>dateTimeZone</code>.
  <ul>
-        <li><code>dateTimeZone</code>: A <code>datetimezone</code> value for from which the record of its parts is to be calculated.</li>    
+        <li><code>dateTimeZone</code>: A <code>datetimezone</code> value for from which the record of its parts is to be calculated.</li>
       
 # Category 
 DateTimeZone

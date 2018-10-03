@@ -18,6 +18,7 @@ Returns a table of OData feeds offered by an OData service from a uri <code>serv
     <li> <code>MoreColumns</code> : A logical (true/false) when set to true, adds a "More Columns" column to each entity feed containing open types and polymorphic types. This will contain the fields not declared in the base type. When false, this field is not present. Defaults to false.</li>
     <li> <code>IncludeAnnotations</code> : A comma separated list of namespace qualified term names or patterns to include with "*" as a wildcard. By default, none of the annotations are included.</li>
     <li> <code>IncludeMetadataAnnotations</code> : A comma separated list of namespace qualified term names or patterns to include on metadata document requests, with "*" as a wildcard. By default, includes the same annotations as IncludeAnnotations.</li>
+    <li> <code>Implementation</code> : Specifies the implementation of the OData connector to use. Valid values are "2.0" or null.</li>
     
 # Category 
 Accessing data

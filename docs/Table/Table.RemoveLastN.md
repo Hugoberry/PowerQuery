@@ -4,7 +4,7 @@ Returns a table with the last N rows removed.
 
 # Description 
 Returns a table that does not contain the last <code>countOrCondition</code> rows of the table <code>table</code>.
-        The number of rows removed depends on the optional parameter <code>countOrCondition</code>. 
+        The number of rows removed depends on the optional parameter <code>countOrCondition</code>.
     <ul>
     <li> If <code>countOrCondition</code> is omitted only the last row is removed. </li>
     <li> If <code>countOrCondition</code> is a number, that many rows (starting at the bottom) will be removed. </li>

@@ -3,7 +3,7 @@ Returns a list of offsets for the input.
 > _function (<code>list</code> as list) as list_
 
 # Description 
-Returns a list of offsets for the input list <code>list</code>.  
+Returns a list of offsets for the input list <code>list</code>.
     When using List.Transform to change a list, the list of positions can be used to give the transform access to the position.
 # Category 
 List.Selection

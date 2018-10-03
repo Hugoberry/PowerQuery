@@ -3,7 +3,7 @@ Returns the first value of the day.
 > _function (optional <code>dateTime</code> as nullable any) as nullable any_
 
 # Description 
-Returns the first value of the day <code>dateTime</code>.  
+Returns the first value of the day <code>dateTime</code>.
     <code>dateTime</code> must be a <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value.
 # Category 
 Date

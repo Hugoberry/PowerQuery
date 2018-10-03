@@ -3,9 +3,9 @@ Returns a record containing the parts of the duration.
 > _function (<code>duration</code> as duration) as record_
 
 # Description 
-Returns a record containing the parts the duration value, <code>duration</code>. 
+Returns a record containing the parts the duration value, <code>duration</code>.
   <ul>
-        <li><code>duration</code>: A <code>duration</code> from which the record is created.</li>     
+        <li><code>duration</code>: A <code>duration</code> from which the record is created.</li>
       
 # Category 
 Duration

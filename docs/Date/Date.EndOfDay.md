@@ -5,7 +5,7 @@ Returns the last value of the day.
 # Description 
 Returns a <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value representing the end of the day in <code>dateTime</code>. Time zone information is preserved.
       <ul>
-        <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value from from which the end of the day is calculated.</li>       
+        <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value from from which the end of the day is calculated.</li>
       
 # Category 
 Date

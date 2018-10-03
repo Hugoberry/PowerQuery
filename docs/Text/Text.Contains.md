@@ -13,7 +13,7 @@ Detects whether the text <code>text</code> contains the text <code>substring</co
       <ul>
         <li><code>Comparer.Ordinal</code>: Used to perform an exact ordinal comparison</li>
         <li><code>Comparer.OrdinalIgnoreCase</code>: Used to perform an exact ordinal case-insensitive comparison</li>
-        <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>      
+        <li> <code>Comparer.FromCulture</code>: Used to perform a culture aware comparison</li>
       
 # Category 
 Text.Membership

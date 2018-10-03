@@ -5,7 +5,7 @@ Creates a time from the given value.
 # Description 
 Returns a <code>time</code> value from the given <code>value</code>. If the given <code>value</code> is <code>null</code>, <code>Time.From</code> returns <code>null</code>.  If the given <code>value</code> is <code>time</code>, <code>value</code> is returned. Values of the following types can be converted to a <code>time</code> value:
       <ul>
-        <li><code>text</code>: A <code>time</code> value from textual representation. See <code>Time.FromText</code> for details.</li>        
+        <li><code>text</code>: A <code>time</code> value from textual representation. See <code>Time.FromText</code> for details.</li>
         <li><code>datetime</code>: The time component of the <code>value</code>.</li>
         <li><code>datetimezone</code>: The time component of the local datetime equivalent of <code>value</code>.</li>
         <li><code>number</code>: A <code>time</code> equivalent to the number of fractional days expressed by <code>value</code>. If <code>value</code> is negative or greater or equal to 1, an error is returned.</li>

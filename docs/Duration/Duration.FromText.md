@@ -3,7 +3,7 @@ Returns a duration value from textual elapsed time forms (d.h:m:s).
 > _function (optional <code>text</code> as nullable any) as nullable any_
 
 # Description 
-Returns a duration value from the specified text, <code>text</code>. The following formats can be parsed by this function: 
+Returns a duration value from the specified text, <code>text</code>. The following formats can be parsed by this function:
  <ul>
         <li>(-)hh:mm(:ss(.ff)) </li>
         <li>(-)ddd(.hh:mm(:ss(.ff))) </li>

@@ -3,10 +3,10 @@ Decompresses a binary value using the given compression type.
 > _function (optional <code>binary</code> as nullable any, <code>compressionType</code> as number) as nullable any_
 
 # Description 
-Decompresses a binary value using the given compression type.  The result of this call is a decompressed copy of the input. Compression types include: 
+Decompresses a binary value using the given compression type.  The result of this call is a decompressed copy of the input. Compression types include:
   <ul>
-        <li><code>Compression.GZip</code></li>        
-        <li><code>Compression.Deflate</code></li>  
+        <li><code>Compression.GZip</code></li>
+        <li><code>Compression.Deflate</code></li>
       
 # Category 
 Binary

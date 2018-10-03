@@ -7,7 +7,7 @@ Creates a <code>function type</code> from <code>signature</code>, a record of <c
 # Category 
 Type
 # Examples 
-Determine if the record <code>type [ A = number, ...]</code> is open.
+Creates the type for a function that takes a number parameter named X and returns a number.
 ```
 Type.ForFunction([ReturnType = type number, Parameters = [X = type number]], 1)
 ```
