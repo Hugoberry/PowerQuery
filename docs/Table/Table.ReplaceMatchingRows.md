@@ -3,7 +3,7 @@ Replaces all the specified rows with the provided row(s).
 > _function (<code>table</code> as table, <code>replacements</code> as list, optional <code>equationCriteria</code> as nullable any) as table_
 
 # Description 
-Replaces all the specified rows in the <code>table</code> with the provided ones. The rows to replace and the replacements are specified in <code>replacements</code>, using {old, new} formatting. 
+Replaces all the specified rows in the <code>table</code> with the provided ones. The rows to replace and the replacements are specified in <code>replacements</code>, using {old, new} formatting.
     An optional <code>equationCriteria</code> parameter may be specified to control comparison between the rows of the table.
 # Category 
 Table.Membership

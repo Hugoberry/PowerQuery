@@ -16,8 +16,8 @@ Returns the contents of the CSV document as a table.
      <li> <code>Delimiter</code>: The column delimiter. Default: <code>","</code>.</li>
      <li> <code>Columns</code>: Can be null, the number of columns, a list of column names, or a table type. If the number of columns is lower than the number found in the input, the additional columns will be ignored. If the number of columns is higher than the number found in the input, the additional columns will be null. When not specified, the number of columns will be determined by what is found in the input.</li>
      <li> <code>Encoding</code>: The text encoding of the file. Default: 65001 (UTF-8).</li>
-     <li> <code>CsvStyle</code>: Specifies the significance of quotes. <code>CsvStyle.QuoteAlways</code> (default): Quotes in a field are always significant, regardless of where they appear. <code>CsvStyle.QuoteAfterDelimiter</code>: Quotes in a field are only significant immediately following the delimiter.</li>
-     <li> <code>QuoteStyle</code>: Specifies the quote style / field qualifier to use when values contain delimiters. <code>QuoteStyle.None</code> (default): Field qualifiers are not used. <code>QuoteStyle.Csv</code>: Quoting follows the format specified in RFC 4180. A double quote character is used to demarcate such regions, and a pair of double quote characters is used to indicate a single double quote character within such a region.</li>
+     <li> <code>CsvStyle</code>: Specifies how quotes are handled. <code>CsvStyle.QuoteAfterDelimiter</code> (default): Quotes in a field are only significant immediately following the delimiter. <code>CsvStyle.QuoteAlways</code>: Quotes in a field are always significant, regardless of where they appear.</li>
+     <li> <code>QuoteStyle</code>: Specifies how quoted line breaks are handled. <code>QuoteStyle.None</code> (default): All line breaks are treated as the end of the current row, even when they occur inside a quoted value. <code>QuoteStyle.Csv</code>: Quoted line breaks are treated as part of the data, not as the end of the current row.</li>
     
 # Category 
 Accessing data

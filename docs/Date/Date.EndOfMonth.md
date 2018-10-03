@@ -5,7 +5,7 @@ Returns the last day of the month.
 # Description 
 Returns the last day of the month in <code>dateTime</code>.
       <ul>
-        <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value from which the end of the month is calculated</li>       
+        <li><code>dateTime</code>: A <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value from which the end of the month is calculated</li>
       
 # Category 
 Date

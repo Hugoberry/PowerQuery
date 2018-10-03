@@ -3,7 +3,7 @@ Creates a table from a list of columns and specified values.
 > _function (<code>lists</code> as list, optional <code>columns</code> as nullable any) as table_
 
 # Description 
-Creates a table of type <code>columns</code> from a list <code>lists</code> containing nested lists with the column names and values. 
+Creates a table of type <code>columns</code> from a list <code>lists</code> containing nested lists with the column names and values.
     If some columns have more values then others, the missing values will be filled with the default value, 'null', if the columns are nullable.
 # Category 
 Table.Table construction

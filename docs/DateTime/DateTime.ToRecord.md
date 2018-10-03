@@ -5,7 +5,7 @@ Returns a record containing the datetime value's parts.
 # Description 
 Returns a record containing the parts of the given datetime value, <code>dateTime</code>.
  <ul>
-        <li><code>dateTime</code>: A <code>datetime</code> value for from which the record of its parts is to be calculated.</li>    
+        <li><code>dateTime</code>: A <code>datetime</code> value for from which the record of its parts is to be calculated.</li>
       
 # Category 
 DateTime

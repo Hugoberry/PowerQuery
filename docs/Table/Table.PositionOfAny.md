@@ -3,7 +3,7 @@ Returns the position or positions of any of the specified rows within the table.
 > _function (<code>table</code> as table, <code>rows</code> as list, optional <code>occurrence</code> as nullable any, optional <code>equationCriteria</code> as nullable any) as nullable any_
 
 # Description 
-Returns the row(s) position(s) from the <code>table</code> of the first occurrence of the list of <code>rows</code>. Returns -1 if no occurrence is found.  
+Returns the row(s) position(s) from the <code>table</code> of the first occurrence of the list of <code>rows</code>. Returns -1 if no occurrence is found.
     <ul>
     <li><code>table</code>: The input table.</li>
        <li><code>rows</code>:  The list of rows in the table to find the positions of.</li>

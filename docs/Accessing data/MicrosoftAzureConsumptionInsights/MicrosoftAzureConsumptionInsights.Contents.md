@@ -91,7 +91,7 @@ Assuming today is 2017-6-15, get detail charges for June 2017 and May 2017
 > Function will return data between 2017-5-1 and 2017-6-15
 
 ***
-Assuming today is 2017-7-3, get detail charges for July 2016
+Assuming today is 2017-07-03, get detail charges for July 2016
 ```
 
       let  
@@ -102,7 +102,7 @@ Assuming today is 2017-7-3, get detail charges for July 2016
           result
     
 ```
-> Function will return data between 2016-7-1 and 2016-7-31
+> Function will return data between 2016-07-01 and 2016-07-31
 
 ***
 Assuming today is 2017-7-13, get balance summaries for past 10 month plus 13 days of this month

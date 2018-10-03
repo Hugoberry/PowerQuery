@@ -6,7 +6,7 @@ Adds the specified months to the date.
 Returns the <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> result from adding <code>numberOfMonths</code> months to the <code>datetime</code> value <code>dateTime</code>.
       <ul>
         <li><code>dateTime</code>: The <code>date</code>, <code>datetime</code>, or <code>datetimezone</code> value to which months are being added.</li>
-        <li><code>numberOfMonths</code>: The number of months to add.</li>        
+        <li><code>numberOfMonths</code>: The number of months to add.</li>
       
 # Category 
 Date

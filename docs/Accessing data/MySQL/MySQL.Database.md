@@ -5,6 +5,7 @@ Returns a table of SQL tables, views, and stored scalar functions available in a
 # Description 
 Returns a table of SQL tables, views, and stored scalar functions available in a MySQL database on server <code>server</code> in the database instance named <code>database</code>. The port may be optionally specified with the server, separated by a colon. An optional record parameter, <code>options</code>, may be specified to control the following options:
     <ul>
+<li><code>Encoding</code> : A TextEncoding value that specifies the character set used to encode all queries sent to the server (default is null).</li>
 <li><code>CreateNavigationProperties</code> : A logical (true/false) that sets whether to generate navigation properties on the returned values (default is true).</li>
 <li><code>NavigationPropertyNameGenerator</code> : A function that is used for the creation of names for navigation properties.</li>
 <li><code>Query</code> : A native SQL query used to retrieve data. If the query produces multiple result sets, only the first will be returned.</li>

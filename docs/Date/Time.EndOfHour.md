@@ -5,7 +5,7 @@ Returns the last value of the hour.
 # Description 
 Returns a <code>time</code>, <code>datetime</code>, or <code>datetimezone</code> value representing the end of the hour in <code>dateTime</code>, including fractional seconds. Time zone information is preserved.
       <ul>
-        <li><code>dateTime</code>: A <code>time</code>, <code>datetime</code>, or <code>datetimezone</code> value from which the end of the hour is calculated.</li>       
+        <li><code>dateTime</code>: A <code>time</code>, <code>datetime</code>, or <code>datetimezone</code> value from which the end of the hour is calculated.</li>
       
 # Category 
 Date
