@@ -3,7 +3,7 @@
     "root": "./docs",
     "structure": {
         "readme": "./docs/README.md",
-        "readme": "./docs/SUMMARY.md"
+        "summary": "./docs/SUMMARY.md"
      },    
     "pluginsConfig": {
         "theme-api": {
