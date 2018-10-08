@@ -4,5 +4,23 @@
     "structure": {
         "readme": "gitbook_README.md",
         "summary": "SUMMARY.md"
-     }
+     },    
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "go",
+                    "name": "Go"
+                }
+            ]
+        },
+        "disqus":{
+            "shortName": "powerquery"
+        }
+    }
 }
