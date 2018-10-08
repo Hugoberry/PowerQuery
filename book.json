@@ -2,7 +2,7 @@
     "plugins": [ "theme-api","collapsible-chapters","disqus"],
     "root": "./docs",
     "structure": {
-        "readme": "README.md",
+        "readme": "gitbook_README.md",
         "summary": "SUMMARY.md"
      },    
     "pluginsConfig": {
