@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api","collapsible-chapters","disqus"],
+    "plugins": ["collapsible-chapters"],
     "root": "./docs",
     "structure": {
         "readme": "gitbook_README.md",
