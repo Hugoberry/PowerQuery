@@ -1,6 +1,10 @@
 {
     "plugins": [ "theme-api","collapsible-chapters","disqus"],
     "root": "./docs",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+     },    
     "pluginsConfig": {
         "theme-api": {
             "languages": [
