@@ -1,4 +1,7 @@
 # Power Query M Reference
+> [!CAUTION]
+> This repository has been archived and succeeded by [Hugoberry/powerquery-io](https://github.com/Hugoberry/powerquery-io)
+
 This is a repository that contains the automated scrips for building an up to date Markdown verion of the Power Query M reference documentation. 
 
 The documentation is sourced from #shared structure in Power BI desktop and is published to GitBooks. It is easily accessible via https://www.powerquery.io/ 
